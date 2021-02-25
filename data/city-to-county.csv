@@ -1,0 +1,1535 @@
+,county,city,state
+0,Mason County,Shelton,WA
+1,Washington County,Aloha,OR
+2,Sedgwick County,Wichita,KS
+3,San Francisco County,San Francisco,CA
+4,Weld County,Evans,CO
+5,Logan County,Guthrie,OK
+6,Maricopa County,Chandler,AZ
+7,Saline County,Assaria,KS
+8,Des Moines County,Burlington,IA
+9,Tioga County,Knoxville,PA
+10,San Joaquin County,Stockton,CA
+11,Brazoria County,Freeport,TX
+12,Franklin County,Columbus,OH
+13,Polk County,Des Moines,IA
+14,Orleans Parish,New Orleans,LA
+15,Yellowstone County,Huntley,MT
+16,Salt Lake County,Salt Lake City,UT
+17,Union County,Strong,AR
+18,Davis County,Syracuse,UT
+19,Lonoke County,England,AR
+20,El Paso County,El Paso,TX
+21,Douglas County,Arcola,IL
+22,Los Angeles County,South Gate,CA
+23,Clark County,North Las Vegas,NV
+24,Bernalillo County,Albuquerque,NM
+25,Atascosa County,Jourdanton,TX
+26,Ramsey County,St. Paul,MN
+27,Franklin County,Franklin County,MO
+28,Chesapeake city,Chesapeake,VA
+29,Middlesex County,Old Bridge,NJ
+30,Brazoria County,Lake Jackson,TX
+31,Salt Lake County,Draper,UT
+32,Marion County,Indianapolis,IN
+33,Arapahoe County,Aurora,CO
+34,Hennepin County,Bloomington,MN
+35,Solano County,Fairfield,CA
+36,Evangeline Parish,Evangeline Parish,LA
+37,Kaufman County,Mabank,TX
+38,Alameda County,Fremont,CA
+39,Muskogee County,Muskogee,OK
+40,Los Angeles County,Los Angeles,CA
+41,Tarrant County,Fort Worth,TX
+42,Pinal County,Maricopa,AZ
+43,Magoffin County,Gunlock,KY
+44,Norfolk County,Weymouth,MA
+45,Maricopa County,Scottsdale,AZ
+46,Riverside County,Hemet,CA
+47,Starr County,Chapeno,TX
+48,St. Louis city,St. Louis,MO
+49,Rockingham County,Derry,NH
+50,Hudspeth County,Sierra Blanca,TX
+51,Gregg County,Longview,TX
+52,Travis County,Austin,TX
+53,Broward County,Fort Lauderdale,FL
+54,Hockley County,Levelland,TX
+55,Madison County,Rexburg,ID
+56,Baltimore city,Baltimore,MD
+57,Pueblo County,Pueblo,CO
+58,Camden County,Winslow,NJ
+59,Denver County,Denver,CO
+60,Hennepin County,New Hope,MN
+61,Lynn County,Tahoka,TX
+62,Kern County,Wasco,CA
+63,Maricopa County,Phoenix,AZ
+64,Greenlee County,Morenci,AZ
+65,Douglas County,Omaha,NE
+66,Montague County,Sunset,TX
+67,Fort Bend County,Rosenberg,TX
+68,Payne County,Stillwater,OK
+69,Kent County,Wyoming,MI
+70,Yellowstone County,Billings,MT
+71,Harris County,Houston,TX
+72,Baltimore County,Randallstown,MD
+73,Bay County,Bay City,MI
+74,Dauphin County,Hummelstown,PA
+75,San Bernardino County,Apple Valley,CA
+76,Alameda County,Emeryville,CA
+77,Contra Costa County,Antioch,CA
+78,Coffee County,Douglas,GA
+79,Leon County,Tallahassee,FL
+80,Orange County,Orlando,FL
+81,Maricopa County,Tempe,AZ
+82,McLennan County,Lorena,TX
+83,Shelby County,Memphis,TN
+84,San Bernardino County,Chino,CA
+85,Oklahoma County,Oklahoma City,OK
+86,Riverside County,Calimesa,CA
+87,Gaston County,Gastonia,NC
+88,Anchorage,Anchorage,AK
+89,Rockland County,New City,NY
+90,Orange County,Orange County,FL
+91,Montague County,Nocona,TX
+92,Aroostook County,Smyrna,ME
+93,Dallas County,Dallas,TX
+94,Franklin County,Pasco,WA
+95,Shelby County,Whitehaven,TN
+96,Garfield County,New Castle,CO
+97,Santa Clara County,San Jose,CA
+98,Tallapoosa County,Dadeville,AL
+99,San Bernardino County,San Bernardino,CA
+100,Wyandotte County,Kansas City,KS
+101,Berks County,Reading,PA
+102,Carroll County,McLemoresville,TN
+103,Pinal County,San Manuel,AZ
+104,Baltimore County,Essex,MD
+105,Webb County,Laredo,TX
+106,Miami-Dade County,Miami Gardens,FL
+107,Tishomingo County,Iuka,MS
+108,Clackamas County,Colton,OR
+109,Pima County,Marana,AZ
+110,Ada County,Boise,ID
+111,Utah County,Provo,UT
+112,Gaston County,Gaston County,NC
+113,Greene County,Springfield,MO
+114,Eaton County,Eaton Rapids Township,MI
+115,Middlesex County,Tewksbury,MA
+116,Val Verde County,Del Rio,TX
+117,Mecklenburg County,Charlotte,NC
+118,Tarrant County,Euless,TX
+119,Jefferson County,Homewood,AL
+120,Jefferson County,Birmingham,AL
+121,Lincoln County,Ruidoso,NM
+122,Brevard County,Palm Bay,FL
+123,Lehigh County,Allentown,PA
+124,Livingston Parish,Denham Springs,LA
+125,Cobb County,Powder Springs,GA
+126,Habersham County,Clarkesville,GA
+127,Elmore County,Millbrook,AL
+128,Brown County,Green Bay,WI
+129,Clark County,Las Vegas,NV
+130,Vigo County,Terre Haute,IN
+131,Polk County,Lakeland,FL
+132,Harrison County,Gulfport,MS
+133,Worth County,Sylvester,GA
+134,Orange County,Santa Ana,CA
+135,Anderson County,Pelzer,SC
+136,Eaton County,Roxand Township,MI
+137,St Louis city,St Louis,MO
+138,Pima County,Tucson,AZ
+139,Boone County,Columbia,MO
+140,Edgecombe County,Tarboro,NC
+141,La Paz County,La Paz County,AZ
+142,Marshall County,Barton,MS
+143,Will County,Joilet,IL
+144,Wicomico County,Salisbury,MD
+145,Volusia County,Deltona,FL
+146,Milwaukee County,Milwaukee,WI
+147,Los Angeles County,Burbank,CA
+148,Lancaster County,Lincoln,NE
+149,Putnam County,Putnam Hall,FL
+150,Dane County,Madison,WI
+151,New Castle County,Claymont,DE
+152,Orange County,Anaheim,CA
+153,Transylvania County,Brevard,NC
+154,Moffat County,Dinosaur,CO
+155,Brevard County,Cocoa,FL
+156,Fulton County,Atlanta,GA
+157,East Baton Rouge Parish,Baton Rouge,LA
+158,Chatham County,Port Wentworth,GA
+159,San Bernardino County,Ontario,CA
+160,Cuyahoga County,Cleveland,OH
+161,Mohave County,Kingman,AZ
+162,Baldwin County,Bay Minette,AL
+163,Jefferson County,Hoover,AL
+164,Cecil County,Elkton,MD
+165,District of Columbia,Washington,DC
+166,Jackson County,Kansas City,MO
+167,San Bernardino County,Fontana,CA
+168,Contra Costa County,Walnut Creek,CA
+169,Napa County,Napa,CA
+170,Bexar County,San Antonio,TX
+171,Brooke County,Follansbee,WV
+172,Kenosha County,Kenosha,WI
+173,Lincoln County,Ruth,MS
+174,Polk County,Onalaska,TX
+175,Sacramento County,Sacramento,CA
+176,Jackson County,Medford,OR
+177,Bladen County,Dublin,NC
+178,Kern County,Bakersfield,CA
+179,Maricopa County,Glendale,AZ
+180,Duval County,Jacksonville,FL
+181,Whatcom County,Sumas,WA
+182,Lawrence County,Lawrence County,AL
+183,Canyon County,Middleton,ID
+184,Apache County,Red Valley,AZ
+185,Coal County,Coal County,OK
+186,Orleans County,Clarendon,NY
+187,Clay County,Harmony,IN
+188,Yavapai County,Cottonwood,AZ
+189,Solano County,Vallejo,CA
+190,Multnomah County,Portland,OR
+191,Suffolk County,Islip,NY
+192,Santa Clara County,Santa Clara,CA
+193,Fond du Lac County,Fond du Lac,WI
+194,Portsmouth city,Portsmouth,VA
+195,Cobb County,Smyrna,GA
+196,Florence County,Johnsonville,SC
+197,Los Angeles County,South Los Angeles,CA
+198,Johnson County,Gardner,KS
+199,Los Angeles County,Wilmington,CA
+200,San Diego County,Encinitas,CA
+201,St. Lucie County,Fort Pierce,FL
+202,Worcester County,Webster,MA
+203,Ventura County,Oxnard,CA
+204,Mineral County,Fort Ashby,WV
+205,Suffolk County,Boston,MA
+206,Pike County,Jasper,OH
+207,Hardin County,Elizabethtown,KY
+208,Lane County,Eugene,OR
+209,Clark County,Boulder City,NV
+210,Hillsborough County,Carollwood,FL
+211,Harris County,Baytown,TX
+212,Anne Arundel County,Fort Meade,MD
+213,Los Angeles County,Hawthorne,CA
+214,Mercer County,Hamilton,NJ
+215,Rock Island County,Rock Island,IL
+216,Massac County,Metropolis,IL
+217,Tulsa County,Tulsa,OK
+218,Rapides Parish,Pineville,LA
+219,Winchester city,Winchester,VA
+220,Lake County,Zion,IL
+221,Charleston County,North Charleston,SC
+222,Orange County,Orange,CA
+223,Santa Fe County,Edgewood,NM
+224,Kern County,Tehachapi,CA
+225,Jefferson Parish,Harvey,LA
+226,Jefferson County,Jefferson County,ID
+227,Pottawatomie County,Pottawatomie County,OK
+228,Lowndes County,Valdosta,GA
+229,Santa Clara County,Sunnyvale,CA
+230,Creek County,Kellyville,OK
+231,Santa Rosa County,Navarre,FL
+232,White County,Monon,IN
+233,Adams County,Straban Township,PA
+234,Spartanburg County,Boiling Springs,SC
+235,Tehama County,Corning,CA
+236,Shawnee County,Topeka,KS
+237,Tulsa County,Sand Springs,OK
+238,Sampson County,Salemburg,NC
+239,Madison County,Alton,IL
+240,Dallas County,DeSoto,TX
+241,Craighead County,Jonesboro,AR
+242,Miami-Dade County,Miami,FL
+243,Spartanburg County,Spartanburg,SC
+244,Fremont County,Ca�on City,CO
+245,San Bernardino County,Montclair,CA
+246,Kern County,Shafter,CA
+247,Cook County,Chicago,IL
+248,St. Louis County,Jennings,MO
+249,Bay County,Panama City,FL
+250,Jessamine County,Wilmore,KY
+251,Cheyenne County,Sidney,NE
+252,Hidalgo County,Mission,TX
+253,Mercer County,Trenton,NJ
+254,Pierce County,Lakewood,WA
+255,Lexington County,Irmo,SC
+256,Cochise County,Bisbee,AZ
+257,Queens County,Queens,NY
+258,Boulder County,Eldorado Springs,CO
+259,Los Angeles County,Sylmar,CA
+260,McCurtain County,Rufe,OK
+261,Los Angeles County,Long Beach,CA
+262,Sonoma County,Windsor,CA
+263,Ottawa County,Miami,OK
+264,Las Animas County,Trinidad,CO
+265,Victoria County,Victoria,TX
+266,New York city,New York,NY
+267,Lake County,Clermont,FL
+268,Adair County,Bunch,OK
+269,Kings County,Kings County,CA
+270,Orange County,Fountain Valley,CA
+271,Wayne County,Detroit,MI
+272,Richland County,Mansfield,OH
+273,Williamson County,Marion,IL
+274,Grady County,Chickasha,OK
+275,Maricopa County,Mesa,AZ
+276,Sacramento County,Elk Grove,CA
+277,Emporia city,Emporia,VA
+278,Davidson County,Nashville,TN
+279,San Diego County,San Diego,CA
+280,Kent County,Smyrna,DE
+281,Duchesne County,Roosevelt,UT
+282,Dallas County,Garland,TX
+283,Perry County,Chavies,KY
+284,Benton County,Kennewick,WA
+285,Los Angeles County,Venice,CA
+286,Los Angeles County,South El Monte,CA
+287,Pulaski County,Pulaski,VA
+288,Wake County,Wake Forest,NC
+289,Gwinnett County,Lawrenceville,GA
+290,Dutchess County,Beacon,NY
+291,Los Angeles County,Cerritos,CA
+292,Pinal County,Kearny,AZ
+293,Oswego County,Constantia,NY
+294,Anoka County,Fridley,MN
+295,Pierce County,Tacoma,WA
+296,Prince George's County,Landover,MD
+297,St. Johns County,St. Augustine,FL
+298,Honolulu County,Honolulu,HI
+299,Orange County,Rancho Santa Margarita,CA
+300,Kalamazoo County,Portage,MI
+301,Winnebago County,Rockford,IL
+302,Cook County,Harvey,IL
+303,Pinellas County,St. Petersburg,FL
+304,Arlington County,Arlington,VA
+305,Lonoke County,Cabot,AR
+306,Mesa County,Grand Junction,CO
+307,Lancaster County,Lancaster,PA
+308,Summit County,Green,OH
+309,Daviess County,Owensboro,KY
+310,Campbell County,Gillette,WY
+311,Broward County,Ft. Lauderdale,FL
+312,Bergen County,Hackensack,NJ
+313,Charleston County,Charleston,SC
+314,Somerset County,Somerset,PA
+315,Pettis County,Sedalia,MO
+316,Apache County,Eagar,AZ
+317,Madison County,Huntsville,AL
+318,Snohomish County,Snohomish,WA
+319,Bossier Parish,Bossier City,LA
+320,Monmouth County,Ideal Beach,NJ
+321,Oklahoma County,Edmond,OK
+322,Putnam County,Rockville,GA
+323,San Diego County,Alpine,CA
+324,Lancaster County,Lancaster,SC
+325,Adams County,Northglenn,CO
+326,Carroll County,Carrollton,GA
+327,Wayne County,Trenton,MI
+328,Bergen County,Lyndhurst,NJ
+329,Okmulgee County,Okmulgee County,OK
+330,Josephine County,Wilderville,OR
+331,Anderson County,Palestine,TX
+332,Monroe County,Greece,NY
+333,Suffolk County,Roslindale,MA
+334,Tarrant County,Azle,TX
+335,Kern County,Delano,CA
+336,Valencia County,Los Lunas,NM
+337,Ellis County,Ellis County,TX
+338,Liberty County,Fuqua,TX
+339,Sussex County,Byram,NJ
+340,Santa Barbara County,Santa Maria,CA
+341,Monongalia County,Morgantown,WV
+342,Alameda County,Oakland,CA
+343,Sarasota County,North Port,FL
+344,Santa Cruz County,Watsonsville,CA
+345,Midland County,Midland,TX
+346,Arapahoe County,Strasburg,CO
+347,Brevard County,Melbourne,FL
+348,Cowlitz County,Woodland,WA
+349,Marion County,Beech Grove,IN
+350,Maricopa County,Sun City,AZ
+351,Hancock County,Findlay,OH
+352,Harris County,Tomball,TX
+353,Hamilton County,Cincinnati,OH
+354,Bronx County,Bronx,NY
+355,Broward County,Pompano Beach,FL
+356,Maury County,Columbia,TN
+357,Bexar County,Bexar County,TX
+358,Howard County,Kokomo,IN
+359,Allen County,Fort Wayne,IN
+360,Jefferson County,Louisville,KY
+361,Dallas County,Hutchins,TX
+362,El Dorado County,South Lake Tahoe,CA
+363,Tulare County,Visalia,CA
+364,Benson County,Wood Lake,ND
+365,Chilton County,Clanton,AL
+366,Lea County,Hobbs,NM
+367,Kings County,Coney Island,NY
+368,Weld County,Greeley,CO
+369,Los Angeles County,Azusa,CA
+370,Wilkes County,Ronda,NC
+371,Sacramento County,Citrus Heights,CA
+372,Richmond County,Augusta,GA
+373,Allegheny County,Pittsburgh,PA
+374,Reno County,Hutchinson,KS
+375,Parker County,Weatherford,TX
+376,York County,York County,VA
+377,Baltimore County,Owings Mills,MD
+378,Fresno County,Fresno,CA
+379,Franklin County,Malone,NY
+380,Cherokee County,Tahlequah,OK
+381,Saratoga County,Edinburg,NY
+382,Macon County,Franklin,NC
+383,Yamhill County,McMinnville,OR
+384,Josephine County,Josephine County,OR
+385,Plymouth County,Brockton,MA
+386,Fayette County,Meadow Bridge,WV
+387,Los Angeles County,West Covina,CA
+388,Los Angeles County,Lancaster,CA
+389,Camden County,Camden,NJ
+390,Miami-Dade County,Miami Beach,FL
+391,Hamblen County,Morristown,TN
+392,Newport News city,Newport News,VA
+393,Clark County,Henderson,NV
+394,Alameda County,Pleasanton,CA
+395,Los Angeles County,Hawaiian Gardens,CA
+396,Grafton County,Bath,NH
+397,Merced County,Atwater,CA
+398,Los Angeles County,Lakewood,CA
+399,Hidalgo County,Edinburg,TX
+400,Atlantic County,Atlantic City,NJ
+401,Jackson County,Sugar Creek,MO
+402,Washington County,Beaverton,OR
+403,Ashe County,Ashe County,NC
+404,Iron County,Parowan,UT
+405,Santa Cruz County,Boulder Creek,CA
+406,Newton County,Covington,GA
+407,Yuba County,Olivehurst,CA
+408,Broward County,Plantation,FL
+409,Cook County,River Forest,IL
+410,Natrona County,Casper,WY
+411,DeKalb County,Stone Mountain,GA
+412,Siskiyou County,Dunsmuir,CA
+413,Essex County,Lynn,MA
+414,Lake County,Mascotte,FL
+415,Trumbull County,Southington,OH
+416,Osceola County,Marion,MI
+417,Riverside County,Moreno Valley,CA
+418,Milwaukee County,Wauwatosa,WI
+419,Miami-Dade County,Homestead,FL
+420,Hamilton County,Chattanooga,TN
+421,Laramie County,Cheyenne,WY
+422,Covington County,Opp,AL
+423,King County,Seattle,WA
+424,San Bernardino County,Needles,CA
+425,Cameron County,Brownsville,TX
+426,Larimer County,Fort Collins,CO
+427,Thomas County,Colby,KS
+428,Hamilton County,Mt. Auburn,OH
+429,Chambers County,Winnie,TX
+430,Bartow County,White,GA
+431,Broward County,Oakland Park,FL
+432,Wayne County,Jesup,GA
+433,Green County,Monroe,WI
+434,Philadelphia County,Philadelphia,PA
+435,Montgomery County,Dayton,OH
+436,Hennepin County,Plymouth,MN
+437,Horry County,Myrtle Beach,SC
+438,Converse County,Douglas,WY
+439,Placer County,Meadow Vista,CA
+440,Los Angeles County,Studio City,CA
+441,Stokes County,Pinnacle,NC
+442,DeKalb County,Decatur,GA
+443,Alachua County,Micanopy,FL
+444,Caddo Parish,Shreveport,LA
+445,Oconee County,Seneca,SC
+446,Terrebonne Parish,Houma,LA
+447,Boulder County,Boulder,CO
+448,Mississippi County,Manila,AR
+449,Doña Ana County,Las Cruces,NM
+450,Cache County,Logan,UT
+451,Douglas County,Gardnerville Ranchos,NV
+452,Los Angeles County,Whittier,CA
+453,Chaves County,Roswell,NM
+454,Kanawha County,Nitro,WV
+455,Lebanon County,Campbelltown,PA
+456,Powhatan County,Powhatan County,VA
+457,Delaware County,Muncie,IN
+458,San Diego County,San Diego County,CA
+459,Champaign County,Rantoul,IL
+460,Milwaukee County,Greenfield,WI
+461,Maui County,Maui,HI
+462,Richmond city,Richmond,VA
+463,Davidson County,Antioch,TN
+464,Kenton County,Elsmere,KY
+465,Tarrant County,Arlington,TX
+466,Mineral County,Superior,MT
+467,Pitt County,Greenville,NC
+468,Waller County,Brookshire,TX
+469,Dorchester County,Summerville,SC
+470,Spokane County,Spokane,WA
+471,Carter County,Ardmore,OK
+472,Luzerne County,Pittston,PA
+473,Maricopa County,Gilbert,AZ
+474,Bonner County,Sandpoint,ID
+475,McLennan County,Waco,TX
+476,Ector County,Odessa,TX
+477,Lucas County,Toledo,OH
+478,Richmond County,Staten Island,NY
+479,Kendall County,Boerne,TX
+480,Prince George's County,District Heights,MD
+481,Tolland County,Bolton,CT
+482,Jefferson County,Hanover,IN
+483,Kern County,Inyokern,CA
+484,Carson City city,Carson City,NV
+485,Kerr County,Kerrville,TX
+486,Oakland County,Bloomfield Township,MI
+487,Stevens County,Hunters,WA
+488,Haywood County,Canton,NC
+489,Washington County,Beverly,OH
+490,Tuscaloosa County,Tuscaloosa,AL
+491,Mason County,Grapeview,WA
+492,Cecil County,North East,MD
+493,Itasca County,Cohasset,MN
+494,Rensselaer County,Troy,NY
+495,King George County,King George,VA
+496,Marshall County,Arab,AL
+497,Ocean County,Brick Township,NJ
+498,Randolph County,Archdale,NC
+499,Santa Fe County,Santa Fe,NM
+500,Chester County,West Chester,PA
+501,Hillsborough County,Thonotosassa,FL
+502,Sumner County,Hendersonville,TN
+503,Salt Lake County,West Jordan,UT
+504,Utah County,Spanish Fork,UT
+505,Westchester County,Mount Vernon,NY
+506,Payne County,Cushing,OK
+507,Larimer County,Loveland,CO
+508,Mercer County,Bluefield,WV
+509,Summit County,Twinsburg,OH
+510,Eddy County,Artesia,NM
+511,Yavapai County,Prescott,AZ
+512,Davison County,Mitchell,SD
+513,Orange County,French Lick,IN
+514,Humboldt County,Weitchpec,CA
+515,Parker County,Springtown,TX
+516,Hillsborough County,Merrimack,NH
+517,Durham County,Durham,NC
+518,Virginia Beach city,Virginia Beach,VA
+519,Miami-Dade County,Little Havana,FL
+520,Fairbanks North Star,Fairbanks,AK
+521,Brown County,Ashwaubenon,WI
+522,Los Angeles County,El Monte,CA
+523,St. Lawrence County,Potsdam,NY
+524,San Joaquin County,Lodi,CA
+525,Los Angeles County,Downey,CA
+526,Delaware County,Chester,PA
+527,Broomfield County,Broomfield,CO
+528,Talladega County,Sylacauga,AL
+529,Knox County,West Knox,TN
+530,Washington County,Wellman,IA
+531,Pittsburg County,McAlester,OK
+532,Brazoria County,Clute,TX
+533,Caldwell County,Princeton,KY
+534,San Bernardino County,Barstow,CA
+535,St. Bernard Parish,Chalmette,LA
+536,Los Angeles County,Panorama City,CA
+537,Rapides Parish,Alexandria,LA
+538,Lawrence County,Lead,SD
+539,Gladwin County,Beaverton,MI
+540,Rockcastle County,Brodhead,KY
+541,Dickson County,Dickson,TN
+542,St. Tammany Parish,Slidell,LA
+543,Washington County,Washington County,AL
+544,Harrisonburg city,Harrisonburg,VA
+545,Shelby County,Shelbyville,IN
+546,Monterey County,Sand City,CA
+547,Lamar County,Paris,TX
+548,Volusia County,Barberville,FL
+549,Polk County,Auburndale,FL
+550,Okaloosa County,Niceville,FL
+551,Shasta County,Happy Valley,CA
+552,Collin County,McKinney,TX
+553,Baltimore County,Reisterstown,MD
+554,Grayson County,Grayson County,VA
+555,New Castle County,Wilmington,DE
+556,El Paso County,Fountain,CO
+557,Summit County,Akron,OH
+558,Yavapai County,Wilhoit,AZ
+559,Lea County,Lovington,NM
+560,Walker County,Rossville,GA
+561,Denton County,Ponder,TX
+562,San Diego County,San Ysidro,CA
+563,Pennington County,Rapid City,SD
+564,Kanabec County,Mora,MN
+565,Raleigh County,Beckley,WV
+566,Cochise County,Sierra Vista,AZ
+567,San Bernardino County,Rialto,CA
+568,Potter County,Amarillo,TX
+569,Los Angeles County,Van Nuys,CA
+570,Colbert County,Muscle Shoals,AL
+571,Tarrant County,Hurst,TX
+572,Middlesex County,Woodbridge,NJ
+573,Oklahoma County,Midwest City,OK
+574,Monterey County,Monterey,CA
+575,Palm Beach County,West Palm Beach,FL
+576,Howard County,Columbia,MD
+577,Riverside County,Aguanga,CA
+578,Essex County,Beverly,MA
+579,Middlesex County,Old Saybrook,CT
+580,San Bernardino County,Pinion Hills,CA
+581,Montcalm County,Cato Township,MI
+582,DuPage County,Lisle,IL
+583,Calcasieu Parish,Lakes Charles,LA
+584,Greenville County,Taylors,SC
+585,Ector County,West Odessa,TX
+586,Comanche County,Lawton,OK
+587,Lincoln County,Brookhaven,MS
+588,Bartow County,Cartersville,GA
+589,Collier County,Naples,FL
+590,Riverside County,Indio,CA
+591,Monterey County,Seaside,CA
+592,Monroe County,Monroeville,AL
+593,Cuyahoga County,Parma,OH
+594,King County,Kirkland,WA
+595,Los Angeles County,Valinda,CA
+596,Barrow County,Barrow County,GA
+597,Lowndes County,Columbus,MS
+598,Stanislaus County,Modesto,CA
+599,York County,York,PA
+600,Palm Beach County,Palm Beach Gardens,FL
+601,Sierra County,Truth or Consequences,NM
+602,St. Tammany Parish,Mandeville,LA
+603,Linn County,Cedar Rapids,IA
+604,Imperial County,Calexico,CA
+605,Tulare County,West Goshen,CA
+606,Kent County,Kentwood,MI
+607,Sacramento County,Carmichael,CA
+608,Knott County,Pine Top,KY
+609,Ulster County,New Paltz,NY
+610,Riverside County,Highgrove,CA
+611,Lee County,Cape Coral,FL
+612,Riverside County,Cathedral City,CA
+613,Muskingum County,Zanesville,OH
+614,Kenosha County,Paddock Lake,WI
+615,Kenai Peninsula Borough,Kenai Peninsula,AK
+616,Pickens County,Talking Rock,GA
+617,Frederick County,Frederick,MD
+618,Hillsborough County,Tampa,FL
+619,Chatham County,Savannah,GA
+620,San Diego County,Point Loma,CA
+621,Monroe County,Smithville,MS
+622,Marion County,Salem,OR
+623,Lewis County,Hohenwald,TN
+624,Cumberland County,Burkesville,KY
+625,Dallas County,Mesquite,TX
+626,Cherokee County,Norwood,OK
+627,El Paso County,Colorado Springs,CO
+628,Lee County,Opelika,AL
+629,McLeod County,Hutchinson,MN
+630,Humboldt County,Eureka,CA
+631,Adams County,Council,ID
+632,Avoyelles Parish,Marksville,LA
+633,Merced County,Merced,CA
+634,San Diego County,Pacific Beach,CA
+635,Osage County,Hominy,OK
+636,St. Louis County,Lakeshire,MO
+637,Berkeley County,Goose Creek,SC
+638,Anson County,Wadesboro,NC
+639,Webb County,North Laredo,TX
+640,Braxton County,Braxton County,WV
+641,Butte County,Chico,CA
+642,Adams County,Brighton,CO
+643,Beaverhead County,Dillon,MT
+644,Aiken County,Aiken,SC
+645,Gibson County,Gibson County,TN
+646,Riverside County,Jurupa Valley,CA
+647,Effingham County,Eden,GA
+648,Cumberland County,Spring Lake,NC
+649,Philadelphia County,Germantown,PA
+650,Hennepin County,Minneapolis,MN
+651,Leon County,Leon County,TX
+652,Whitfield County,Whitfield County,GA
+653,Lexington County,Cayce,SC
+654,Calhoun County,Arlington,GA
+655,Ocean County,Little Egg Harbor,NJ
+656,Miami-Dade County,Opa-Locka,FL
+657,Berrien County,Berrien County,MI
+658,Manatee County,Manatee,FL
+659,Paulding County,Paulding County,GA
+660,Bryan County,Colbert,OK
+661,Washoe County,Reno,NV
+662,Nueces County,Corpus Christi,TX
+663,Anoka County,Columbia Heights,MN
+664,Christian County,Ozark,MO
+665,Stone County,Lampe,MO
+666,Dallas County,Seagoville,TX
+667,Mercer County,Celina,OH
+668,DeKalb County,Maysville,MO
+669,Winkler County,Wink,TX
+670,Penobscot County,Bangor,ME
+671,Los Angeles County,Norwalk,CA
+672,Luna County,Deming,NM
+673,Deuel County,Big Springs,NE
+674,Allegheny County,Mount Washington,PA
+675,Dallas County,Irving,TX
+676,Winnebago County,Neenah,WI
+677,Cuyahoga County,Richmond Heights,OH
+678,Albany County,Laramie,WY
+679,Westchester County,Yonkers,NY
+680,Grayson County,Leitchfield,KY
+681,Mayes County,Pryor,OK
+682,Monterey County,Marina,CA
+683,Los Angeles County,Lynwood,CA
+684,Carter County,Healdton,OK
+685,Monroe County,East Stroudsburg,PA
+686,Denton County,Denton,TX
+687,Thurston County,Thurston County,WA
+688,Jefferson County,Mountain View,CO
+689,Baltimore County,Middle River,MD
+690,Gibson County,Humboldt,TN
+691,Santa Clara County,Gilroy,CA
+692,Fayette County,Mount Hope,WV
+693,Gaston County,Dallas,NC
+694,Ventura County,Camarillo,CA
+695,Portage County,Kent,OH
+696,Wood County,Northwood,OH
+697,Knox County,Knoxville,TN
+698,Taos County,Taos,NM
+699,Campbell County,Concord,VA
+700,Los Angeles County,Palmdale,CA
+701,Douglas County,Douglasville,GA
+702,St. Martin Parish,Breaux Bridge,LA
+703,Wayne County,Canaan Township,PA
+704,Yuba County,Smartsville,CA
+705,Kenton County,Ludlow,KY
+706,Chittenden County,Burlington,VT
+707,Hernando County,Brooksville,FL
+708,Wayne County,Dearborn,MI
+709,Franklin Parish,Winnsboro,LA
+710,East Baton Rouge Parish,Pride,LA
+711,Ingham County,Lansing,MI
+712,Tulare County,Porterville,CA
+713,Santa Clara County,Palo Alto,CA
+714,Owyhee County,Homedale,ID
+715,George County,Lucedale,MS
+716,St. Mary Parish,Franklin,LA
+717,Suffolk city,Suffolk,VA
+718,Merced County,Santa Nella,CA
+719,Los Angeles County,Rosemead,CA
+720,Carbon County,Rawlins,WY
+721,Park County,Livingston,MT
+722,Nolan County,Maryneal,TX
+723,Minnehaha County,Sioux Falls,SD
+724,Beauregard Parish,Ragley,LA
+725,Thurston County,Olympia,WA
+726,Washington County,Johnson City,TN
+727,Shasta County,Redding,CA
+728,Stanislaus County,Ceres,CA
+729,Delaware County,Upper Darby,PA
+730,Lincoln County,Carrizozo,NM
+731,Daviess County,Daviess County,KY
+732,Walworth County,Geneva,WI
+733,Cobb County,Acworth,GA
+734,Cowlitz County,Kelso,WA
+735,Cecil County,Rising Sun,MD
+736,Los Angeles County,San Fernando,CA
+737,Westmoreland County,Penn Township,PA
+738,Anchorage,Spenard,AK
+739,Norfolk city,Norfolk,VA
+740,Sevier County,Sevierville,TN
+741,Kittitas County,Cle Elum,WA
+742,Williamson County,Hurst,IL
+743,Los Angeles County,Santa Clarita,CA
+744,Randolph County,Elkins,WV
+745,Oakland County,Southfield,MI
+746,Los Angeles County,Hollywood Hills,CA
+747,San Diego County,El Cajon,CA
+748,Ritchie County,Petroleum,WV
+749,Palm Beach County,Belle Glade,FL
+750,Los Angeles County,North Hills,CA
+751,Etowah County,Rainbow City,AL
+752,Alameda County,Union City,CA
+753,Iredell County,Statesville,NC
+754,St. Landry Parish,Port Barre,LA
+755,Madison County,Meridianville,AL
+756,McIntosh County,Eufaula,OK
+757,Harney County,Burns,OR
+758,Garland County,Mountain Pine,AR
+759,Dillon County,Latta,SC
+760,Loudon County,Lenoir City,TN
+761,Tarrant County,Mansfield,TX
+762,Cobb County,Cobb County,GA
+763,Clackamas County,Clackamas County,OR
+764,Russell County,Phenix City,AL
+765,Allegheny County,Wilkinsburg,PA
+766,Collier County,Immokalee,FL
+767,Tarrant County,Saginaw,TX
+768,Alameda County,Newark,CA
+769,Sacramento County,Rancho Cordova,CA
+770,Okmulgee County,Schulter,OK
+771,Marion County,Ocala,FL
+772,Todd County,Rosebud,SD
+773,Franklin County,Perry Township,OH
+774,Hawaii County,Hilo,HI
+775,Santa Rosa County,Milton,FL
+776,Iredell County,Union Grove,NC
+777,Clatsop County,Seaside,OR
+778,Lonoke County,Austin,AR
+779,Ocean County,Manchester,NJ
+780,Harford County,Abingdon,MD
+781,North Slope,Barrow,AK
+782,Ramsey County,Roseville,MN
+783,Henderson County,Henderson County,TX
+784,Catawba County,Maiden,NC
+785,Onondaga County,Syracuse,NY
+786,Polk County,Urbandale,IA
+787,Panola County,Beckville,TX
+788,Buckingham County,Arvonia,VA
+789,Manatee County,Bradenton,FL
+790,Lea County,Jal,NM
+791,Orange County,Yorba Linda,CA
+792,Fairfield County,Fairfield,CT
+793,Greene County,Republic,MO
+794,Polk County,Mena,AR
+795,Jackson County,Commerce,GA
+796,Lamar County,Reno,TX
+797,Weber County,Ogden,UT
+798,Carter County,Elizabethton,TN
+799,Los Angeles County,Inglewood,CA
+800,Matanuska-Susitna,Houston,AK
+801,Greene County,Fairborn,OH
+802,San Joaquin County,Ripon,CA
+803,Jackson County,Blue Springs,MO
+804,Park County,Bailey,CO
+805,Walworth County,East Troy,WI
+806,Montgomery County,Montgomery,AL
+807,Lyon County,Silver Springs,NV
+808,Harvey County,Hesston,KS
+809,Roanoke city,Roanoke,VA
+810,Pennington County,Rapid Valley,SD
+811,St. Clair County,Ashville,AL
+812,Wake County,Raleigh,NC
+813,Jackson County,Gautier,MS
+814,Harford County,Bel Air,MD
+815,Cambria County,Johnstown,PA
+816,Montgomery County,Sims,AR
+817,Laurel County,East Berstadt,KY
+818,Erie County,Cheektowaga,NY
+819,Jefferson County,Beaumont,TX
+820,Burleigh County,Bismarck,ND
+821,Monroe County,Rochester,NY
+822,Eddy County,Carlsbad,NM
+823,Harrison County,Biloxi,MS
+824,Pueblo County,Colorado City,CO
+825,Butler County,Rosalia,KS
+826,De Witt County,Clinton,IL
+827,Guilford County,Greensboro,NC
+828,Los Angeles County,Glendale,CA
+829,Dallas County,Addison,TX
+830,Calhoun County,Piedmont,AL
+831,Clark County,Vancouver,WA
+832,Logan County,Russellville,KY
+833,Vanderburgh County,Evansville,IN
+834,Los Angeles County,Florence,CA
+835,Anson County,Anson County,NC
+836,Dakota County,Burnsville,MN
+837,Contra Costa County,Byron,CA
+838,Bonneville County,Idaho Falls,ID
+839,St. Tammany Parish,Covington,LA
+840,Hopkins County,White Plains,KY
+841,Hopewell city,Hopewell,VA
+842,Fulton County,Fort Littleton,PA
+843,Alachua County,Gainesville,FL
+844,Fairfield County,Stamford,CT
+845,Westmoreland County,South Greensburg,PA
+846,Fredericksburg city,Fredericksburg,VA
+847,Adams County,Thornton,CO
+848,Shelby County,Raleigh,TN
+849,Norfolk County,Braintree,MA
+850,Providence County,Pawtucket,RI
+851,San Bernardino County,Redlands,CA
+852,Cibola County,Pueblo of Laguna,NM
+853,Middlesex County,Lowell,MA
+854,Buchanan County,Grundy,VA
+855,Jackson County,Lee's Summit,MO
+856,Navajo County,Winslow,AZ
+857,Lenoir County,Kinston,NC
+858,Montgomery County,Splendora,TX
+859,Lake County,Clearlake Park,CA
+860,Anderson County,Piedmont,SC
+861,Aitkin County,Aitkin,MN
+862,Butts County,Jackson,GA
+863,Caldwell County,Lockhart,TX
+864,Lafourche Parish,Raceland,LA
+865,Macon County,Macon County,AL
+866,Eau Claire County,Eau Claire,WI
+867,Hampden County,West Springfield,MA
+868,Jackson County,Oak Hill,OH
+869,Sumner County,Gallatin,TN
+870,Chippewa County,Lake Hallie,WI
+871,Middlesex County,New Brunswick,NJ
+872,Schenectady County,Rotterdam,NY
+873,Franklin County,Benton,IL
+874,Holmes County,Noma,FL
+875,Llano County,Llano,TX
+876,White County,Sparta,TN
+877,McPherson County,McPherson,KS
+878,Riverside County,Lake Elsinore,CA
+879,Comanche County,Cache,OK
+880,Lake County,Antioch,IL
+881,Cumberland County,Vineland,NJ
+882,Prince George's County,Greenbelt,MD
+883,Cobb County,Mableton,GA
+884,Blount County,Brooksville,AL
+885,Perry County,Perryville,AR
+886,Middlesex County,Everett,MA
+887,Albany County,Berne,NY
+888,Langlade County,Antigo,WI
+889,Washington County,Fayetteville,AR
+890,Henderson County,East Flat Rock,NC
+891,Jefferson County,Lakewood,CO
+892,Guadalupe County,Kingsbury,TX
+893,Salt Lake County,Milcreek,UT
+894,Adams County,Westminster,CO
+895,Cape Girardeau County,Jackson,MO
+896,Marathon County,Wausau,WI
+897,Pinal County,Florence,AZ
+898,Crockett County,Alamo,TN
+899,Greenville County,Greenville,SC
+900,King County,Burien,WA
+901,Riverside County,Temecula,CA
+902,Dallas County,Buffalo,MO
+903,Jefferson Parish,Gretna,LA
+904,Hancock County,Weirton,WV
+905,Snohomish County,Lake Stevens,WA
+906,Aroostook County,Presque Isle,ME
+907,Jackson County,St. Martin,MS
+908,Marion County,Hog Valley,FL
+909,Nacogdoches County,Nacogdoches,TX
+910,Bristol County,Taunton,MA
+911,Pontotoc County,Byng,OK
+912,Los Angeles County,Boyle Heights,CA
+913,Duval County,Jacksonsville,FL
+914,Volusia County,Osteen,FL
+915,Henry County,Stockbridge,GA
+916,Shawnee National Forest city,Shawnee National Forest,IL
+917,Clayton County,Riverdale,GA
+918,Siskiyou County,Siskiyou County,CA
+919,Franklin County,Sullivan,MO
+920,Knott County,Fisty,KY
+921,Chesterfield County,Chesterfield County,SC
+922,Clackamas County,Oregon City,OR
+923,Coconino County,Flagstaff,AZ
+924,Broward County,Hallandale Beach,FL
+925,Worcester County,Oxford,MA
+926,Multnomah County,Gresham,OR
+927,Cass County,Harrisonville,MO
+928,Cook County,Lansing,IL
+929,St. Clair County,Washington Park,IL
+930,Santa Barbara County,Solvang,CA
+931,Jackson County,Sneads,FL
+932,Socorro County,Socorro,NM
+933,Calhoun County,Eastaboga,AL
+934,Volusia County,Deland,FL
+935,Sampson County,Clinton,NC
+936,Rockingham County,Stoneville,NC
+937,Washington County,Tualatin,OR
+938,Deschutes County,Bend,OR
+939,Coweta County,Newnan,GA
+940,Madison County,Berea,KY
+941,Matanuska-Susitna,Wasilla,AK
+942,La Paz County,Parker,AZ
+943,Siskiyou County,Yreka,CA
+944,Barbour County,Eufaula,AL
+945,Wagoner County,Wagoner,OK
+946,Stanislaus County,Turlock,CA
+947,Cleveland County,Norman,VA
+948,Jefferson County,Port Arthur,TX
+949,Marquette County,Ishpeming Township,MI
+950,Yuma County,Somerton,AZ
+951,Iredell County,Iredell County,NC
+952,Yakima County,Yakima,WA
+953,Lee County,Tupelo,MS
+954,Los Angeles County,Maywood,CA
+955,Utah County,Eagle Mountain,UT
+956,Barren County,Hiseville,KY
+957,Schenectady County,Schenectady,NY
+958,Mobile County,Mobile,AL
+959,Newport County,Tiverton,RI
+960,Lafayette County,Odessa,MO
+961,San Diego County,Chula Vista,CA
+962,Marinette County,Pembine,WI
+963,Silver Bow County,Butte,MT
+964,Williams County,Montpelier,OH
+965,Okaloosa County,Fort Walton Beach,FL
+966,Jasper County,Hardeeville,SC
+967,Mohave County,Lake Havasu City,AZ
+968,Hillsborough County,Peterborough,NH
+969,Cleveland County,Lawndale,NC
+970,Palm Beach County,Wellington,FL
+971,DeSoto County,Walls,MS
+972,Austin County,Bellville,TX
+973,St. Clair County,Belleville,IL
+974,Grant County,Hanover,NM
+975,Passaic County,Paterson,NJ
+976,Washington County,Farmington,AR
+977,Fort Bend County,Fulshear,TX
+978,Hillsborough County,Riverview,FL
+979,Pinellas County,Pinellas Park,FL
+980,Hall County,Gainesville,GA
+981,Maricopa County,Buckeye,AZ
+982,Van Buren County,Columbia Township,MI
+983,Litchfield County,Thomaston,CT
+984,Cook County,Dolton,IL
+985,Boone County,Boone,IA
+986,Bleckley County,Cochran,GA
+987,Cibola County,Laguna Pueblo,NM
+988,Kent County,Frederica,DE
+989,Knox County,Barbourville,KY
+990,Ouachita Parish,Ouachita Parish,LA
+991,Lee County,Fort Madison,IA
+992,Park County,Park County,CO
+993,Spartanburg County,Landrum,SC
+994,Washington County,Jackson,WI
+995,Buncombe County,Asheville,NC
+996,Sullivan County,Bristol,TN
+997,Iberia Parish,New Iberia,LA
+998,Orange County,Fullerton,CA
+999,Kaufman County,Rosser,TX
+1000,Yuma County,Yuma,AZ
+1001,Ramsey County,Falcon Heights,MN
+1002,Grady County,Rush Springs,OK
+1003,Los Angeles County,Bell,CA
+1004,Fresno County,Clovis,CA
+1005,Dallas County,Selma,AL
+1006,McCurtain County,Broken Bow,OK
+1007,St. Clair County,East St. Louis,IL
+1008,Wayne County,Romulus,MI
+1009,Berrien County,St. Joseph,MI
+1010,Orange County,Middletown,NY
+1011,Anson County,Peachland,NC
+1012,Clay County,Lake Asbury,FL
+1013,Ocean County,Little Egg Harbor Township,NJ
+1014,Sheboygan County,Sheboygan,WI
+1015,Upshur County,Buckhannon,WV
+1016,Riverside County,Winchester,CA
+1017,McKinley County,Gallup,NM
+1018,Lincoln County,Pine River,WI
+1019,Franklin County,Estill Springs,TN
+1020,Jefferson Parish,Metairie,LA
+1021,Phillips County,Malta,MT
+1022,Washoe County,Sparks,NV
+1023,Riverside County,La Quinta,CA
+1024,Los Angeles County,Compton,CA
+1025,Los Angeles County,City Terrace,CA
+1026,Northampton County,Pleasant Hill,NC
+1027,Pike County,Phelps,KY
+1028,Yakima County,Wapato,WA
+1029,Lexington County,Edmund,SC
+1030,Stafford County,Stafford,VA
+1031,Florence County,Lake City,SC
+1032,Douglas County,Alexandria,MN
+1033,Elmore County,Hammett,ID
+1034,Los Angeles County,Castaic,CA
+1035,Davis County,Clearfield,UT
+1036,Scott County,Scott County,VA
+1037,Loudoun County,Aldie,VA
+1038,Fulton County,East Point,GA
+1039,San Diego County,Santee,CA
+1040,Dodge County,Beaver Dam,WI
+1041,Dauphin County,Harrisburg,PA
+1042,Newberry County,Little Mountain,SC
+1043,Wilkes County,Wilkesboro,NC
+1044,Scott County,Georgetown,KY
+1045,Pickaway County,Circleville,OH
+1046,Iberville Parish,Plaquemine,LA
+1047,King County,Tukwila,WA
+1048,San Diego County,Vista,CA
+1049,Alameda County,Hayward,CA
+1050,Falls Church city,Falls Church,VA
+1051,Hardin County,Counce,TN
+1052,Hampshire County,Augusta,WV
+1053,Adams County,Rome,OH
+1054,Caldwell County,Lenoir,NC
+1055,Pinal County,Apache Junction,AZ
+1056,Sacramento County,Antelope,CA
+1057,Ellis County,Hays,KS
+1058,San Diego County,Poway,CA
+1059,Humboldt County,McKinneyville,CA
+1060,Los Angeles County,East Hollywood,CA
+1061,Waupaca County,New London,WI
+1062,Hamilton County,East Ridge,TN
+1063,Butler County,Hamilton,OH
+1064,Cooke County,Myra,TX
+1065,Dallas County,Oak Cliff,TX
+1066,Bedford County,Shelbyville,TN
+1067,Dakota County,Eagan,MN
+1068,Pierce County,Graham,WA
+1069,Bell County,Harker Heights,TX
+1070,Barry County,McDowell,MO
+1071,Lucas County,Sylvania Township,OH
+1072,Los Angeles County,Huntington Park,CA
+1073,Otero County,Alamogordo,NM
+1074,Douglas County,Parker,CO
+1075,Lake County,Round Lake,IL
+1076,Douglas County,East Wenatchee,WA
+1077,Bell County,Temple,TX
+1078,Roane County,Spencer,WV
+1079,Washington County,Gray,TN
+1080,Dougherty County,Albany,GA
+1081,Brevard County,Titusville,FL
+1082,Merced County,Delhi,CA
+1083,King County,Auburn,WA
+1084,Mercer County,Montcalm,WV
+1085,Santa Clara County,Saratoga,CA
+1086,San Bernardino County,Colton,CA
+1087,Hernando County,Weeki Wachi,FL
+1088,San Bernardino County,Big Bear,MO
+1089,Chittenden County,Winooski,VT
+1090,Riverside County,Beaumont,CA
+1091,Rutherford County,Rutherfordton,NC
+1092,Stearns County,St. Cloud,MN
+1093,Harris County,Spring,TX
+1094,Cache County,Logan Canyon,UT
+1095,Wood County,Wood County,TX
+1096,Decatur County,Decatur County,TN
+1097,St. Lucie County,Port St. Lucie,FL
+1098,New London County,Mashantucket,CT
+1099,Cass County,Louisville,NE
+1100,Sacramento County,Fair Oaks,CA
+1101,Baltimore County,Pikesville,MD
+1102,Sullivan County,Claremont,NH
+1103,Ada County,Garden City,ID
+1104,Pulaski County,Little Rock,AR
+1105,Trinity County,Groveton,TX
+1106,Essex County,Newark,NJ
+1107,Spartanburg County,Campobello,SC
+1108,Wayne County,Belleville,MI
+1109,Putnam County,Hometown,WV
+1110,Cook County,Markham,IL
+1111,Atlantic County,Ventnor,NJ
+1112,Washington County,Springdale,AR
+1113,Mackinac County,Hessel,MI
+1114,Berkeley County,Moncks Corner,SC
+1115,Bibb County,Macon,GA
+1116,Lauderdale County,Killeen,AL
+1117,Saline County,Benton,AR
+1118,King County,Federal Way,WA
+1119,Hughes County,Wetumka,OK
+1120,Robeson County,Lumberton,NC
+1121,Orange County,Irvine,CA
+1122,Cuyahoga County,Westlake,OH
+1123,Contra Costa County,Concord,CA
+1124,Livingston Parish,Livingston Parish,LA
+1125,Rowan County,Morehead,KY
+1126,Josephine County,Grants Pass,OR
+1127,King County,Kent,WA
+1128,Santa Cruz County,Santa Cruz,CA
+1129,Pasco County,Holiday,FL
+1130,Berrien County,Benton Harbor,MI
+1131,Bourbon County,Paris,KY
+1132,Lake County,Willoughby,OH
+1133,King County,Muckleshoot Indian Reservation,WA
+1134,Shelby County,Westover,AL
+1135,Fillmore County,Peterson,MN
+1136,Metcalfe County,Edmonton,KY
+1137,St. Louis County,North St. Louis,MO
+1138,Placer County,Lincoln,CA
+1139,Dallas County,Carrollton,TX
+1140,Washington County,Bartlesville,OK
+1141,Elbert County,Elberton,GA
+1142,Stevens County,Morris,MN
+1143,Cuyahoga County,North Royalton,OH
+1144,Dewey County,Leedey,OK
+1145,Los Angeles County,Torrance,CA
+1146,Los Angeles County,Chatsworth,CA
+1147,Montgomery County,Brookville,OH
+1148,Rowan County,Salisbury,NC
+1149,Franklin County,Chambersburg,PA
+1150,Walton County,Loganville,GA
+1151,Riverside County,Palm Springs,CA
+1152,Pinellas County,Lealman,FL
+1153,Okfuskee County,Okemah,OK
+1154,Kanawha County,Clendenin,WV
+1155,Clallam County,Beaver,WA
+1156,Gregg County,Gladewater,TX
+1157,Warren County,Bowling Green,KY
+1158,Cumberland County,Maurice River,NJ
+1159,McDowell County,Hensley,WV
+1160,Ashtabula County,Ashtabula,OH
+1161,Navajo County,Show Low,AZ
+1162,Tom Green County,San Angelo,TX
+1163,Montrose County,Montrose County,CO
+1164,Columbia County,Bloomsburg,PA
+1165,York County,York County,PA
+1166,Harris County,Webster,TX
+1167,Long County,Ludowici,GA
+1168,Pinal County,Casa Grande,AZ
+1169,Santa Cruz County,Watsonville,CA
+1170,Kings County,Brooklyn,NY
+1171,Santa Barbara County,Lompoc,CA
+1172,Los Angeles County,La Mirada,CA
+1173,Ottawa County,Holland Township,MI
+1174,Madison County,Jackson,TN
+1175,Forrest County,Hattiesburg,MS
+1176,Maricopa County,Surprise,AZ
+1177,Johnson County,Olathe,KS
+1178,Cumberland County,Naples,ME
+1179,Catawba County,Hickory,NC
+1180,Galveston County,Friendswood,TX
+1181,Hendricks County,Avon,IN
+1182,Anderson County,Iva,SC
+1183,Pope County,Dover,AR
+1184,Shelby County,Simpsonsville,KY
+1185,Colbert County,Tuscumbia,AL
+1186,Summit County,Hudson,OH
+1187,Elkhart County,Elkhart,IN
+1188,Volusia County,Orange City,FL
+1189,Lake County,Fruitland Park,FL
+1190,Cumberland County,Fayetteville,NC
+1191,Woodbury County,Sioux City,IA
+1192,Washington County,Avella,PA
+1193,Collin County,Allen,TX
+1194,Hawaii County,Keaau,HI
+1195,Brunswick County,Leland,NC
+1196,Northampton County,Forks Township,PA
+1197,Sumter County,Sumter,SC
+1198,Johnson County,Greenwood,IN
+1199,York County,York,NE
+1200,Marion County,Fairmont,WV
+1201,Mohave County,Bullhead City,AZ
+1202,Barber County,Medicine Lodge,KS
+1203,Peach County,Fort Valley,GA
+1204,Henry County,Hampton,GA
+1205,Los Angeles County,Hacienda Heights,CA
+1206,Polk County,Dallas,OR
+1207,Shelby County,Arlington,TN
+1208,Snohomish County,Everett,WA
+1209,Clark County,Ridgefield,WA
+1210,Caldwell County,Granite Falls,NC
+1211,Hidalgo County,Pharr,TX
+1212,Imperial County,Brawley,CA
+1213,Kay County,Ponca City,OK
+1214,Washita County,Burns Flat,OK
+1215,Starke County,Knox,IN
+1216,Mobile County,Saraland,AL
+1217,Fresno County,Coalinga,CA
+1218,Prince George's County,Capitol Heights,MD
+1219,Pinellas County,Palm Harbor,FL
+1220,Polk County,Lake Wales,FL
+1221,Etowah County,Gadsden,AL
+1222,Los Angeles County,Pico Rivera,CA
+1223,Washington County,King City,OR
+1224,Independence County,Desha,AR
+1225,Clay County,Middleburg,FL
+1226,Nevada County,Grass Valley,CA
+1227,Brazoria County,Pearland,TX
+1228,Cook County,North Riverside,IL
+1229,Atascosa County,Campbellton,TX
+1230,Maury County,Spring Hill,TN
+1231,Kent County,Chestertown,MD
+1232,Escambia County,Pensacola,FL
+1233,Blue Earth County,Mankato,MN
+1234,Palm Beach County,Loxahatchee,FL
+1235,Huntingdon County,Huntingdon County,PA
+1236,Clark County,Springfield,OH
+1237,DuPage County,Villa Park,IL
+1238,Cherokee County,Woodstock,GA
+1239,Upshur County,Gilmer,TX
+1240,Los Angeles County,Pomona,CA
+1241,Garrard County,Lancaster,KY
+1242,Crawford County,English,IN
+1243,Tulare County,Dinuba,CA
+1244,Marion County,Monteagle,TN
+1245,Mercer County,Sharon,PA
+1246,Lake County,Deerfield,IL
+1247,Mercer County,Princeton,WV
+1248,Ottawa County,Fairland,OK
+1249,Howard County,Elkridge,MD
+1250,Jackson County,Independence,MO
+1251,Forsyth County,Cumming,GA
+1252,Henderson County,Reagan,TN
+1253,Mower County,Austin,MN
+1254,Mille Lacs County,Vineland,MN
+1255,Giles County,Pearisburg,VA
+1256,Honolulu County,Kahuku,HI
+1257,Fayette County,Tyrone,GA
+1258,Fulton County,Fulton,KY
+1259,Fairfax County,Herndon,VA
+1260,Hamilton County,Soddy-Daisy,TN
+1261,San Bernardino County,Twentynine Palms,CA
+1262,Monterey County,Salinas,CA
+1263,Adair County,Watts,OK
+1264,Lake County,Gary,IN
+1265,Grand Forks County,Grand Forks,ND
+1266,St. Louis County,Florissant,MO
+1267,Caroline County,Woodford,VA
+1268,Hutchinson County,Fritch,TX
+1269,Washington County,Greenville,MS
+1270,Clark County,Jean,NV
+1271,Lincoln County,Waldoboro,ME
+1272,Los Angeles County,Carson,CA
+1273,Bulloch County,Brooklet,GA
+1274,Sangamon County,Springfield,IL
+1275,Jefferson Parish,Kenner,LA
+1276,San Luis Obispo County,Atascadero,CA
+1277,Kent County,Algoma Township,MI
+1278,Lancaster County,Lancaster City,PA
+1279,Ada County,Kuna,ID
+1280,Calhoun County,Oxford,AL
+1281,DeSoto County,Southaven,MS
+1282,Jackson County,Millston,WI
+1283,Baltimore County,Overlea,MD
+1284,Butler County,Madison Township,OH
+1285,Los Angeles County,Alhambra,CA
+1286,Pecos County,Fort Stockton,TX
+1287,King County,Des Moines,WA
+1288,New London County,Oakdale,CT
+1289,Pittsburg County,Kiowa,OK
+1290,Snohomish County,Lynnwood,WA
+1291,Los Angeles County,Hollywood,CA
+1292,San Bernardino County,Highland,CA
+1293,Wichita County,Wichita Falls,TX
+1294,Clay County,Orange Park,FL
+1295,Placer County,Olympic Valley,CA
+1296,Carson County,Panhandle,TX
+1297,Robeson County,Rowland,NC
+1298,Taylor County,Grafton,WV
+1299,Cook County,Forest Park,IL
+1300,Colquitt County,Moultrie,GA
+1301,Volusia County,DeLand,FL
+1302,Montgomery County,Englewood,OH
+1303,Adams County,Commerce City,CO
+1304,Los Angeles County,Santa Monica,CA
+1305,Jackson County,Jackson County,AL
+1306,Maury County,Mt. Pleasant,TN
+1307,Trumbull County,Howland Township,OH
+1308,Madison County,Richmond,KY
+1309,Franklin County,Brookville,IN
+1310,Caddo County,Anadarko,OK
+1311,Ashtabula County,Geneva Township,OH
+1312,McKinley County,Crownpoint,NM
+1313,Kennebec County,Vassalboro,ME
+1314,Oklahoma County,Bethany,OK
+1315,Cumberland County,Bridgeton,NJ
+1316,Honolulu County,Aiea,HI
+1317,Kaufman County,Terrell,TX
+1318,Santa Barbara County,Santa Barbara,CA
+1319,Mohave County,Golden Shores,AZ
+1320,Knox County,Vincennes,IN
+1321,Cape Girardeau County,Cape Girardeau,MO
+1322,Stanislaus County,Newman,CA
+1323,Los Angeles County,Gardena,CA
+1324,Trinity County,Douglas City,CA
+1325,Dallas County,Grand Prarie,TX
+1326,Matanuska-Susitna,Big Lake,AK
+1327,Cumberland County,Portland,ME
+1328,Orange County,Efland,NC
+1329,Marion County,Bull Shoals,AR
+1330,Buchanan County,St. Joseph,MO
+1331,Weber County,Roy,UT
+1332,Montgomery County,Conroe,TX
+1333,Harvey County,Newton,KS
+1334,Osage County,Fairfax,OK
+1335,Laurel County,London,KY
+1336,Placer County,Rocklin,CA
+1337,Stewart County,Lumpkin,GA
+1338,Sarasota County,Englewood,FL
+1339,Tooele County,Aragonite,UT
+1340,Citrus County,Floral City,FL
+1341,Cleveland County,Shelby,NC
+1342,Lincoln County,Corning,WI
+1343,Angelina County,Lufkin,TX
+1344,Marathon County,Rib Mountain,WI
+1345,San Diego County,San Marcos,CA
+1346,Arapahoe County,Englewood,CO
+1347,Kings County,Lemoore,CA
+1348,Greenville County,Fountain Inn,SC
+1349,Riverside County,Cabazon,CA
+1350,Medina County,Medina,OH
+1351,Los Angeles County,Ladera Heights,CA
+1352,Washington County,Union Township,PA
+1353,Riverside County,Riverside,CA
+1354,Orange County,Huntington Beach,CA
+1355,San Diego County,Escondido,CA
+1356,Ellis County,Midlothian,TX
+1357,East Baton Rouge Parish,East Baton Rouge,LA
+1358,Whatcom County,Bellingham,WA
+1359,Cuyahoga County,Euclid,OH
+1360,Baltimore County,Woodlawn,MD
+1361,Ocean County,Toms River,NJ
+1362,Pierce County,Fife,WA
+1363,Bay County,Panama City Beach,FL
+1364,Macomb County,Warren,MI
+1365,Shelby County,Lakeland,TN
+1366,Polk County,Cedartown,GA
+1367,St. Louis County,Affton,MO
+1368,Indian River County,Gifford,FL
+1369,Brevard County,Cape Canaveral,FL
+1370,Riverside County,Desert Edge,CA
+1371,Owsley County,Booneville,KY
+1372,Acadia Parish,Crowley,LA
+1373,Marathon County,Weston,WI
+1374,Grant County,Sheridan,AR
+1375,Shasta County,Cottonwood,CA
+1376,Eastland County,Cisco,TX
+1377,Shasta County,Anderson,CA
+1378,Palm Beach County,Delray Beach,FL
+1379,Marshall County,Lewisburg,TN
+1380,Montgomery County,Montgomery Village,MD
+1381,Tippecanoe County,Lafayette,IN
+1382,Manistee County,Manistee,MI
+1383,Jo Daviess County,Stockton,IL
+1384,McClain County,Byars,OK
+1385,New Castle County,New Castle,DE
+1386,Anderson County,Lawrenceburg,KY
+1387,Grayson County,Whitewright,TX
+1388,Middlesex County,Cranbury Township,NJ
+1389,Escambia County,Cantonment,FL
+1390,Anderson County,Pendleton,SC
+1391,Elkhart County,Goshen,IN
+1392,Franklin County,Westerville,OH
+1393,Pinellas County,Largo,FL
+1394,Oglala Lakota County,Kyle,SD
+1395,Ventura County,Santa Paula,CA
+1396,Maricopa County,Avondale,AZ
+1397,Cowley County,Udall,KS
+1398,Hartford County,Suffield,CT
+1399,Pierce County,Spanaway,WA
+1400,Morton County,Mandan,ND
+1401,Crittenden County,West Memphis,AR
+1402,Orange County,Newport Beach,CA
+1403,Ashtabula County,Colebrook Township,OH
+1404,Ramsey County,Vadnais Heights,MN
+1405,Montgomery County,Clarksville,TN
+1406,Pendleton County,Brandywine,WV
+1407,Logan County,Logan County,OK
+1408,Clackamas County,West Linn,OR
+1409,Sutter County,Yuba City,CA
+1410,Porter County,Portage,IN
+1411,Bell County,Killeen,TX
+1412,York County,Stewartstown,PA
+1413,Josephine County,Wolf Creek,OR
+1414,Los Angeles County,Bellflower,CA
+1415,Bibb County,Lizella,GA
+1416,Mifflin County,Lewistown,PA
+1417,New Castle County,Middletown,DE
+1418,San Mateo County,San Mateo,CA
+1419,Dallas County,Balch Springs,TX
+1420,Hawaii County,Papaaloa,HI
+1421,Santa Fe County,Eldorado,NM
+1422,McCurtain County,Tom,OK
+1423,San Diego County,University City,CA
+1424,Kent County,Grand Rapids,MI
+1425,Fayette County,Peachtree City,GA
+1426,Fort Bend County,Katy,TX
+1427,Erie County,Buffalo,NY
+1428,Fairfield County,Bridgeport,CT
+1429,Lexington County,Lexington,SC
+1430,Seneca County,Tiffin,OH
+1431,Livingston County,Brighton Township,MI
+1432,San Diego County,Barona Indian Reservation,CA
+1433,Baldwin County,Baldwin County,AL
+1434,Palm Beach County,Jupiter,FL
+1435,Milwaukee County,West Allis,WI
+1436,San Diego County,Del Mar,CA
+1437,Seminole County,Wewoka,OK
+1438,Orange County,Tustin,CA
+1439,Gallatin County,Three Forks,MT
+1440,Northampton County,Lower Mount Bethel,PA
+1441,Kennebec County,Belgrade,ME
+1442,Outagamie County,Appleton,WI
+1443,Sabine Parish,Converse,LA
+1444,Elmore County,Mountain Home,ID
+1445,Nye County,Pahrump,NV
+1446,Stark County,Canton,OH
+1447,Cibola County,San Rafael,NM
+1448,Scott County,Oneida,TN
+1449,Cobb County,Austell,GA
+1450,Wake County,Cary,NC
+1451,York County,Arundel,ME
+1452,Solano County,Vacaville,CA
+1453,Berkeley County,Gerrardstown,WV
+1454,San Bernardino County,Hesperia,CA
+1455,Arapahoe County,Centennial,CO
+1456,Nassau County,Yulee,FL
+1457,Henry County,Abbeville,AL
+1458,Forrest County,Petal,MS
+1459,Nassau County,Callahan,FL
+1460,San Diego County,Campo,CA
+1461,Nelson County,Bardstown,KY
+1462,Polk County,Lakes Wales,FL
+1463,Penobscot County,Orrington,ME
+1464,Baltimore County,Dundalk,MD
+1465,Caldwell County,Hudson,NC
+1466,Sequoyah County,Roland,OK
+1467,Cook County,Lyons,IL
+1468,Iowa County,North English,IA
+1469,Taylor County,Abilene,TX
+1470,Fresno County,Selma,CA
+1471,Collin County,Plano,TX
+1472,Knox County,Trosper,KY
+1473,St. Martin Parish,Cade,LA
+1474,Jersey County,Jerseyville,IL
+1475,Rockingham County,Hampton,NH
+1476,Alexandria city,Alexandria,VA
+1477,Fayette County,Somerville,TN
+1478,Rockingham County,Newton,NH
+1479,Yalobusha County,Water Valley,MS
+1480,Madera County,Madera,CA
+1481,Los Angeles County,Montebello,CA
+1482,Waukesha County,Waukesha,WI
+1483,Williamson County,Franklin,TN
+1484,Butler County,St. Clair Township,OH
+1485,Marion County,Lehigh,KS
+1486,Vernon County,Nevada,MO
+1487,McCurtain County,Millerton,OK
+1488,Lane County,Florence,OR
+1489,Washington County,Deer Park,AL
+1490,San Miguel County,Rowe,NM
+1491,Cobb County,Marietta,GA
+1492,Logan County,Lawndale,IL
+1493,Hamilton County,Fishers,IN
+1494,Houston County,Bonaire,GA
+1495,Adams County,Federal Heights,CO
+1496,Montgomery County,Vandalia,OH
+1497,Davis County,Centerville,UT
+1498,Benton County,Richland,WA
+1499,Monroe County,Maeystown,IL
+1500,Sequoyah County,Sallisaw,OK
+1501,Somerset County,Madison,ME
+1502,Hillsborough County,Plant City,FL
+1503,Evangeline Parish,Mamou,LA
+1504,Thurston County,Lacey,WA
+1505,Putnam County,Crescent City,FL
+1506,Sampson County,Newton Grove,NC
+1507,Stark County,Uniontown,OH
+1508,Kitsap County,Bainbridge Island,WA
+1509,Carroll County,Mt Airy,MD
+1510,Chisago County,North Branch,MN
+1511,Butler County,Poplar Bluff,MO
+1512,Leavenworth County,Leavenworth,KS
+1513,Mohave County,Golden Valley,AZ
+1514,Dillon County,Lake View,SC
+1515,San Luis Obispo County,Grover Beach,CA
+1516,Graham County,Pima,AZ
+1517,Pasco County,Crystal Springs,FL
+1518,Maricopa County,Goodyear,AZ
+1519,Culpeper County,Culpeper,VA
+1520,Jefferson County,Clay,AL
+1521,Lane County,Springfield,OR
+1522,Saginaw County,Saginaw,MI
+1523,Newton County,Neosho,MO
+1524,Worcester County,Spencer,MA
+1525,Crittenden County,Marion,AR
+1526,Indian River County,Vero Beach,FL
+1527,Claiborne Parish,Homer,LA
+1528,Kings County,Avenal,CA
+1529,Chelan County,Wenatchee,WA
+1530,Madera County,Chowchilla,CA
+1531,Schenectady County,Glenville,NY
+1532,Canyon County,Melba,ID
+1533,Winnebago County,Oshkosh,WI
