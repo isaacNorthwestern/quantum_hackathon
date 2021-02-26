@@ -126,7 +126,7 @@
 124,2015-02-20,shot,unarmed,31.0,M,H,Euless,TX,False,other,no flee,False,True,30-40,2015
 125,2015-02-20,shot,gun,38.0,M,B,Homewood,AL,False,attack,no flee,False,True,30-40,2015
 126,2015-02-20,shot,gun,77.0,M,B,Birmingham,AL,True,attack,no flee,False,True,70-80,2015
-127,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2015
+127,2015-02-20,shot,gun,,M,H,Houston,TX,False,attack,flee,False,True,,2015
 128,2015-02-21,shot,gun,41.0,M,W,Ruidoso,NM,False,attack,no flee,False,True,40-50,2015
 129,2015-02-21,shot,other,51.0,M,W,Indianapolis,IN,False,attack,no flee,False,True,50-60,2015
 130,2015-02-22,shot,gun,50.0,M,W,Palm Bay,FL,False,attack,no flee,False,True,40-50,2015
@@ -768,7 +768,7 @@
 766,2015-10-11,shot,gun,44.0,M,A,Lakes Charles,LA,False,attack,no flee,False,True,40-50,2015
 767,2015-10-11,shot,gun,23.0,M,B,Taylors,SC,False,attack,no flee,False,True,20-30,2015
 768,2015-10-11,shot,other,43.0,M,H,West Odessa,TX,False,other,flee,False,True,40-50,2015
-769,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2015
+769,2015-10-12,shot,gun,,M,B,Lawton,OK,False,attack,no flee,False,True,,2015
 770,2015-10-12,shot,gun,31.0,M,W,Brookhaven,MS,False,attack,no flee,False,True,30-40,2015
 771,2015-10-14,shot,gun,27.0,M,W,Cartersville,GA,False,attack,no flee,False,True,20-30,2015
 772,2015-10-14,shot,gun,46.0,F,W,Naples,FL,True,attack,flee,False,True,40-50,2015
@@ -808,7 +808,7 @@
 806,2015-10-24,shot,gun,28.0,M,W,Zanesville,OH,True,attack,no flee,False,True,20-30,2015
 807,2015-10-24,shot,gun,47.0,M,W,Paddock Lake,WI,False,attack,no flee,False,True,40-50,2015
 808,2015-10-24,shot,other,49.0,M,W,Kenai Peninsula,AK,False,attack,no flee,False,True,40-50,2015
-809,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2015
+809,2015-10-24,shot,gun,,M,,New Paltz,NY,False,attack,no flee,False,True,,2015
 810,2015-10-25,shot,gun,36.0,M,W,Talking Rock,GA,False,attack,no flee,False,True,30-40,2015
 811,2015-10-26,shot,other,45.0,M,B,Frederick,MD,False,other,no flee,False,True,40-50,2015
 812,2015-10-26,shot,gun,21.0,F,B,Washington,DC,False,attack,no flee,False,True,20-30,2015
@@ -818,7 +818,7 @@
 816,2015-10-28,shot,gun,57.0,M,W,Smithville,MS,False,attack,no flee,False,True,50-60,2015
 817,2015-10-28,shot,gun,34.0,M,B,Jacksonville,FL,False,attack,no flee,False,True,30-40,2015
 818,2015-10-28,shot,gun,35.0,M,W,Salem,OR,False,attack,flee,False,True,30-40,2015
-819,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2015
+819,2015-10-29,shot,gun,,M,B,Columbus,OH,False,other,no flee,False,True,,2015
 820,2015-10-29,shot,gun,18.0,M,W,Hohenwald,TN,False,attack,no flee,False,True,10-20,2015
 821,2015-10-30,shot,gun,62.0,M,W,Burkesville,KY,False,attack,flee,False,True,60-70,2015
 822,2015-10-30,shot,gun,29.0,M,H,Mesquite,TX,False,attack,flee,False,True,20-30,2015
@@ -931,7 +931,7 @@
 929,2015-12-10,shot,gun,34.0,M,W,Indianapolis,IN,False,attack,no flee,False,True,30-40,2015
 930,2015-12-10,shot,gun,55.0,M,B,Taylors,SC,False,attack,no flee,False,True,50-60,2015
 931,2015-12-10,shot,other,54.0,M,W,Marina,CA,False,attack,no flee,False,True,50-60,2015
-932,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2015
+932,2015-12-10,shot,gun,,M,,Hemet,CA,False,attack,no flee,False,True,,2015
 933,2015-12-11,shot,unarmed,36.0,M,W,Tucson,AZ,False,attack,no flee,False,True,30-40,2015
 934,2015-12-12,shot,other,25.0,M,B,Indianapolis,IN,True,attack,no flee,False,True,20-30,2015
 935,2015-12-12,shot,gun,24.0,M,B,Chattanooga,TN,False,attack,no flee,False,True,20-30,2015
@@ -939,7 +939,7 @@
 937,2015-12-12,shot,other,36.0,M,W,Healdton,OK,False,attack,no flee,False,True,30-40,2015
 938,2015-12-12,shot,gun,20.0,M,W,East Stroudsburg,PA,True,attack,no flee,False,True,10-20,2015
 939,2015-12-12,shot,other,49.0,M,H,San Bernardino,CA,False,attack,unknown,False,True,40-50,2015
-940,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2015
+940,2015-12-12,shot,other,,M,,Aurora,CO,False,attack,unknown,False,True,,2015
 941,2015-12-13,shot,gun,51.0,F,W,Arlington,TX,True,attack,no flee,False,True,50-60,2015
 942,2015-12-13,shot,other,21.0,M,W,Denton,TX,True,other,no flee,False,True,20-30,2015
 943,2015-12-13,shot,other,30.0,M,O,Thurston County,WA,False,attack,no flee,False,True,20-30,2015
@@ -953,7 +953,7 @@
 951,2015-12-14,shot,gun,33.0,M,W,Mount Hope,WV,False,attack,no flee,False,True,30-40,2015
 952,2015-12-14,shot and Tasered,other,52.0,M,W,Middle River,MD,True,other,no flee,False,True,50-60,2015
 953,2015-12-15,shot,unknown,51.0,M,B,Dallas,NC,False,attack,flee,False,True,50-60,2015
-954,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2015
+954,2015-12-16,shot,other,,M,W,Camarillo,CA,True,attack,no flee,False,True,,2015
 955,2015-12-17,shot,other,25.0,M,W,Kent,OH,True,other,no flee,False,True,20-30,2015
 956,2015-12-17,shot,gun,24.0,M,W,Modesto,CA,False,attack,flee,False,True,20-30,2015
 957,2015-12-18,shot,gun,22.0,F,W,Northwood,OH,False,attack,flee,False,True,20-30,2015
@@ -965,7 +965,7 @@
 963,2015-12-20,shot,gun,31.0,M,H,Amarillo,TX,True,attack,no flee,False,True,30-40,2015
 964,2015-12-21,shot,gun,34.0,M,H,Hemet,CA,False,attack,no flee,False,True,30-40,2015
 965,2015-12-21,shot,gun,48.0,M,B,Douglasville,GA,False,attack,no flee,False,True,40-50,2015
-966,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2015
+966,2015-12-21,shot,unarmed,,M,B,Breaux Bridge,LA,True,other,no flee,False,True,,2015
 967,2015-12-21,shot,gun,21.0,M,W,Canaan Township,PA,True,attack,no flee,False,True,20-30,2015
 968,2015-12-21,shot,gun,39.0,M,W,Deltona,FL,False,attack,no flee,False,True,30-40,2015
 969,2015-12-21,shot,gun,25.0,M,B,Aurora,CO,False,attack,no flee,False,True,20-30,2015
@@ -989,7 +989,7 @@
 987,2015-12-27,shot,other,52.0,M,W,Franklin,LA,False,undetermined,no flee,False,True,50-60,2015
 988,2015-12-28,shot,other,28.0,M,W,Suffolk,VA,False,attack,no flee,True,True,20-30,2015
 989,2015-12-29,shot,other,50.0,F,,Santa Nella,CA,True,other,no flee,False,True,40-50,2015
-990,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2015
+990,2015-12-29,shot,other,,M,A,Rosemead,CA,False,undetermined,no flee,False,True,,2015
 991,2015-12-30,shot,other,55.0,M,H,Fresno,CA,False,attack,no flee,True,True,50-60,2015
 992,2015-12-30,shot,other,39.0,M,,Rawlins,WY,False,undetermined,unknown,False,True,30-40,2015
 993,2015-12-31,shot,unarmed,23.0,M,B,Las Vegas,NV,False,other,no flee,True,True,20-30,2015
@@ -1336,7 +1336,7 @@
 1334,2016-05-05,shot,unknown,36.0,M,W,Gretna,LA,False,attack,flee,False,True,30-40,2016
 1335,2016-05-05,shot,gun,38.0,M,B,Milwaukee,WI,False,attack,flee,True,True,30-40,2016
 1336,2016-05-05,shot,gun,26.0,F,B,Orlando,FL,False,attack,no flee,False,True,20-30,2016
-1337,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1337,2016-05-06,shot,gun,,M,B,Weirton,WV,True,other,no flee,False,True,,2016
 1338,2016-05-07,shot,gun,29.0,M,W,Lake Stevens,WA,True,other,no flee,False,True,20-30,2016
 1339,2016-05-07,shot,gun,37.0,M,B,St. Petersburg,FL,False,attack,flee,False,True,30-40,2016
 1340,2016-05-07,shot and Tasered,other,29.0,M,O,Presque Isle,ME,False,other,no flee,False,True,20-30,2016
@@ -1351,7 +1351,7 @@
 1349,2016-05-11,shot,gun,35.0,M,W,Aurora,CO,False,attack,flee,False,True,30-40,2016
 1350,2016-05-11,shot,unknown,33.0,M,A,San Diego,CA,False,other,flee,True,True,30-40,2016
 1351,2016-05-11,shot,gun,24.0,M,B,Greeley,CO,False,attack,flee,False,True,20-30,2016
-1352,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1352,2016-05-11,shot,gun,,M,W,Byng,OK,True,attack,flee,False,True,,2016
 1353,2016-05-13,shot,gun,28.0,M,H,Boyle Heights,CA,False,attack,no flee,True,True,20-30,2016
 1354,2016-05-14,shot,other,19.0,M,W,Jacksonsville,FL,True,other,no flee,False,True,10-20,2016
 1355,2016-05-14,shot,gun,43.0,M,N,Phoenix,AZ,False,attack,no flee,True,True,40-50,2016
@@ -1384,7 +1384,7 @@
 1382,2016-05-25,shot,unknown,24.0,M,B,Miami Gardens,FL,False,other,flee,False,True,20-30,2016
 1383,2016-05-26,shot,gun,29.0,M,W,St. Paul,MN,False,attack,no flee,False,True,20-30,2016
 1384,2016-05-26,shot,gun,43.0,M,W,Lansing,IL,False,attack,flee,False,True,40-50,2016
-1385,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1385,2016-05-26,shot,gun,,M,,San Antonio,TX,False,other,no flee,False,True,,2016
 1386,2016-05-26,shot,other,21.0,M,B,Washington Park,IL,False,undetermined,flee,False,True,20-30,2016
 1387,2016-05-26,shot,gun,19.0,M,H,Solvang,CA,False,attack,flee,False,True,10-20,2016
 1388,2016-05-26,shot,other,48.0,F,W,Sneads,FL,False,other,no flee,False,True,40-50,2016
@@ -1399,7 +1399,7 @@
 1397,2016-05-30,shot,gun,70.0,M,W,Tualatin,OR,False,attack,no flee,False,True,60-70,2016
 1398,2016-05-30,shot,gun,33.0,M,B,Tucson,AZ,False,attack,no flee,False,True,30-40,2016
 1399,2016-05-31,shot,other,36.0,M,W,Bend,OR,False,other,no flee,False,True,30-40,2016
-1400,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1400,2016-06-01,shot,gun,,M,,Phoenix,AZ,False,attack,no flee,False,True,,2016
 1401,2016-06-01,shot,gun,21.0,M,B,Newnan,GA,False,attack,flee,True,True,20-30,2016
 1402,2016-06-01,shot,gun,51.0,M,W,Berea,KY,False,attack,flee,False,True,50-60,2016
 1403,2016-06-02,shot,other,43.0,M,B,Norfolk,VA,True,other,no flee,True,True,40-50,2016
@@ -1421,7 +1421,7 @@
 1419,2016-06-09,shot,gun,38.0,M,W,York,PA,False,attack,unknown,False,True,30-40,2016
 1420,2016-06-09,shot,gun,52.0,M,B,Port Arthur,TX,False,other,flee,False,True,50-60,2016
 1421,2016-06-09,shot,gun,68.0,M,W,Ishpeming Township,MI,True,attack,no flee,True,True,60-70,2016
-1422,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1422,2016-06-09,shot,other,,M,,Somerton,AZ,False,attack,no flee,False,True,,2016
 1423,2016-06-10,shot,other,29.0,M,W,Iredell County,NC,False,other,no flee,False,True,20-30,2016
 1424,2016-06-10,shot,gun,32.0,M,H,Pueblo,CO,False,attack,flee,False,True,30-40,2016
 1425,2016-06-10,shot,gun,50.0,M,H,Yakima,WA,False,attack,no flee,True,True,40-50,2016
@@ -1462,7 +1462,7 @@
 1460,2016-06-22,shot,unarmed,22.0,M,B,Atlanta,GA,False,undetermined,flee,False,True,20-30,2016
 1461,2016-06-22,shot,gun,31.0,M,W,Bellville,TX,False,attack,no flee,True,True,30-40,2016
 1462,2016-06-23,shot,gun,25.0,M,B,Wauwatosa,WI,False,other,no flee,True,True,20-30,2016
-1463,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1463,2016-06-23,shot,gun,,M,B,Belleville,IL,False,attack,flee,False,True,,2016
 1464,2016-06-23,shot,gun,29.0,M,,Hanover,NM,False,undetermined,no flee,False,True,20-30,2016
 1465,2016-06-24,shot,gun,36.0,M,B,Paterson,NJ,False,attack,no flee,False,True,30-40,2016
 1466,2016-06-24,shot,gun,50.0,M,W,Farmington,AR,False,attack,no flee,False,True,40-50,2016
@@ -1471,7 +1471,7 @@
 1469,2016-06-24,shot,gun,26.0,M,H,Riverview,FL,False,attack,no flee,False,True,20-30,2016
 1470,2016-06-25,shot,unarmed,19.0,M,W,Fresno,CA,True,other,flee,True,True,10-20,2016
 1471,2016-06-25,shot,gun,59.0,M,W,Pinellas Park,FL,False,attack,no flee,False,True,50-60,2016
-1472,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1472,2016-06-25,shot,gun,,M,,Buckeye,AZ,False,attack,no flee,True,True,,2016
 1473,2016-06-25,shot and Tasered,unarmed,36.0,M,H,Gainesville,GA,False,attack,flee,False,True,30-40,2016
 1474,2016-06-26,shot,other,51.0,M,W,Columbia Township,MI,True,attack,no flee,False,True,50-60,2016
 1475,2016-06-26,shot,other,27.0,M,H,Thomaston,CT,False,other,no flee,False,True,20-30,2016
@@ -1485,7 +1485,7 @@
 1483,2016-06-28,shot,other,27.0,M,A,Long Beach,CA,False,other,flee,False,True,20-30,2016
 1484,2016-06-28,shot,other,61.0,M,A,Honolulu,HI,False,attack,no flee,False,True,60-70,2016
 1485,2016-06-29,shot,other,30.0,M,W,Barbourville,KY,False,attack,no flee,False,True,20-30,2016
-1486,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1486,2016-06-29,shot,gun,,M,B,Ouachita Parish,LA,False,attack,no flee,False,True,,2016
 1487,2016-06-29,shot,gun,37.0,M,B,Fort Madison,IA,False,attack,flee,False,True,30-40,2016
 1488,2016-06-29,shot,other,41.0,M,W,Madison,WI,True,other,no flee,False,True,40-50,2016
 1489,2016-06-30,shot,gun,25.0,M,B,Columbus,OH,False,undetermined,unknown,False,True,20-30,2016
@@ -1497,12 +1497,12 @@
 1495,2016-07-02,shot,gun,35.0,M,B,Asheville,NC,False,other,flee,False,True,30-40,2016
 1496,2016-07-02,shot,gun,50.0,M,W,Bristol,TN,False,attack,no flee,False,True,40-50,2016
 1497,2016-07-03,shot,other,40.0,M,W,New Iberia,LA,True,other,no flee,False,True,30-40,2016
-1498,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1498,2016-07-03,shot,unknown,,M,H,Reno,NV,False,other,flee,False,True,,2016
 1499,2016-07-03,shot,unknown,19.0,M,H,Fullerton,CA,False,other,flee,False,True,10-20,2016
 1500,2016-07-04,shot,gun,34.0,M,W,North Charleston,SC,False,attack,no flee,True,True,30-40,2016
 1501,2016-07-04,shot,gun,18.0,M,H,San Jose,CA,True,other,no flee,False,True,10-20,2016
 1502,2016-07-04,shot,gun,21.0,M,B,Washington,DC,False,attack,no flee,False,True,20-30,2016
-1503,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1503,2016-07-04,shot,other,,M,,Rosser,TX,False,other,no flee,True,True,,2016
 1504,2016-07-05,shot,other,29.0,M,W,Salem,OR,False,undetermined,unknown,False,True,20-30,2016
 1505,2016-07-05,shot,other,49.0,M,W,Temecula,CA,False,other,flee,False,True,40-50,2016
 1506,2016-07-05,shot,other,24.0,F,H,Yuma,AZ,False,other,no flee,False,True,20-30,2016
@@ -1648,7 +1648,7 @@
 1646,2016-09-01,shot,unknown,60.0,M,W,Sylvania Township,OH,True,other,no flee,False,True,50-60,2016
 1647,2016-09-01,shot,gun,18.0,M,W,Wichita,KS,False,other,flee,True,True,10-20,2016
 1648,2016-09-01,shot,gun,23.0,M,H,Florence,CA,False,other,flee,False,True,20-30,2016
-1649,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1649,2016-09-01,shot and Tasered,other,,M,H,Huntington Park,CA,False,other,no flee,False,True,,2016
 1650,2016-09-02,shot,gun,38.0,M,H,Alamogordo,NM,False,attack,flee,True,True,30-40,2016
 1651,2016-09-02,shot,gun,40.0,M,,Parker,CO,True,attack,flee,True,True,30-40,2016
 1652,2016-09-02,shot,other,22.0,M,W,Round Lake,IL,False,other,no flee,False,True,20-30,2016
@@ -1656,8 +1656,8 @@
 1654,2016-09-03,shot,other,25.0,M,B,Atlantic City,NJ,False,undetermined,flee,False,True,20-30,2016
 1655,2016-09-03,shot,other,25.0,M,W,East Wenatchee,WA,False,undetermined,no flee,False,True,20-30,2016
 1656,2016-09-03,shot,gun,36.0,M,W,Metropolis,IL,False,undetermined,flee,False,True,30-40,2016
-1657,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
-1658,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1657,2016-09-03,shot,gun,,M,,Temple,TX,False,attack,flee,False,True,,2016
+1658,2016-09-04,shot,other,,M,H,Long Beach,CA,True,other,no flee,False,True,,2016
 1659,2016-09-04,shot,other,44.0,M,H,Grand Junction,CO,True,other,no flee,False,True,40-50,2016
 1660,2016-09-05,shot,gun,36.0,M,B,Ellis County,TX,False,attack,flee,False,True,30-40,2016
 1661,2016-09-05,shot,gun,35.0,M,H,Austin,TX,False,other,no flee,False,True,30-40,2016
@@ -1737,7 +1737,7 @@
 1735,2016-10-07,shot,other,57.0,M,B,Macon,GA,False,other,no flee,False,True,50-60,2016
 1736,2016-10-07,shot,other,36.0,M,W,Fort Wayne,IN,False,other,no flee,False,True,30-40,2016
 1737,2016-10-07,shot,gun,42.0,M,W,Killeen,AL,False,attack,no flee,False,True,40-50,2016
-1738,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1738,2016-10-07,shot,gun,,M,B,Alexandria,LA,False,attack,no flee,False,True,,2016
 1739,2016-10-07,shot,other,49.0,M,W,Benton,AR,False,other,no flee,False,True,40-50,2016
 1740,2016-10-08,shot,other,21.0,M,H,Federal Way,WA,True,other,no flee,False,True,20-30,2016
 1741,2016-10-08,shot,unknown,39.0,M,,Wetumka,OK,False,other,no flee,False,True,30-40,2016
@@ -1828,9 +1828,9 @@
 1826,2016-11-10,shot,gun,41.0,M,H,San Angelo,TX,False,undetermined,unknown,False,True,40-50,2016
 1827,2016-11-10,shot,gun,53.0,M,W,Lakeland,FL,False,attack,no flee,False,True,50-60,2016
 1828,2016-11-11,shot,unknown,24.0,M,W,Grand Junction,CO,False,attack,flee,False,True,20-30,2016
-1829,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1829,2016-11-11,shot,gun,,M,H,Boise,ID,False,attack,flee,False,True,,2016
 1830,2016-11-11,shot,gun,47.0,M,,Montrose County,CO,False,attack,no flee,False,True,40-50,2016
-1831,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1831,2016-11-11,shot and Tasered,unarmed,,M,B,East Point,GA,False,attack,flee,False,True,,2016
 1832,2016-11-12,shot,gun,40.0,M,W,Anchorage,AK,False,attack,no flee,False,True,30-40,2016
 1833,2016-11-12,shot,gun,29.0,M,H,Tucson,AZ,False,attack,flee,False,True,20-30,2016
 1834,2016-11-13,shot,gun,22.0,M,H,San Diego,CA,False,attack,no flee,True,True,20-30,2016
@@ -1878,7 +1878,7 @@
 1876,2016-11-29,shot,unarmed,31.0,M,W,Iva,SC,False,attack,flee,False,True,30-40,2016
 1877,2016-11-30,shot,gun,25.0,M,B,Kansas City,MO,False,other,no flee,False,True,20-30,2016
 1878,2016-12-01,shot,gun,38.0,M,B,Tacoma,WA,False,attack,no flee,False,True,30-40,2016
-1879,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1879,2016-12-01,shot,gun,,M,H,Tucson,AZ,False,attack,unknown,False,True,,2016
 1880,2016-12-01,shot,gun,83.0,M,W,Dover,AR,False,attack,no flee,False,True,80-90,2016
 1881,2016-12-02,shot,other,22.0,M,W,Simpsonsville,KY,False,other,no flee,False,True,20-30,2016
 1882,2016-12-02,shot,gun,33.0,M,W,Tuscumbia,AL,False,attack,no flee,False,True,30-40,2016
@@ -1894,9 +1894,9 @@
 1892,2016-12-07,shot,other,36.0,M,W,Sioux City,IA,False,other,no flee,False,True,30-40,2016
 1893,2016-12-07,shot,other,20.0,M,,Avella,PA,True,attack,no flee,False,True,10-20,2016
 1894,2016-12-07,shot and Tasered,other,31.0,M,B,Fayetteville,NC,False,other,no flee,True,True,30-40,2016
-1895,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1895,2016-12-08,shot,gun,,M,,Allen,TX,False,attack,no flee,False,True,,2016
 1896,2016-12-09,shot,unknown,30.0,M,O,Keaau,HI,False,other,no flee,False,True,20-30,2016
-1897,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1897,2016-12-09,shot,gun,,M,W,Leland,NC,False,attack,no flee,False,True,,2016
 1898,2016-12-09,shot,gun,35.0,M,W,Forks Township,PA,True,other,no flee,False,True,30-40,2016
 1899,2016-12-10,shot,gun,35.0,M,B,Sumter,SC,False,attack,flee,True,True,30-40,2016
 1900,2016-12-10,shot,other,36.0,M,W,Greenwood,IN,False,other,no flee,True,True,30-40,2016
@@ -1921,22 +1921,22 @@
 1919,2016-12-19,shot,gun,52.0,M,W,Granite Falls,NC,False,other,no flee,False,True,50-60,2016
 1920,2016-12-20,shot,gun,31.0,M,,Hemet,CA,False,other,flee,False,True,30-40,2016
 1921,2016-12-20,shot,other,46.0,M,H,Pharr,TX,False,other,no flee,False,True,40-50,2016
-1922,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1922,2016-12-20,shot,other,,M,,Brawley,CA,True,other,no flee,False,True,,2016
 1923,2016-12-21,shot,other,31.0,M,,Ponca City,OK,False,other,no flee,False,True,30-40,2016
 1924,2016-12-21,shot,gun,25.0,M,W,Burns Flat,OK,False,attack,flee,False,True,20-30,2016
 1925,2016-12-21,shot,unknown,46.0,M,,Knox,IN,False,other,unknown,False,True,40-50,2016
 1926,2016-12-21,shot,unknown,38.0,M,H,Reno,NV,False,attack,flee,False,True,30-40,2016
 1927,2016-12-21,shot,other,25.0,M,,Fayetteville,AR,True,other,no flee,False,True,20-30,2016
-1928,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1928,2016-12-21,shot,other,,M,,Stockton,CA,False,undetermined,no flee,False,True,,2016
 1929,2016-12-21,shot,gun,27.0,M,W,Saraland,AL,False,attack,no flee,False,True,20-30,2016
 1930,2016-12-21,shot,gun,24.0,M,B,Coalinga,CA,False,attack,no flee,False,True,20-30,2016
 1931,2016-12-22,shot,gun,19.0,M,B,Capitol Heights,MD,False,attack,no flee,False,True,10-20,2016
 1932,2016-12-23,shot,other,55.0,M,,Palm Harbor,FL,False,attack,no flee,False,True,50-60,2016
-1933,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1933,2016-12-23,shot,unknown,,M,,El Monte,CA,False,other,flee,False,True,,2016
 1934,2016-12-23,shot and Tasered,other,31.0,M,W,Bend,OR,True,other,no flee,False,True,30-40,2016
 1935,2016-12-24,shot,gun,18.0,M,B,Charlotte,NC,False,undetermined,no flee,False,True,10-20,2016
 1936,2016-12-24,shot,other,53.0,F,W,Lake Wales,FL,False,other,no flee,False,True,50-60,2016
-1937,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1937,2016-12-24,shot,gun,,M,,Gadsden,AL,False,attack,flee,False,True,,2016
 1938,2016-12-24,shot,other,48.0,M,A,Pico Rivera,CA,True,attack,no flee,False,True,40-50,2016
 1939,2016-12-25,shot,other,29.0,M,B,Washington,DC,False,other,no flee,True,True,20-30,2016
 1940,2016-12-25,shot,gun,30.0,M,W,King City,OR,True,attack,flee,False,True,20-30,2016
@@ -1949,7 +1949,7 @@
 1947,2016-12-28,shot,other,28.0,M,W,Spring Hill,TN,False,undetermined,no flee,False,True,20-30,2016
 1948,2016-12-29,shot,gun,52.0,M,,Chestertown,MD,False,undetermined,no flee,True,True,50-60,2016
 1949,2016-12-30,shot,gun,21.0,M,B,Miami,FL,False,other,flee,False,True,20-30,2016
-1950,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2016
+1950,2016-12-30,shot,gun,,M,,Pensacola,FL,False,attack,no flee,False,True,,2016
 1951,2016-12-30,shot and Tasered,other,31.0,M,,Phoenix,AZ,False,other,flee,False,True,30-40,2016
 1952,2016-12-31,shot,other,46.0,M,W,Loxahatchee,FL,True,attack,no flee,False,True,40-50,2016
 1953,2016-12-31,shot,gun,32.0,M,W,Huntingdon County,PA,False,attack,flee,False,True,30-40,2016
@@ -2045,7 +2045,7 @@
 2043,2017-01-30,shot,other,36.0,M,W,Lynnwood,WA,True,other,no flee,False,True,30-40,2017
 2044,2017-01-30,shot and Tasered,gun,45.0,M,H,Fresno,CA,True,attack,no flee,False,True,40-50,2017
 2045,2017-01-30,shot and Tasered,other,42.0,M,W,Modesto,CA,False,other,no flee,False,True,40-50,2017
-2046,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2046,2017-01-31,shot and Tasered,other,,M,B,Hollywood,CA,True,attack,no flee,False,True,,2017
 2047,2017-02-01,shot,unknown,23.0,M,B,Arlington,TX,False,attack,flee,False,True,20-30,2017
 2048,2017-02-01,shot,unknown,31.0,M,B,Highland,CA,False,attack,flee,False,True,30-40,2017
 2049,2017-02-02,shot,other,26.0,M,W,Geneva,WI,False,other,no flee,False,True,20-30,2017
@@ -2076,7 +2076,7 @@
 2074,2017-02-08,shot,other,34.0,M,N,Anadarko,OK,False,other,unknown,False,True,30-40,2017
 2075,2017-02-08,shot,unarmed,25.0,M,B,Chicago,IL,False,other,flee,False,True,20-30,2017
 2076,2017-02-09,shot,other,17.0,M,B,Portland,OR,False,undetermined,flee,False,True,10-20,2017
-2077,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2077,2017-02-09,shot,other,,M,,Crownpoint,NM,False,undetermined,unknown,False,True,,2017
 2078,2017-02-09,shot and Tasered,unarmed,26.0,M,W,Geneva Township,OH,False,other,no flee,False,True,20-30,2017
 2079,2017-02-09,shot and Tasered,other,33.0,M,H,Lake Stevens,WA,True,other,no flee,False,True,30-40,2017
 2080,2017-02-10,shot,other,25.0,M,W,Vancouver,WA,False,other,flee,False,True,20-30,2017
@@ -2091,7 +2091,7 @@
 2089,2017-02-11,shot,unknown,33.0,M,A,Aiea,HI,False,other,flee,False,True,30-40,2017
 2090,2017-02-11,shot,gun,27.0,M,B,Kansas City,MO,False,attack,no flee,False,True,20-30,2017
 2091,2017-02-11,shot,other,32.0,M,W,Louisville,KY,True,attack,no flee,True,True,30-40,2017
-2092,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2092,2017-02-12,shot,unknown,,M,,Terrell,TX,False,other,flee,False,True,,2017
 2093,2017-02-12,shot,gun,31.0,M,B,Durham,NC,False,other,flee,False,True,30-40,2017
 2094,2017-02-12,shot,other,26.0,M,H,Santa Barbara,CA,True,other,flee,False,True,20-30,2017
 2095,2017-02-13,shot,unknown,32.0,M,W,Knoxville,TN,False,attack,flee,False,True,30-40,2017
@@ -2161,7 +2161,7 @@
 2159,2017-03-07,shot,unarmed,38.0,M,W,Medina,OH,False,other,flee,False,True,30-40,2017
 2160,2017-03-07,shot and Tasered,other,41.0,M,B,Ladera Heights,CA,True,other,no flee,False,True,40-50,2017
 2161,2017-03-08,shot,gun,91.0,M,W,Union Township,PA,False,attack,no flee,False,True,90-,2017
-2162,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2162,2017-03-08,shot,other,,M,,Riverside,CA,False,other,no flee,False,True,,2017
 2163,2017-03-08,shot,gun,25.0,M,W,Charlotte,NC,True,other,no flee,False,True,20-30,2017
 2164,2017-03-09,shot,other,29.0,M,W,Huntington Beach,CA,True,other,no flee,False,True,20-30,2017
 2165,2017-03-09,shot and Tasered,other,24.0,M,H,Santa Clara,CA,True,other,unknown,False,True,20-30,2017
@@ -2195,7 +2195,7 @@
 2193,2017-03-19,shot,unarmed,21.0,F,B,Gifford,FL,False,other,no flee,False,True,20-30,2017
 2194,2017-03-19,shot,gun,19.0,M,W,Cape Canaveral,FL,False,attack,flee,False,True,10-20,2017
 2195,2017-03-19,shot,gun,45.0,M,H,DeLand,FL,True,other,flee,False,True,40-50,2017
-2196,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2196,2017-03-19,shot,other,,M,,Desert Hot Springs,CA,False,attack,no flee,False,True,,2017
 2197,2017-03-22,shot,other,42.0,M,W,Booneville,KY,False,other,no flee,False,True,40-50,2017
 2198,2017-03-22,shot,gun,27.0,M,B,Crowley,LA,False,attack,no flee,False,True,20-30,2017
 2199,2017-03-22,shot,gun,45.0,M,A,Weston,WI,False,attack,unknown,False,True,40-50,2017
@@ -2247,7 +2247,7 @@
 2245,2017-04-13,shot,gun,57.0,M,W,Suffield,CT,False,other,unknown,False,True,50-60,2017
 2246,2017-04-14,shot,gun,33.0,M,W,Spanaway,WA,True,other,flee,False,True,30-40,2017
 2247,2017-04-14,shot,other,24.0,M,N,Mandan,ND,False,other,no flee,False,True,20-30,2017
-2248,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2248,2017-04-14,shot,gun,,M,,Paterson,NJ,True,attack,no flee,False,True,,2017
 2249,2017-04-15,shot,gun,33.0,M,B,West Memphis,AR,False,attack,unknown,False,True,30-40,2017
 2250,2017-04-15,shot,other,56.0,M,W,Newport Beach,CA,False,other,no flee,False,True,50-60,2017
 2251,2017-04-15,shot,gun,56.0,M,W,Colebrook Township,OH,True,attack,no flee,False,True,50-60,2017
@@ -2292,7 +2292,7 @@
 2290,2017-05-01,shot,gun,25.0,M,W,Conroe,TX,False,attack,no flee,False,True,20-30,2017
 2291,2017-05-02,shot,gun,20.0,M,H,Austin,TX,True,other,no flee,False,True,10-20,2017
 2292,2017-05-02,shot and Tasered,other,48.0,M,B,Irving,TX,False,attack,no flee,False,True,40-50,2017
-2293,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2293,2017-05-03,shot,other,,M,,San Jose,CA,True,attack,no flee,False,True,,2017
 2294,2017-05-03,shot,gun,24.0,M,W,San Jose,CA,True,attack,no flee,False,True,20-30,2017
 2295,2017-05-03,shot,gun,18.0,M,B,Grand Rapids,MI,False,attack,no flee,True,True,10-20,2017
 2296,2017-05-03,shot,gun,67.0,M,W,Peachtree City,GA,True,attack,no flee,False,True,60-70,2017
@@ -2314,7 +2314,7 @@
 2312,2017-05-10,shot,other,24.0,M,B,Portland,OR,True,other,flee,False,True,20-30,2017
 2313,2017-05-10,shot,gun,50.0,F,B,St. Louis,MO,False,attack,no flee,False,True,40-50,2017
 2314,2017-05-10,shot and Tasered,unknown,50.0,M,W,Barona Indian Reservation,CA,False,other,flee,False,True,40-50,2017
-2315,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2315,2017-05-11,shot,gun,,M,H,Arlington,TX,False,attack,no flee,False,True,,2017
 2316,2017-05-12,shot,gun,30.0,M,W,Billings,MT,True,attack,no flee,False,True,20-30,2017
 2317,2017-05-12,shot,unarmed,35.0,M,W,Baldwin County,AL,False,other,no flee,False,True,30-40,2017
 2318,2017-05-12,shot,gun,46.0,M,W,Jupiter,FL,False,attack,flee,False,True,40-50,2017
@@ -2326,7 +2326,7 @@
 2324,2017-05-15,shot,gun,27.0,F,B,Phoenix,AZ,False,other,no flee,False,True,20-30,2017
 2325,2017-05-15,shot,gun,29.0,M,B,Richmond,VA,False,other,no flee,False,True,20-30,2017
 2326,2017-05-15,shot,gun,47.0,M,W,Johnson City,TN,True,attack,flee,False,True,40-50,2017
-2327,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2327,2017-05-15,shot,other,,M,,Long Beach,CA,False,attack,flee,False,True,,2017
 2328,2017-05-15,shot,other,34.0,M,H,Del Mar,CA,True,attack,flee,False,True,30-40,2017
 2329,2017-05-15,shot,other,48.0,M,W,Wewoka,OK,False,attack,no flee,False,True,40-50,2017
 2330,2017-05-16,shot,gun,41.0,F,W,Washington,DC,False,attack,no flee,False,True,40-50,2017
@@ -2347,14 +2347,14 @@
 2345,2017-05-23,shot,gun,74.0,M,W,Knoxville,TN,False,attack,no flee,False,True,70-80,2017
 2346,2017-05-23,shot and Tasered,gun,21.0,M,H,Glendale,AZ,False,attack,flee,False,True,20-30,2017
 2347,2017-05-24,shot,unarmed,24.0,M,W,Canton,OH,True,attack,no flee,True,True,20-30,2017
-2348,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2348,2017-05-24,shot,gun,,M,H,Los Angeles,CA,False,attack,no flee,False,True,,2017
 2349,2017-05-25,shot,gun,23.0,M,W,Fairbanks,AK,False,attack,flee,False,True,20-30,2017
 2350,2017-05-26,shot,unarmed,59.0,M,H,San Rafael,NM,False,undetermined,no flee,False,True,50-60,2017
 2351,2017-05-26,shot,gun,33.0,M,W,St. Louis,MO,True,attack,no flee,False,True,30-40,2017
 2352,2017-05-26,shot,other,34.0,M,W,Tucson,AZ,True,attack,no flee,False,True,30-40,2017
 2353,2017-05-27,shot,unknown,30.0,M,W,Oneida,TN,False,other,flee,False,True,20-30,2017
 2354,2017-05-27,shot,gun,30.0,M,,Austell,GA,False,attack,no flee,False,True,20-30,2017
-2355,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2355,2017-05-28,shot,gun,,M,,Miami,FL,False,attack,flee,False,True,,2017
 2356,2017-05-28,shot,gun,22.0,M,B,Cary,NC,False,attack,no flee,False,True,20-30,2017
 2357,2017-05-28,shot and Tasered,other,35.0,M,,San Jose,CA,True,other,no flee,False,True,30-40,2017
 2358,2017-05-29,shot,gun,37.0,M,W,Arundel,ME,False,other,no flee,False,True,30-40,2017
@@ -2438,7 +2438,7 @@
 2436,2017-06-25,shot,gun,56.0,M,,Las Vegas,NV,False,attack,no flee,True,True,50-60,2017
 2437,2017-06-26,shot,gun,36.0,M,H,Rowe,NM,True,attack,no flee,False,True,30-40,2017
 2438,2017-06-27,shot and Tasered,gun,35.0,M,H,Amarillo,TX,False,attack,flee,False,True,30-40,2017
-2439,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2439,2017-06-28,shot,gun,,M,,Los Angeles,CA,True,attack,no flee,True,True,,2017
 2440,2017-06-28,shot,other,37.0,M,B,Nashville,TN,False,attack,no flee,False,True,30-40,2017
 2441,2017-06-29,shot,unarmed,45.0,M,B,Indianapolis,IN,False,other,flee,False,True,40-50,2017
 2442,2017-06-29,shot,other,41.0,M,H,Burbank,CA,False,attack,no flee,False,True,40-50,2017
@@ -2455,7 +2455,7 @@
 2453,2017-07-03,shot,gun,51.0,M,W,Fishers,IN,True,attack,no flee,False,True,50-60,2017
 2454,2017-07-03,shot,gun,25.0,M,W,Hillsboro,OR,False,attack,flee,False,True,20-30,2017
 2455,2017-07-03,shot,gun,45.0,M,W,Bonaire,GA,False,undetermined,no flee,False,True,40-50,2017
-2456,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2456,2017-07-04,shot,gun,,M,,Federal Heights,CO,False,undetermined,no flee,False,True,,2017
 2457,2017-07-04,shot,gun,28.0,M,H,Albuquerque,NM,False,undetermined,flee,False,True,20-30,2017
 2458,2017-07-04,shot,other,36.0,M,B,Vandalia,OH,False,attack,no flee,False,True,30-40,2017
 2459,2017-07-04,shot,unknown,32.0,M,H,Centerville,UT,True,undetermined,flee,False,True,30-40,2017
@@ -2570,7 +2570,7 @@
 2568,2017-08-09,shot,unknown,20.0,M,B,Kent,WA,False,attack,flee,False,True,10-20,2017
 2569,2017-08-10,shot,gun,33.0,M,W,Dyer,IN,True,attack,unknown,False,True,30-40,2017
 2570,2017-08-10,shot,gun,49.0,M,W,Los Angeles,CA,False,attack,no flee,False,True,40-50,2017
-2571,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2571,2017-08-11,shot,gun,,M,H,Channelview,TX,False,attack,no flee,False,True,,2017
 2572,2017-08-11,shot,gun,31.0,M,B,Philadelphia,PA,True,other,no flee,False,True,30-40,2017
 2573,2017-08-12,shot,other,35.0,M,H,Frederickson,WA,False,attack,no flee,False,True,30-40,2017
 2574,2017-08-13,shot,gun,24.0,M,W,Habersham,GA,False,other,no flee,False,True,20-30,2017
@@ -2591,7 +2591,7 @@
 2589,2017-08-19,shot,other,32.0,M,W,Homewood,AL,False,attack,no flee,False,True,30-40,2017
 2590,2017-08-20,shot,gun,44.0,M,W,Yellville,AR,False,other,no flee,False,True,40-50,2017
 2591,2017-08-20,shot,gun,32.0,M,B,Brick,NJ,False,attack,no flee,False,True,30-40,2017
-2592,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2592,2017-08-20,shot,other,,M,,Madera,CA,False,other,flee,False,True,,2017
 2593,2017-08-21,shot,other,42.0,M,W,Morganton,NC,False,attack,no flee,False,True,40-50,2017
 2594,2017-08-21,shot,gun,66.0,M,W,Colorado City,CO,False,attack,no flee,False,True,60-70,2017
 2595,2017-08-21,shot,other,22.0,M,W,Franklin,WI,True,other,flee,False,True,20-30,2017
@@ -2626,14 +2626,14 @@
 2624,2017-09-01,shot,other,32.0,M,W,Poultney,VT,True,attack,no flee,False,True,30-40,2017
 2625,2017-09-01,shot,other,45.0,M,W,Mount Hope,WI,False,other,flee,False,True,40-50,2017
 2626,2017-09-01,shot,other,36.0,M,W,Pittsfield,MA,True,other,flee,False,True,30-40,2017
-2627,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2627,2017-09-02,shot,gun,,M,,Beaumont,CA,False,attack,no flee,False,True,,2017
 2628,2017-09-03,shot,gun,37.0,M,B,Milwaukee,WI,False,attack,no flee,False,True,30-40,2017
 2629,2017-09-03,shot,gun,47.0,M,W,Longview,WA,False,other,no flee,False,True,40-50,2017
 2630,2017-09-03,shot,unarmed,30.0,M,W,Akron,OH,True,attack,no flee,True,True,20-30,2017
 2631,2017-09-03,shot,unknown,31.0,M,B,Myrtle Beach,SC,False,attack,flee,False,True,30-40,2017
 2632,2017-09-04,shot,other,44.0,M,W,Toledo,OH,False,attack,no flee,False,True,40-50,2017
 2633,2017-09-04,shot and Tasered,other,52.0,M,W,Columbus,GA,False,attack,no flee,False,True,50-60,2017
-2634,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2634,2017-09-05,shot,other,,F,,Spring,TX,False,attack,flee,False,True,,2017
 2635,2017-09-05,shot,gun,67.0,M,,Hohenwald,TN,False,other,no flee,False,True,60-70,2017
 2636,2017-09-05,shot,other,16.0,M,W,Kendale Lakes,FL,False,attack,no flee,False,True,10-20,2017
 2637,2017-09-06,shot,gun,29.0,M,H,Charlotte,NC,False,other,no flee,False,True,20-30,2017
@@ -2663,7 +2663,7 @@
 2662,2017-09-19,shot,gun,25.0,M,W,Monroe,NC,False,attack,flee,True,True,20-30,2017
 2663,2017-09-19,shot,gun,55.0,M,W,Independence,VA,True,attack,no flee,False,True,50-60,2017
 2664,2017-09-19,shot,other,53.0,M,W,Bernice,LA,False,undetermined,unknown,False,True,50-60,2017
-2665,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2665,2017-09-19,shot,gun,,M,,La Porte,TX,True,attack,no flee,False,True,,2017
 2666,2017-09-19,shot,other,27.0,M,W,Chula Vista,CA,True,attack,no flee,False,True,20-30,2017
 2667,2017-09-20,shot,other,35.0,M,H,Oklahoma City,OK,False,other,no flee,False,True,30-40,2017
 2668,2017-09-20,shot,gun,25.0,M,B,Peoria,IL,True,other,no flee,False,True,20-30,2017
@@ -2674,7 +2674,7 @@
 2673,2017-09-21,shot,unknown,38.0,M,H,Rockwall,TX,False,attack,flee,False,True,30-40,2017
 2674,2017-09-22,shot,gun,26.0,M,H,Oceanside,CA,False,attack,no flee,False,True,20-30,2017
 2675,2017-09-22,shot,gun,27.0,M,O,Huntington Beach,CA,True,attack,no flee,False,True,20-30,2017
-2676,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2676,2017-09-22,shot,other,,M,W,Denver,CO,False,other,no flee,False,True,,2017
 2677,2017-09-22,shot,gun,28.0,M,W,Mesa,AZ,True,attack,no flee,False,True,20-30,2017
 2678,2017-09-22,shot,gun,40.0,M,W,Hattiesburg,MS,False,attack,no flee,False,True,30-40,2017
 2679,2017-09-22,shot,unknown,44.0,M,W,Brooksville,FL,True,attack,flee,False,True,40-50,2017
@@ -2716,7 +2716,7 @@
 2715,2017-10-06,shot,unknown,28.0,M,H,Duarte,CA,False,undetermined,unknown,False,True,20-30,2017
 2716,2017-10-06,shot and Tasered,other,35.0,M,H,Orlando,FL,True,attack,no flee,False,True,30-40,2017
 2717,2017-10-07,shot,gun,25.0,M,W,Charleston,WV,True,attack,flee,False,True,20-30,2017
-2718,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2718,2017-10-08,shot,other,,M,H,Abingdon,VA,False,other,flee,False,True,,2017
 2719,2017-10-08,shot,gun,34.0,F,H,Mesa,AZ,True,undetermined,flee,False,True,30-40,2017
 2720,2017-10-08,shot,other,58.0,M,H,San Fernando,CA,False,other,no flee,False,True,50-60,2017
 2721,2017-10-08,shot,gun,24.0,M,B,Louisville,KY,False,other,no flee,True,True,20-30,2017
@@ -2781,7 +2781,7 @@
 2780,2017-11-01,shot,unknown,28.0,M,W,Pippa Passes,KY,False,attack,flee,False,True,20-30,2017
 2781,2017-11-02,shot,other,56.0,M,W,Sacramento,CA,True,attack,no flee,False,True,50-60,2017
 2782,2017-11-02,shot,gun,71.0,M,W,Lakeland,FL,True,attack,no flee,False,True,70-80,2017
-2783,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2783,2017-11-02,shot,gun,,M,,Inkster,MI,False,attack,no flee,False,True,,2017
 2784,2017-11-03,shot,gun,53.0,M,W,Port Orange,FL,False,attack,flee,False,True,50-60,2017
 2785,2017-11-03,shot,other,43.0,M,,El Paso,TX,False,other,unknown,False,True,40-50,2017
 2786,2017-11-03,shot,gun,44.0,M,,Batesville,AR,False,attack,no flee,False,True,40-50,2017
@@ -2812,7 +2812,7 @@
 2811,2017-11-10,shot,other,43.0,M,B,Phoenix,AZ,False,attack,no flee,False,True,40-50,2017
 2812,2017-11-10,shot,gun,62.0,M,W,Crystal,MN,True,attack,no flee,False,True,60-70,2017
 2813,2017-11-10,shot,gun,25.0,M,B,Denver,CO,False,other,flee,False,True,20-30,2017
-2814,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2814,2017-11-10,shot,unknown,,M,B,Hinds County,MS,False,other,no flee,False,True,,2017
 2815,2017-11-10,shot,gun,50.0,M,W,Albuquerque,NM,False,attack,no flee,False,True,40-50,2017
 2816,2017-11-11,shot,gun,19.0,M,W,Dakota City,IA,True,attack,flee,False,True,10-20,2017
 2817,2017-11-11,shot,gun,41.0,M,B,Las Vegas,NV,False,attack,no flee,False,True,40-50,2017
@@ -2826,7 +2826,7 @@
 2825,2017-11-15,shot,unarmed,29.0,M,A,Oklahoma City,OK,True,other,no flee,True,True,20-30,2017
 2826,2017-11-15,shot,gun,48.0,M,W,Anchorage,AK,False,attack,flee,False,True,40-50,2017
 2827,2017-11-15,shot,gun,22.0,M,H,Van Nuys,CA,False,attack,flee,False,True,20-30,2017
-2828,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2828,2017-11-15,shot,other,,M,B,Jackson,MS,False,other,no flee,False,True,,2017
 2829,2017-11-15,shot,gun,59.0,M,W,Elmira,NY,True,attack,no flee,False,True,50-60,2017
 2830,2017-11-16,shot,gun,68.0,M,B,Cedar Lake,TX,False,attack,no flee,False,True,60-70,2017
 2831,2017-11-17,shot,unarmed,25.0,M,W,Albuquerque,NM,False,other,flee,False,True,20-30,2017
@@ -2857,7 +2857,7 @@
 2856,2017-11-28,shot,unknown,64.0,M,W,Eaton County,MI,False,attack,flee,False,True,60-70,2017
 2857,2017-11-28,shot,gun,30.0,M,W,Reno,NV,False,attack,no flee,False,True,20-30,2017
 2858,2017-11-28,shot,gun,59.0,M,W,Hillyard,WA,False,attack,flee,False,True,50-60,2017
-2859,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2859,2017-11-29,shot,other,,M,,Three Points,AZ,False,attack,unknown,False,True,,2017
 2860,2017-11-29,shot,gun,24.0,M,B,Chicago,IL,False,other,unknown,True,True,20-30,2017
 2861,2017-11-30,shot,gun,32.0,M,B,Hendersonville,NC,False,other,flee,False,True,30-40,2017
 2862,2017-11-30,shot,gun,37.0,M,H,North Hollywood,CA,False,other,flee,False,True,30-40,2017
@@ -2883,28 +2883,28 @@
 2882,2017-12-10,shot,other,28.0,M,N,Oklahoma City,OK,False,attack,no flee,False,True,20-30,2017
 2883,2017-12-10,shot,other,26.0,M,,Mobile,AL,False,attack,no flee,False,True,20-30,2017
 2884,2017-12-10,shot and Tasered,other,48.0,M,,Artesia,CA,False,attack,no flee,False,True,40-50,2017
-2885,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2885,2017-12-11,shot,gun,,M,,Seattle,WA,False,attack,flee,True,True,,2017
 2886,2017-12-11,shot,other,51.0,M,W,Great Falls,MT,False,other,unknown,False,True,50-60,2017
 2887,2017-12-12,shot,other,50.0,F,W,Rincon,GA,True,other,no flee,False,True,40-50,2017
-2888,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
-2889,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2888,2017-12-13,shot,other,,M,,Northglenn,CO,False,attack,unknown,False,True,,2017
+2889,2017-12-13,shot,other,,M,,Hamilton,AL,False,other,no flee,False,True,,2017
 2890,2017-12-14,shot,unknown,20.0,M,B,New Britain,CT,False,other,flee,False,True,10-20,2017
 2891,2017-12-15,shot,gun,34.0,M,W,McMinnville,TN,False,attack,no flee,False,True,30-40,2017
 2892,2017-12-15,shot,gun,57.0,M,,Lexington,VA,False,attack,flee,False,True,50-60,2017
-2893,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2893,2017-12-15,shot,gun,,M,,Yonkers,NY,False,other,flee,False,True,,2017
 2894,2017-12-15,shot,unknown,30.0,M,,Wilmington,DE,False,other,flee,False,True,20-30,2017
 2895,2017-12-17,shot,unarmed,27.0,M,B,Hallandale Beach,FL,False,other,flee,False,True,20-30,2017
-2896,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2896,2017-12-17,shot,other,,M,,Charleston,TN,False,other,flee,False,True,,2017
 2897,2017-12-17,shot,gun,52.0,M,,Bremerton,WA,False,attack,no flee,False,True,50-60,2017
 2898,2017-12-17,shot,other,52.0,M,,Valley Head,WV,False,attack,no flee,False,True,50-60,2017
 2899,2017-12-18,shot,other,48.0,M,B,Oak Park,MI,False,other,no flee,False,True,40-50,2017
 2900,2017-12-19,shot,other,56.0,M,,Mulberry,AR,True,other,flee,False,True,50-60,2017
 2901,2017-12-19,shot,other,24.0,M,,The Colony,TX,False,other,no flee,False,True,20-30,2017
-2902,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2902,2017-12-19,shot,gun,,M,,Kirkland,WA,False,other,no flee,False,True,,2017
 2903,2017-12-20,shot,other,33.0,M,W,Miami Township,OH,True,other,no flee,False,True,30-40,2017
 2904,2017-12-20,shot,gun,56.0,M,,Anchorage,AK,False,attack,no flee,False,True,50-60,2017
 2905,2017-12-20,shot,unarmed,35.0,M,,Farmington,NM,False,other,no flee,False,True,30-40,2017
-2906,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2906,2017-12-20,shot,gun,,M,,Oceanside,CA,False,undetermined,flee,False,True,,2017
 2907,2017-12-21,shot,unarmed,6.0,M,W,Schertz,TX,False,other,no flee,False,True,0-10,2017
 2908,2017-12-21,shot,other,30.0,F,W,Schertz,TX,False,other,flee,True,True,20-30,2017
 2909,2017-12-21,shot,gun,26.0,M,H,Greeley,CO,True,other,flee,False,True,20-30,2017
@@ -2916,7 +2916,7 @@
 2915,2017-12-24,shot,other,46.0,M,H,Progreso,TX,False,other,no flee,False,True,40-50,2017
 2916,2017-12-24,shot,gun,20.0,M,W,Fairbanks,AK,True,attack,no flee,True,True,10-20,2017
 2917,2017-12-24,shot,other,25.0,M,,Phoenix,AZ,False,other,no flee,False,True,20-30,2017
-2918,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2017
+2918,2017-12-25,shot,gun,,M,,Tulsa,OK,False,attack,no flee,False,True,,2017
 2919,2017-12-25,shot,gun,28.0,M,,Yakima,WA,False,attack,no flee,False,True,20-30,2017
 2920,2017-12-25,shot,gun,44.0,M,,Boring,OR,False,attack,flee,False,True,40-50,2017
 2921,2017-12-26,shot,other,31.0,M,,Yakima,WA,True,undetermined,no flee,False,True,30-40,2017
@@ -2965,7 +2965,7 @@
 2964,2018-01-07,shot,gun,54.0,M,B,Danville,VA,False,attack,no flee,False,True,50-60,2018
 2965,2018-01-07,shot,gun,27.0,M,W,Tacoma,WA,False,attack,no flee,False,True,20-30,2018
 2966,2018-01-07,shot and Tasered,unarmed,51.0,M,W,Sedona,AZ,True,other,no flee,False,True,50-60,2018
-2967,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+2967,2018-01-08,shot,gun,,M,,Horn Lake,MS,False,attack,flee,False,True,,2018
 2968,2018-01-08,shot,gun,25.0,M,W,Church Hill,TN,False,other,no flee,False,True,20-30,2018
 2969,2018-01-08,shot,gun,46.0,M,H,Los Angeles,CA,False,other,unknown,False,True,40-50,2018
 2970,2018-01-08,shot,gun,20.0,M,B,Kansas City,MO,False,attack,flee,False,True,10-20,2018
@@ -3048,8 +3048,8 @@
 3047,2018-02-01,shot,gun,26.0,M,W,Helena,MT,True,other,unknown,False,True,20-30,2018
 3048,2018-02-01,shot,other,38.0,M,,Louisville,KY,False,undetermined,no flee,False,True,30-40,2018
 3049,2018-02-02,shot,other,27.0,M,W,Charlotte,NC,True,other,no flee,True,True,20-30,2018
-3050,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
-3051,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3050,2018-02-02,shot,gun,,M,,Winters,TX,True,attack,no flee,False,True,,2018
+3051,2018-02-03,shot,other,,M,B,Atlanta,GA,False,attack,flee,False,True,,2018
 3052,2018-02-03,shot,unarmed,43.0,M,W,Reading,MA,False,other,flee,False,True,40-50,2018
 3053,2018-02-03,shot,gun,49.0,M,W,Gulfport,MS,False,attack,flee,False,True,40-50,2018
 3054,2018-02-04,shot,gun,16.0,M,B,Los Angeles,CA,False,other,flee,False,True,10-20,2018
@@ -3071,12 +3071,12 @@
 3070,2018-02-10,shot and Tasered,other,48.0,M,B,Tampa,FL,True,other,no flee,False,True,40-50,2018
 3071,2018-02-11,shot,gun,42.0,M,W,Bolton,VT,True,other,no flee,False,True,40-50,2018
 3072,2018-02-11,shot,gun,39.0,M,B,Pittsburgh,PA,False,attack,flee,False,True,30-40,2018
-3073,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3073,2018-02-11,shot,gun,,M,,Grant,OK,False,attack,no flee,False,True,,2018
 3074,2018-02-12,shot,gun,84.0,M,W,Homestead,FL,True,attack,no flee,False,True,80-90,2018
 3075,2018-02-13,shot,unarmed,33.0,M,B,Vallejo,CA,False,attack,flee,False,True,30-40,2018
 3076,2018-02-13,shot,gun,52.0,M,A,Denver,CO,False,other,no flee,False,True,50-60,2018
 3077,2018-02-13,shot,gun,48.0,F,W,Willits,CA,False,other,flee,False,True,40-50,2018
-3078,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3078,2018-02-14,shot,gun,,M,,Fort Worth,TX,False,attack,flee,False,True,,2018
 3079,2018-02-14,shot,other,30.0,M,B,Merrillville,IN,True,attack,no flee,False,True,20-30,2018
 3080,2018-02-14,shot,gun,29.0,M,W,Kokomo,IN,False,other,no flee,False,True,20-30,2018
 3081,2018-02-14,shot,gun,27.0,M,W,Belton,MO,True,attack,flee,False,True,20-30,2018
@@ -3107,7 +3107,7 @@
 3106,2018-02-24,shot,other,62.0,M,W,Monongalia,WV,False,attack,no flee,True,True,60-70,2018
 3107,2018-02-25,shot,other,25.0,M,B,Oklahoma City,OK,False,attack,no flee,False,True,20-30,2018
 3108,2018-02-25,shot,other,36.0,M,W,Casper,WY,False,other,flee,False,True,30-40,2018
-3109,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3109,2018-02-25,shot,gun,,M,H,Los Angeles,CA,False,attack,no flee,False,True,,2018
 3110,2018-02-26,shot,gun,27.0,M,W,Crawford County,OH,False,attack,flee,False,True,20-30,2018
 3111,2018-02-26,shot,gun,37.0,M,W,Gilbert,AZ,False,attack,unknown,False,True,30-40,2018
 3112,2018-02-26,shot,gun,25.0,M,W,Wamego,KS,False,attack,no flee,False,True,20-30,2018
@@ -3129,12 +3129,12 @@
 3128,2018-03-03,shot,other,38.0,F,H,Pima County,AZ,False,other,no flee,False,True,30-40,2018
 3129,2018-03-03,shot,gun,70.0,M,,Johnson County,MO,False,attack,no flee,False,True,60-70,2018
 3130,2018-03-03,shot,gun,41.0,M,B,Gulfport,MS,False,attack,no flee,False,True,40-50,2018
-3131,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3131,2018-03-04,shot,other,,M,H,Abington Township,PA,False,other,no flee,False,True,,2018
 3132,2018-03-05,shot,gun,28.0,M,W,Sandpoint,ID,True,attack,no flee,False,True,20-30,2018
 3133,2018-03-05,shot,other,33.0,M,W,Carroll County,GA,False,attack,no flee,False,True,30-40,2018
 3134,2018-03-05,shot,other,44.0,M,W,Lakeland,FL,True,other,flee,False,True,40-50,2018
 3135,2018-03-05,shot,gun,65.0,M,W,Barnwell,AL,False,attack,no flee,False,True,60-70,2018
-3136,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3136,2018-03-05,shot,gun,,M,,Kansas City,MO,False,attack,unknown,False,True,,2018
 3137,2018-03-05,shot,gun,35.0,M,W,Oil Springs,KY,True,attack,no flee,False,True,30-40,2018
 3138,2018-03-05,shot,other,25.0,M,W,Farmington,NM,False,other,no flee,False,True,20-30,2018
 3139,2018-03-06,shot,gun,40.0,M,W,North Manchester,IN,False,attack,no flee,True,True,30-40,2018
@@ -3147,9 +3147,9 @@
 3146,2018-03-07,shot,unarmed,84.0,F,W,Bexar County,TX,False,other,no flee,False,True,80-90,2018
 3147,2018-03-07,shot and Tasered,other,46.0,M,H,Austin,TX,True,other,no flee,False,True,40-50,2018
 3148,2018-03-08,shot,gun,29.0,M,B,Spotsylvania,VA,False,attack,flee,False,True,20-30,2018
-3149,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3149,2018-03-08,shot,other,,M,,Pottstown,PA,True,other,no flee,False,True,,2018
 3150,2018-03-08,shot,gun,27.0,M,N,Pilot Station,AK,False,attack,flee,False,True,20-30,2018
-3151,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3151,2018-03-08,shot,other,,M,,Jurupa Valley,CA,False,undetermined,unknown,False,True,,2018
 3152,2018-03-09,shot,other,32.0,F,W,Tarpon Springs,FL,False,other,no flee,False,True,30-40,2018
 3153,2018-03-09,shot,gun,27.0,M,H,Phoenix,AZ,False,attack,flee,False,True,20-30,2018
 3154,2018-03-09,shot,other,38.0,M,A,Arlington,TX,False,attack,no flee,False,True,30-40,2018
@@ -3169,7 +3169,7 @@
 3168,2018-03-13,shot,gun,31.0,M,W,Sandy,UT,False,other,no flee,False,True,30-40,2018
 3169,2018-03-14,shot,unknown,26.0,M,W,Keizer,OR,False,other,flee,False,True,20-30,2018
 3170,2018-03-14,shot,unarmed,31.0,M,B,East Baton Rouge,LA,True,attack,no flee,False,True,30-40,2018
-3171,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3171,2018-03-14,shot,other,,M,,Parmelee,SD,False,other,unknown,False,True,,2018
 3172,2018-03-15,shot and Tasered,unarmed,27.0,M,B,Casa Grande,AZ,False,attack,no flee,False,True,20-30,2018
 3173,2018-03-16,shot,gun,49.0,M,B,Clarksville,TN,False,attack,no flee,False,True,40-50,2018
 3174,2018-03-16,shot,other,26.0,M,W,Jonesborough,TN,True,other,flee,False,True,20-30,2018
@@ -3177,7 +3177,7 @@
 3176,2018-03-16,shot,other,62.0,M,W,Burnsville,NC,False,other,unknown,False,True,60-70,2018
 3177,2018-03-16,shot,other,34.0,M,,Harris County,TX,False,attack,no flee,False,True,30-40,2018
 3178,2018-03-17,shot,gun,50.0,M,H,Valley View,CA,False,other,flee,False,True,40-50,2018
-3179,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3179,2018-03-18,shot,unknown,,M,,Lancaster,TX,False,attack,flee,False,True,,2018
 3180,2018-03-18,shot,unarmed,23.0,M,B,Sacramento,CA,False,other,flee,True,True,20-30,2018
 3181,2018-03-18,shot,other,40.0,M,H,South El Monte,CA,False,other,flee,False,True,30-40,2018
 3182,2018-03-19,shot,gun,50.0,M,N,Utica,KY,False,attack,flee,False,True,40-50,2018
@@ -3201,7 +3201,7 @@
 3200,2018-03-23,shot,unknown,30.0,M,B,Largo,FL,False,attack,no flee,False,True,20-30,2018
 3201,2018-03-23,shot,other,40.0,M,W,Genesee Township,MI,False,other,flee,False,True,30-40,2018
 3202,2018-03-23,shot,other,48.0,M,H,Douglas,AZ,False,other,no flee,False,True,40-50,2018
-3203,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3203,2018-03-23,shot,other,,M,,Scottsdale,AZ,False,other,no flee,False,True,,2018
 3204,2018-03-23,shot and Tasered,other,23.0,M,W,Phoenix,AZ,False,attack,no flee,False,True,20-30,2018
 3205,2018-03-24,shot,unarmed,42.0,M,W,Nikolaevsk,AK,False,attack,no flee,False,True,40-50,2018
 3206,2018-03-24,shot,other,20.0,M,N,Anchorage,AK,False,other,flee,False,True,10-20,2018
@@ -3274,11 +3274,11 @@
 3273,2018-04-11,shot,gun,61.0,M,W,Pembroke,NY,True,attack,no flee,True,True,60-70,2018
 3274,2018-04-11,shot,other,39.0,M,W,Sparta,NC,False,other,no flee,True,True,30-40,2018
 3275,2018-04-11,shot,gun,50.0,M,W,Winn Parish,LA,False,attack,no flee,False,True,40-50,2018
-3276,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3276,2018-04-12,shot,gun,,M,B,Atlanta,GA,True,attack,no flee,False,True,,2018
 3277,2018-04-12,shot,gun,23.0,M,W,Lake Elmo,MN,True,undetermined,no flee,False,True,20-30,2018
 3278,2018-04-12,shot,other,39.0,M,B,Helena-West Helena,AR,False,attack,no flee,False,True,30-40,2018
 3279,2018-04-12,shot,gun,45.0,M,B,Washington,PA,False,attack,flee,False,True,40-50,2018
-3280,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3280,2018-04-12,shot,other,,M,,Trinidad,CO,False,other,no flee,False,True,,2018
 3281,2018-04-13,shot,other,34.0,M,W,Waco,TX,False,other,no flee,False,True,30-40,2018
 3282,2018-04-13,shot,gun,31.0,M,W,Thornton,CO,False,other,flee,False,True,30-40,2018
 3283,2018-04-14,shot,gun,55.0,M,H,Millville,NJ,False,other,flee,False,True,50-60,2018
@@ -3305,8 +3305,8 @@
 3304,2018-04-22,shot,gun,37.0,M,H,Louisville,KY,False,attack,flee,False,True,30-40,2018
 3305,2018-04-24,shot,gun,44.0,M,H,San Antonio,TX,False,other,flee,False,True,40-50,2018
 3306,2018-04-24,shot,gun,27.0,M,B,Louisville,KY,False,attack,unknown,True,True,20-30,2018
-3307,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
-3308,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3307,2018-04-24,shot,gun,,M,,Harmony,TX,True,attack,no flee,False,True,,2018
+3308,2018-04-24,shot,gun,,M,,Amarillo,TX,True,attack,no flee,False,True,,2018
 3309,2018-04-25,shot,gun,41.0,M,W,Colorado Springs,CO,False,attack,flee,False,True,40-50,2018
 3310,2018-04-25,shot,other,42.0,M,B,Louisville,KY,False,attack,no flee,False,True,40-50,2018
 3311,2018-04-25,shot,gun,36.0,M,W,Denver,CO,False,other,flee,False,True,30-40,2018
@@ -3325,8 +3325,8 @@
 3324,2018-04-29,shot,gun,26.0,M,W,Moorland,IA,False,attack,no flee,False,True,20-30,2018
 3325,2018-04-30,shot,other,64.0,M,B,Columbus,OH,False,other,no flee,False,True,60-70,2018
 3326,2018-04-30,shot and Tasered,other,59.0,M,,Columbus,OH,False,undetermined,unknown,False,True,50-60,2018
-3327,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
-3328,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3327,2018-05-01,shot,gun,,M,,San Antonio,TX,False,attack,flee,False,True,,2018
+3328,2018-05-01,shot,gun,,M,,Quartzsite,AZ,False,attack,flee,False,True,,2018
 3329,2018-05-01,shot,other,49.0,M,W,League City,TX,False,other,no flee,False,True,40-50,2018
 3330,2018-05-02,shot,other,44.0,M,W,Box Elder,SD,False,other,unknown,False,True,40-50,2018
 3331,2018-05-02,shot,gun,48.0,M,W,Liberty,NC,False,attack,no flee,False,True,40-50,2018
@@ -3378,7 +3378,7 @@
 3377,2018-05-15,shot,gun,34.0,M,W,Lake Mary,FL,False,other,flee,False,True,30-40,2018
 3378,2018-05-16,shot,other,59.0,M,W,Martins Ferry,OH,False,other,no flee,False,True,50-60,2018
 3379,2018-05-17,shot,gun,34.0,M,W,Norman,OK,False,attack,no flee,False,True,30-40,2018
-3380,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3380,2018-05-18,shot,gun,,M,,Plymouth Township,MI,True,attack,flee,False,True,,2018
 3381,2018-05-18,shot,other,29.0,M,H,Laredo,TX,False,other,unknown,False,True,20-30,2018
 3382,2018-05-18,shot,other,24.0,M,W,Gresham,OR,False,other,flee,False,True,20-30,2018
 3383,2018-05-19,shot,unknown,77.0,M,W,Sunridge,NV,False,attack,unknown,False,True,70-80,2018
@@ -3394,12 +3394,12 @@
 3393,2018-05-24,shot,unarmed,30.0,M,W,Citra,FL,False,attack,flee,True,True,20-30,2018
 3394,2018-05-24,shot,unarmed,33.0,M,W,Cleveland,OH,True,attack,no flee,False,True,30-40,2018
 3395,2018-05-25,shot,other,29.0,M,W,Dumas,TX,False,attack,no flee,False,True,20-30,2018
-3396,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3396,2018-05-25,shot,other,,M,,Mountain Home,ID,False,other,flee,False,True,,2018
 3397,2018-05-25,shot,other,31.0,M,W,Fort Morgan,CO,True,other,no flee,False,True,30-40,2018
 3398,2018-05-26,shot,gun,51.0,M,W,Silsbee,TX,False,other,no flee,False,True,50-60,2018
 3399,2018-05-27,shot,other,42.0,M,H,San Diego,CA,True,other,no flee,True,True,40-50,2018
 3400,2018-05-27,shot,gun,67.0,M,W,Grand Junction,CO,False,attack,no flee,False,True,60-70,2018
-3401,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3401,2018-05-27,shot,other,,M,,Everton,MO,True,other,no flee,False,True,,2018
 3402,2018-05-28,shot,gun,23.0,M,W,West Jordan,UT,False,attack,flee,False,True,20-30,2018
 3403,2018-05-29,shot,gun,34.0,M,N,Phoenix,AZ,False,other,no flee,False,True,30-40,2018
 3404,2018-05-29,shot,other,51.0,M,H,Riverbank,CA,False,attack,no flee,False,True,50-60,2018
@@ -3410,10 +3410,10 @@
 3409,2018-05-31,shot,other,42.0,M,B,Thomasville,NC,False,attack,flee,False,True,40-50,2018
 3410,2018-06-01,shot,unarmed,21.0,M,H,Dundee,FL,False,attack,no flee,False,True,20-30,2018
 3411,2018-06-01,shot,other,55.0,M,A,Honolulu,HI,True,attack,no flee,False,True,50-60,2018
-3412,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3412,2018-06-01,shot,other,,M,W,Torrance,CA,False,other,no flee,False,True,,2018
 3413,2018-06-02,shot,unknown,43.0,M,B,Chicago,IL,False,attack,flee,False,True,40-50,2018
 3414,2018-06-03,shot,unarmed,32.0,M,H,Chickasha,OK,False,other,flee,False,True,30-40,2018
-3415,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3415,2018-06-03,shot,other,,M,,Mecca,CA,False,other,no flee,False,True,,2018
 3416,2018-06-03,shot,gun,34.0,M,H,Jurupa Valley,CA,False,attack,flee,False,True,30-40,2018
 3417,2018-06-04,shot,gun,40.0,M,W,Springfield,MO,False,attack,flee,False,True,30-40,2018
 3418,2018-06-05,shot,gun,55.0,M,H,Pearland,TX,True,attack,no flee,False,True,50-60,2018
@@ -3438,15 +3438,15 @@
 3437,2018-06-12,shot,gun,22.0,M,B,Washington,DC,False,attack,no flee,False,True,20-30,2018
 3438,2018-06-12,shot,gun,26.0,M,B,Monroe,GA,True,attack,unknown,False,True,20-30,2018
 3439,2018-06-12,shot,other,32.0,M,W,Hardwick,NJ,False,other,no flee,False,True,30-40,2018
-3440,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3440,2018-06-13,shot,gun,,M,,Denver,CO,False,attack,flee,False,True,,2018
 3441,2018-06-13,shot,gun,44.0,M,W,Pike County,OH,False,attack,no flee,False,True,40-50,2018
 3442,2018-06-13,shot,other,21.0,M,W,Eustis,FL,True,attack,no flee,False,True,20-30,2018
-3443,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3443,2018-06-14,shot,gun,,F,,Denver,CO,False,attack,no flee,False,True,,2018
 3444,2018-06-14,shot,gun,29.0,M,H,Hall County,GA,False,attack,flee,False,True,20-30,2018
 3445,2018-06-14,shot,gun,18.0,M,B,Las Vegas,NV,False,attack,flee,False,True,10-20,2018
 3446,2018-06-14,shot,gun,33.0,M,B,Kansas City,MO,False,attack,no flee,False,True,30-40,2018
 3447,2018-06-14,shot,other,28.0,F,W,Kansas City,MO,False,undetermined,no flee,False,True,20-30,2018
-3448,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3448,2018-06-14,shot,gun,,M,W,Kansas City,MO,True,other,no flee,False,True,,2018
 3449,2018-06-14,shot,gun,40.0,M,H,Kirkland,WA,False,other,no flee,False,True,30-40,2018
 3450,2018-06-15,shot,unarmed,40.0,M,W,Nokomis,IL,False,other,flee,False,True,30-40,2018
 3451,2018-06-16,shot,other,53.0,M,,Mesa,AZ,False,attack,no flee,False,True,50-60,2018
@@ -3466,11 +3466,11 @@
 3465,2018-06-22,shot,other,37.0,M,W,Fairfield,OH,False,attack,no flee,False,True,30-40,2018
 3466,2018-06-22,shot,other,32.0,M,B,Atlantic City,NJ,False,attack,no flee,True,True,30-40,2018
 3467,2018-06-22,shot,other,31.0,M,W,Harrisonburg,VA,False,attack,no flee,False,True,30-40,2018
-3468,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3468,2018-06-22,shot,other,,M,,Inglewood,CA,True,attack,no flee,False,True,,2018
 3469,2018-06-22,shot,other,20.0,M,W,Albany,NY,True,attack,no flee,False,True,10-20,2018
 3470,2018-06-23,shot,gun,30.0,M,B,Minneapolis,MN,False,attack,flee,True,True,20-30,2018
 3471,2018-06-23,shot,other,25.0,M,B,Monroe,LA,False,attack,no flee,False,True,20-30,2018
-3472,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3472,2018-06-23,shot,gun,,M,,San Diego,CA,False,attack,no flee,False,True,,2018
 3473,2018-06-23,shot,gun,47.0,M,W,Coos Bay,OR,False,attack,no flee,False,True,40-50,2018
 3474,2018-06-23,shot,gun,48.0,M,W,Meridian,ID,False,other,no flee,False,True,40-50,2018
 3475,2018-06-23,shot,gun,38.0,M,,Centennial,CO,False,attack,flee,False,True,30-40,2018
@@ -3489,7 +3489,7 @@
 3488,2018-06-29,shot,other,36.0,M,W,North Pole,AK,False,other,unknown,False,True,30-40,2018
 3489,2018-06-29,shot,other,33.0,M,W,Lawrenceburg,TN,False,other,flee,False,True,30-40,2018
 3490,2018-06-29,shot,gun,56.0,M,W,Waterford Township,MI,True,attack,flee,False,True,50-60,2018
-3491,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3491,2018-07-01,shot,other,,M,,Santa Ana,CA,False,undetermined,no flee,False,True,,2018
 3492,2018-07-01,shot,gun,33.0,M,W,Boise,ID,False,attack,flee,False,True,30-40,2018
 3493,2018-07-01,shot,other,60.0,M,A,Grandview,MO,False,other,no flee,False,True,50-60,2018
 3494,2018-07-01,shot,other,26.0,M,W,Panora,IA,False,other,no flee,False,True,20-30,2018
@@ -3509,9 +3509,9 @@
 3508,2018-07-06,shot,other,38.0,M,A,Copper Center,AK,False,other,unknown,True,True,30-40,2018
 3509,2018-07-07,shot,unarmed,27.0,M,W,Amity,OR,False,attack,flee,False,True,20-30,2018
 3510,2018-07-07,shot,other,52.0,M,W,Jacksonville,FL,True,attack,no flee,False,True,50-60,2018
-3511,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3511,2018-07-07,shot,other,,M,,Adams County,CO,False,attack,flee,False,True,,2018
 3512,2018-07-07,shot,unarmed,37.0,M,B,Vineland,NJ,False,undetermined,unknown,False,True,30-40,2018
-3513,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3513,2018-07-08,shot,gun,,M,,Westminster,CA,False,other,flee,False,True,,2018
 3514,2018-07-08,shot,gun,34.0,M,W,Tucson,AZ,False,other,no flee,False,True,30-40,2018
 3515,2018-07-08,shot,gun,41.0,M,W,Grand Forks,ND,True,other,no flee,False,True,40-50,2018
 3516,2018-07-10,shot,other,40.0,M,W,Garland,TX,False,attack,no flee,False,True,30-40,2018
@@ -3533,7 +3533,7 @@
 3532,2018-07-17,shot,gun,51.0,M,W,Lenoir,NC,False,attack,no flee,False,True,50-60,2018
 3533,2018-07-18,shot,gun,30.0,M,H,Albuquerque,NM,False,attack,no flee,False,True,20-30,2018
 3534,2018-07-18,shot,gun,33.0,M,W,Fletcher,NC,False,attack,no flee,False,True,30-40,2018
-3535,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3535,2018-07-18,shot,gun,,M,W,Pattison,TX,False,attack,no flee,False,True,,2018
 3536,2018-07-19,shot,gun,19.0,M,H,Peoria,IL,False,other,flee,False,True,10-20,2018
 3537,2018-07-19,shot,gun,22.0,M,H,Pico Rivera,CA,False,other,flee,False,True,20-30,2018
 3538,2018-07-20,shot,other,37.0,M,H,Fresno,CA,False,attack,no flee,False,True,30-40,2018
@@ -3558,7 +3558,7 @@
 3557,2018-07-24,shot,gun,44.0,M,W,Seaside,OR,False,other,no flee,True,True,40-50,2018
 3558,2018-07-25,shot,other,54.0,M,W,Spokane,WA,False,attack,flee,False,True,50-60,2018
 3559,2018-07-25,shot,gun,29.0,M,B,Memphis,TN,True,attack,no flee,True,True,20-30,2018
-3560,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3560,2018-07-25,shot,gun,,M,H,Amarillo,TX,False,other,no flee,False,True,,2018
 3561,2018-07-25,shot,unarmed,56.0,M,W,Lake Havasu,AZ,True,other,no flee,True,True,50-60,2018
 3562,2018-07-25,shot,gun,64.0,M,W,LaFollette,TN,True,attack,no flee,False,True,60-70,2018
 3563,2018-07-26,shot,gun,25.0,M,B,Nashville,TN,False,other,flee,True,True,20-30,2018
@@ -3574,8 +3574,8 @@
 3573,2018-07-28,shot,unarmed,44.0,M,H,South Whitehall Township,PA,False,undetermined,no flee,False,True,40-50,2018
 3574,2018-07-28,shot,other,32.0,M,W,Pineville,LA,False,undetermined,flee,False,True,30-40,2018
 3575,2018-07-28,shot,gun,33.0,M,W,Aberdeen,NC,False,attack,no flee,False,True,30-40,2018
-3576,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
-3577,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3576,2018-07-29,shot,other,,M,,Adams County,CO,False,attack,flee,False,True,,2018
+3577,2018-07-30,shot,gun,,M,W,Aurora,CO,False,other,no flee,False,True,,2018
 3578,2018-07-31,shot,gun,35.0,M,B,Mississippi County,AR,False,attack,flee,False,True,30-40,2018
 3579,2018-07-31,shot,gun,23.0,M,H,Glendale,AZ,False,attack,no flee,False,True,20-30,2018
 3580,2018-08-01,shot,gun,27.0,M,B,Oxon Hill,MD,False,other,flee,False,True,20-30,2018
@@ -3603,7 +3603,7 @@
 3602,2018-08-07,shot,other,26.0,M,W,Shreveport,LA,False,other,flee,False,True,20-30,2018
 3603,2018-08-08,shot,other,24.0,M,W,Carthage,TN,False,attack,no flee,False,True,20-30,2018
 3604,2018-08-08,shot,other,48.0,M,B,San Diego,CA,False,attack,no flee,False,True,40-50,2018
-3605,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3605,2018-08-08,shot,other,,M,,Las Vegas,NV,True,attack,no flee,True,True,,2018
 3606,2018-08-08,shot,other,54.0,M,B,Omaha,NE,False,attack,no flee,False,True,50-60,2018
 3607,2018-08-09,shot,gun,48.0,M,B,Philadelphia,PA,False,attack,flee,False,True,40-50,2018
 3608,2018-08-09,shot,gun,37.0,M,W,Durham,NC,True,attack,no flee,True,True,30-40,2018
@@ -3618,7 +3618,7 @@
 3617,2018-08-13,shot,gun,48.0,M,B,Milwaukee,WI,True,other,no flee,True,True,40-50,2018
 3618,2018-08-13,shot,gun,32.0,M,,Richton Park,IL,False,attack,flee,True,True,30-40,2018
 3619,2018-08-13,shot,gun,31.0,M,W,Creston,IA,True,other,no flee,False,True,30-40,2018
-3620,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3620,2018-08-14,shot,gun,,M,H,Fresno,CA,True,attack,no flee,True,True,,2018
 3621,2018-08-16,shot,gun,58.0,M,W,Olustee,FL,False,attack,no flee,False,True,50-60,2018
 3622,2018-08-16,shot,other,30.0,M,B,Wasilla,AK,False,attack,no flee,False,True,20-30,2018
 3623,2018-08-17,shot and Tasered,gun,21.0,M,B,Austin,TX,False,attack,unknown,False,True,20-30,2018
@@ -3628,7 +3628,7 @@
 3627,2018-08-19,shot,other,21.0,M,B,Bakersfield,CA,False,other,no flee,False,True,20-30,2018
 3628,2018-08-19,shot,gun,42.0,M,,Spokane,WA,True,attack,no flee,False,True,40-50,2018
 3629,2018-08-19,shot,gun,33.0,M,B,Atlanta,GA,False,attack,no flee,False,True,30-40,2018
-3630,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3630,2018-08-19,shot,gun,,M,W,Great Falls,MT,False,other,no flee,False,True,,2018
 3631,2018-08-20,shot,other,36.0,M,B,Philadelphia,PA,False,attack,flee,False,True,30-40,2018
 3632,2018-08-20,shot,gun,38.0,M,W,Gonic,NH,False,attack,no flee,False,True,30-40,2018
 3633,2018-08-23,shot,other,34.0,F,H,Los Lunas,NM,False,other,no flee,False,True,30-40,2018
@@ -3663,7 +3663,7 @@
 3662,2018-09-06,shot,other,19.0,M,B,Sacramento,CA,False,attack,flee,False,True,10-20,2018
 3663,2018-09-07,shot,gun,28.0,M,B,Pawtucket,RI,False,attack,unknown,False,True,20-30,2018
 3664,2018-09-08,shot,gun,63.0,M,W,Citronelle,AL,False,attack,no flee,False,True,60-70,2018
-3665,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3665,2018-09-09,shot,gun,,M,B,Greenville,NC,False,attack,no flee,False,True,,2018
 3666,2018-09-09,shot,other,43.0,M,,Stanwood,WA,False,other,no flee,False,True,40-50,2018
 3667,2018-09-09,shot and Tasered,gun,39.0,F,B,Missouri City,TX,False,other,no flee,False,True,30-40,2018
 3668,2018-09-10,shot,gun,53.0,M,,Tucson,AZ,True,other,no flee,False,True,50-60,2018
@@ -3714,7 +3714,7 @@
 3713,2018-10-03,shot,gun,38.0,M,B,Bartlett,TN,True,attack,no flee,False,True,30-40,2018
 3714,2018-10-04,shot,other,25.0,M,W,Greenville,MS,False,attack,unknown,False,True,20-30,2018
 3715,2018-10-04,shot,gun,45.0,M,,Scarbo,WV,False,attack,no flee,False,True,40-50,2018
-3716,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3716,2018-10-05,shot,gun,,M,,Hayti,MO,False,attack,no flee,False,True,,2018
 3717,2018-10-05,shot,gun,31.0,M,B,Nashville,TN,False,attack,no flee,False,True,30-40,2018
 3718,2018-10-05,shot,gun,48.0,M,W,Klamath Falls,OR,False,attack,flee,False,True,40-50,2018
 3719,2018-10-05,shot,other,43.0,M,N,Chinle,AZ,False,other,no flee,False,True,40-50,2018
@@ -3732,7 +3732,7 @@
 3731,2018-10-10,shot,gun,49.0,F,W,Sullivan,IN,False,attack,no flee,False,True,40-50,2018
 3732,2018-10-10,shot,gun,21.0,M,W,Las Vegas,NV,True,attack,flee,True,True,20-30,2018
 3733,2018-10-10,shot,gun,31.0,M,B,Milwaukee,WI,False,attack,no flee,True,True,30-40,2018
-3734,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3734,2018-10-11,shot,gun,,M,,Huntington Beach,CA,False,other,flee,False,True,,2018
 3735,2018-10-11,shot,other,22.0,M,B,West Jordan,UT,False,other,unknown,False,True,20-30,2018
 3736,2018-10-12,shot,gun,34.0,M,,Cobb County,GA,False,attack,unknown,False,True,30-40,2018
 3737,2018-10-12,shot,other,27.0,M,B,Fort Smith,AR,False,other,no flee,False,True,20-30,2018
@@ -3748,7 +3748,7 @@
 3747,2018-10-17,shot,gun,29.0,M,W,Longview,WA,False,attack,flee,False,True,20-30,2018
 3748,2018-10-17,shot,gun,19.0,M,B,Memphis,TN,False,attack,flee,False,True,10-20,2018
 3749,2018-10-17,shot,unarmed,18.0,M,B,San Antonio,TX,False,other,no flee,False,True,10-20,2018
-3750,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3750,2018-10-17,shot,other,,M,,Quinlan,TX,False,other,no flee,False,True,,2018
 3751,2018-10-17,shot and Tasered,other,61.0,M,W,Kearns,UT,False,other,unknown,False,True,60-70,2018
 3752,2018-10-18,shot,gun,18.0,M,W,Arvada,CO,False,attack,flee,False,True,10-20,2018
 3753,2018-10-18,shot,gun,23.0,M,W,Salt Lake City,UT,False,other,flee,False,True,20-30,2018
@@ -3760,8 +3760,8 @@
 3759,2018-10-20,shot,gun,35.0,M,W,Paris,TX,False,attack,no flee,False,True,30-40,2018
 3760,2018-10-20,shot,gun,50.0,M,W,Spanaway,WA,False,other,no flee,False,True,40-50,2018
 3761,2018-10-20,shot,gun,34.0,F,W,Darlington County,SC,False,attack,no flee,True,True,30-40,2018
-3762,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
-3763,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3762,2018-10-21,shot,gun,,M,B,Washington,NC,False,other,no flee,True,True,,2018
+3763,2018-10-21,shot,other,,M,,Quincy,FL,False,undetermined,flee,False,True,,2018
 3764,2018-10-22,shot,other,26.0,M,W,Riverton,UT,True,attack,no flee,False,True,20-30,2018
 3765,2018-10-22,shot,other,61.0,M,W,Newport,TN,False,attack,no flee,False,True,60-70,2018
 3766,2018-10-22,shot and Tasered,other,18.0,M,B,Snellville,GA,False,other,no flee,False,True,10-20,2018
@@ -3797,7 +3797,7 @@
 3796,2018-11-05,shot,other,48.0,M,A,Camp Croft,SC,True,attack,no flee,False,True,40-50,2018
 3797,2018-11-06,shot,gun,67.0,M,,St. Cloud,FL,True,attack,no flee,False,True,60-70,2018
 3798,2018-11-07,shot,gun,68.0,M,,Corona,CA,False,attack,no flee,False,True,60-70,2018
-3799,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3799,2018-11-07,shot and Tasered,gun,,M,,San Antonio,TX,False,attack,no flee,False,True,,2018
 3800,2018-11-08,shot,gun,34.0,M,H,Charleston View,CA,False,attack,flee,False,True,30-40,2018
 3801,2018-11-09,shot,other,36.0,M,B,Minneapolis,MN,True,undetermined,no flee,True,True,30-40,2018
 3802,2018-11-09,shot,other,33.0,M,W,Ogden,UT,False,attack,flee,False,True,30-40,2018
@@ -3806,11 +3806,11 @@
 3805,2018-11-10,shot,gun,41.0,M,B,Clarksdale,MS,False,attack,no flee,False,True,40-50,2018
 3806,2018-11-11,shot,unarmed,52.0,M,W,Wagoner,OK,False,other,no flee,False,True,50-60,2018
 3807,2018-11-11,shot,gun,26.0,M,B,Robbins,IL,False,other,no flee,False,True,20-30,2018
-3808,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3808,2018-11-11,shot,gun,,M,H,Hemet,CA,False,attack,flee,False,True,,2018
 3809,2018-11-12,shot,other,39.0,M,W,Mantoloking,NJ,False,attack,no flee,False,True,30-40,2018
 3810,2018-11-12,shot,gun,36.0,M,A,Catoosa,OK,False,other,no flee,False,True,30-40,2018
 3811,2018-11-12,shot,gun,47.0,M,B,Oklahoma City,OK,False,undetermined,flee,False,True,40-50,2018
-3812,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3812,2018-11-12,shot,other,,M,H,Alpine,CA,False,other,no flee,True,True,,2018
 3813,2018-11-12,shot,gun,25.0,M,H,Chattanooga,TN,False,attack,no flee,False,True,20-30,2018
 3814,2018-11-12,shot and Tasered,other,63.0,M,W,Fresno,CA,True,attack,no flee,True,True,60-70,2018
 3815,2018-11-13,shot,other,24.0,M,B,Phoenix,AZ,False,attack,flee,False,True,20-30,2018
@@ -3824,10 +3824,10 @@
 3823,2018-11-15,shot,other,25.0,M,B,Augusta,GA,True,attack,no flee,False,True,20-30,2018
 3824,2018-11-15,shot,other,48.0,M,W,Paradise,CA,True,other,flee,False,True,40-50,2018
 3825,2018-11-15,shot,gun,60.0,M,W,Demopolis,AL,False,attack,no flee,False,True,50-60,2018
-3826,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3826,2018-11-16,shot,gun,,M,,Houston,TX,False,attack,no flee,False,True,,2018
 3827,2018-11-17,shot,gun,49.0,F,W,Missoula,MT,True,attack,no flee,False,True,40-50,2018
 3828,2018-11-17,shot,other,27.0,M,B,Fort Pierce,FL,False,attack,flee,False,True,20-30,2018
-3829,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3829,2018-11-18,shot,gun,,M,,Los Angeles,CA,False,attack,no flee,False,True,,2018
 3830,2018-11-19,shot,gun,65.0,M,W,Indianapolis,IN,False,attack,no flee,False,True,60-70,2018
 3831,2018-11-19,shot,other,41.0,M,W,Meridian,ID,False,attack,flee,False,True,40-50,2018
 3832,2018-11-20,shot,gun,71.0,M,,Phoenix,AZ,False,attack,no flee,False,True,70-80,2018
@@ -3837,7 +3837,7 @@
 3836,2018-11-21,shot,gun,42.0,M,W,Lincoln Township,MI,True,attack,no flee,False,True,40-50,2018
 3837,2018-11-21,shot,gun,48.0,M,B,Talladega,AL,False,attack,no flee,False,True,40-50,2018
 3838,2018-11-21,shot,other,24.0,M,H,Bell Gardens,CA,False,attack,no flee,False,True,20-30,2018
-3839,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3839,2018-11-21,shot,other,,M,,Pasadena,TX,False,attack,flee,False,True,,2018
 3840,2018-11-22,shot,gun,21.0,M,B,Hoover,AL,False,other,no flee,False,True,20-30,2018
 3841,2018-11-22,shot,other,20.0,M,W,Palmer,AK,False,other,flee,False,True,10-20,2018
 3842,2018-11-22,shot,gun,59.0,M,W,Gunnison County,CO,False,attack,no flee,False,True,50-60,2018
@@ -3850,7 +3850,7 @@
 3849,2018-11-27,shot,other,35.0,M,B,Topeka,KS,False,attack,flee,False,True,30-40,2018
 3850,2018-11-27,shot,other,41.0,M,W,Virginia,MN,False,attack,unknown,False,True,40-50,2018
 3851,2018-11-27,shot,gun,42.0,M,A,Honolulu,HI,True,attack,no flee,False,True,40-50,2018
-3852,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3852,2018-11-28,shot,gun,,M,,Lakewood,CO,False,attack,flee,False,True,,2018
 3853,2018-11-28,shot,gun,35.0,M,W,Louisville,KY,False,attack,unknown,True,True,30-40,2018
 3854,2018-11-28,shot,other,33.0,M,H,Vancouver,WA,False,attack,flee,False,True,30-40,2018
 3855,2018-11-29,shot,gun,32.0,M,N,Bemidji,MN,False,other,no flee,True,True,30-40,2018
@@ -3897,21 +3897,21 @@
 3896,2018-12-16,shot,other,35.0,M,W,Oklahoma City,OK,True,other,no flee,False,True,30-40,2018
 3897,2018-12-16,shot,gun,46.0,M,,Kansas City,KS,False,attack,no flee,False,True,40-50,2018
 3898,2018-12-16,shot,other,47.0,F,B,Darlington County,SC,True,other,no flee,False,True,40-50,2018
-3899,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
-3900,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3899,2018-12-17,shot,gun,,M,,Phoenix,AZ,False,attack,no flee,False,True,,2018
+3900,2018-12-17,shot,gun,,M,W,Natomas,CA,False,other,no flee,False,True,,2018
 3901,2018-12-18,shot,gun,31.0,F,B,Hopewell,VA,False,attack,flee,False,True,30-40,2018
 3902,2018-12-18,shot,gun,24.0,M,W,Terre Haute,IN,False,attack,flee,False,True,20-30,2018
 3903,2018-12-18,shot,unarmed,27.0,M,B,Franklin Township,PA,False,attack,flee,False,True,20-30,2018
 3904,2018-12-18,shot,gun,27.0,M,W,Union City,PA,False,attack,unknown,False,True,20-30,2018
-3905,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
-3906,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
-3907,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3905,2018-12-19,shot,gun,,M,,Fort Worth,TX,True,attack,no flee,False,True,,2018
+3906,2018-12-19,shot,other,,M,,Phoenix,AZ,False,attack,no flee,False,True,,2018
+3907,2018-12-20,shot,gun,,M,,Lake Elsinore,CA,False,attack,flee,False,True,,2018
 3908,2018-12-20,shot,other,23.0,M,W,Toledo,OH,False,attack,no flee,False,True,20-30,2018
 3909,2018-12-21,shot,gun,57.0,M,H,Azusa,CA,False,attack,no flee,False,True,50-60,2018
 3910,2018-12-21,shot,other,56.0,M,W,Springfield,FL,False,other,no flee,False,True,50-60,2018
 3911,2018-12-23,shot,gun,36.0,M,H,Albuquerque,NM,True,attack,no flee,False,True,30-40,2018
-3912,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
-3913,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2018
+3912,2018-12-23,shot,gun,,M,O,Wailuku,HI,False,attack,flee,True,True,,2018
+3913,2018-12-24,shot,gun,,M,H,Albuquerque,NM,False,attack,no flee,False,True,,2018
 3914,2018-12-25,shot,other,24.0,F,H,San Jose,CA,False,attack,flee,False,True,20-30,2018
 3915,2018-12-25,shot,gun,34.0,M,H,Buckeye,AZ,False,attack,no flee,False,True,30-40,2018
 3916,2018-12-26,shot,other,17.0,M,B,Lakeland,FL,False,attack,flee,False,True,10-20,2018
@@ -3950,8 +3950,8 @@
 3949,2019-01-05,shot,gun,50.0,M,W,Milwaukie,OR,False,attack,no flee,False,True,40-50,2019
 3950,2019-01-05,shot,gun,55.0,M,W,Santa Clara,CA,False,attack,no flee,False,True,50-60,2019
 3951,2019-01-06,shot,gun,42.0,M,B,Hurricane,WV,False,attack,flee,False,True,40-50,2019
-3952,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
-3953,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+3952,2019-01-06,shot,other,,M,,Glen Valley,CA,False,other,no flee,False,True,,2019
+3953,2019-01-06,shot,gun,,M,,Cache,OK,False,attack,no flee,False,True,,2019
 3954,2019-01-06,shot and Tasered,other,36.0,M,B,Portland,OR,True,other,no flee,False,True,30-40,2019
 3955,2019-01-06,shot,gun,38.0,M,A,Houston,TX,False,other,no flee,False,True,30-40,2019
 3956,2019-01-07,shot,gun,38.0,M,H,Kent,WA,False,attack,flee,False,True,30-40,2019
@@ -3965,7 +3965,7 @@
 3964,2019-01-11,shot,gun,20.0,M,B,Arlington,TX,False,attack,flee,False,True,10-20,2019
 3965,2019-01-11,shot,gun,30.0,M,H,Eugene,OR,False,attack,no flee,True,True,20-30,2019
 3966,2019-01-11,shot,gun,19.0,M,B,Phoenix,AZ,False,other,no flee,False,True,10-20,2019
-3967,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+3967,2019-01-11,shot and Tasered,other,,M,,Huntsville,TX,False,other,no flee,False,True,,2019
 3968,2019-01-12,shot,other,48.0,M,W,Colorado Springs,CO,False,other,no flee,False,True,40-50,2019
 3969,2019-01-12,shot,other,58.0,M,W,Dearborn County,IN,True,attack,no flee,False,True,50-60,2019
 3970,2019-01-13,shot,unarmed,38.0,M,H,Calabasas,CA,False,other,flee,False,True,30-40,2019
@@ -3985,8 +3985,8 @@
 3984,2019-01-15,shot,other,18.0,M,B,Atlanta,GA,False,other,flee,False,True,10-20,2019
 3985,2019-01-15,shot,gun,22.0,M,B,St. Louis,MO,False,attack,flee,False,True,20-30,2019
 3986,2019-01-16,shot,unarmed,46.0,M,W,Fort Lupton,CO,True,undetermined,flee,True,True,40-50,2019
-3987,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
-3988,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+3987,2019-01-16,shot,other,,M,B,West Memphis,AR,False,other,flee,False,True,,2019
+3988,2019-01-16,shot,other,,F,W,West Memphis,AR,False,other,flee,False,True,,2019
 3989,2019-01-16,shot,gun,57.0,M,W,Sperry,OK,True,other,flee,True,True,50-60,2019
 3990,2019-01-16,shot,other,32.0,M,W,Charlotte,NC,False,other,flee,False,True,30-40,2019
 3991,2019-01-16,shot,gun,31.0,M,B,Silver Spring,MD,False,other,flee,False,True,30-40,2019
@@ -3999,7 +3999,7 @@
 3998,2019-01-22,shot,unarmed,21.0,M,B,Atlanta,GA,False,undetermined,flee,False,True,20-30,2019
 3999,2019-01-23,shot,unarmed,20.0,M,W,Flagstaff,AZ,False,undetermined,flee,False,True,10-20,2019
 4000,2019-01-23,shot,other,46.0,M,B,Spokane,WA,False,other,unknown,False,True,40-50,2019
-4001,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4001,2019-01-23,shot,other,,M,N,Naschitti,NM,False,undetermined,unknown,False,True,,2019
 4002,2019-01-23,shot,gun,20.0,M,H,Flagstaff,AZ,False,attack,flee,False,True,10-20,2019
 4003,2019-01-23,shot and Tasered,other,46.0,M,W,South Haven,IN,True,attack,no flee,True,True,40-50,2019
 4004,2019-01-24,shot,unarmed,24.0,F,W,St. Louis,MO,False,other,no flee,False,True,20-30,2019
@@ -4061,7 +4061,7 @@
 4060,2019-02-13,shot,gun,47.0,M,W,Apex,NC,False,attack,no flee,False,True,40-50,2019
 4061,2019-02-14,shot,other,47.0,M,H,Los Angeles,CA,False,other,no flee,False,True,40-50,2019
 4062,2019-02-14,shot,other,34.0,M,W,Aspers,PA,False,attack,no flee,False,True,30-40,2019
-4063,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4063,2019-02-14,shot,gun,,M,W,San Jose,CA,False,attack,flee,False,True,,2019
 4064,2019-02-15,shot,gun,45.0,M,B,Aurora,IL,False,attack,no flee,False,True,40-50,2019
 4065,2019-02-16,shot,gun,17.0,M,B,Chicago,IL,False,other,flee,False,True,10-20,2019
 4066,2019-02-16,shot,gun,34.0,M,A,Clinton,MS,False,attack,no flee,False,True,30-40,2019
@@ -4101,7 +4101,7 @@
 4100,2019-03-02,shot,other,33.0,M,W,Mount Holly,NC,True,other,no flee,False,True,30-40,2019
 4101,2019-03-02,shot,unarmed,46.0,M,W,Fairchild,WI,False,attack,no flee,False,True,40-50,2019
 4102,2019-03-02,shot,other,35.0,F,W,Carter County,KY,False,other,flee,False,True,30-40,2019
-4103,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4103,2019-03-02,shot,other,,M,,Waco,TX,False,attack,no flee,False,True,,2019
 4104,2019-03-03,shot,other,40.0,M,,Glenoma,WA,False,attack,no flee,False,True,30-40,2019
 4105,2019-03-04,shot,gun,36.0,M,B,Des Moines,IA,False,attack,flee,False,True,30-40,2019
 4106,2019-03-04,shot,gun,63.0,M,W,Rancho Mirage,CA,True,attack,unknown,False,True,60-70,2019
@@ -4116,7 +4116,7 @@
 4115,2019-03-05,shot and Tasered,gun,32.0,M,B,Jacksonville,FL,False,other,no flee,False,True,30-40,2019
 4116,2019-03-06,shot,gun,25.0,M,B,Morgantown,WV,False,attack,flee,False,True,20-30,2019
 4117,2019-03-07,shot,gun,47.0,M,W,Jonesboro,AR,False,other,no flee,False,True,40-50,2019
-4118,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4118,2019-03-07,shot,gun,,M,H,Vancouver,WA,False,other,no flee,False,True,,2019
 4119,2019-03-07,shot,gun,23.0,M,W,Anchorage,AK,False,attack,flee,False,True,20-30,2019
 4120,2019-03-08,shot,other,34.0,M,W,Athens,GA,True,attack,unknown,True,True,30-40,2019
 4121,2019-03-09,shot,other,51.0,F,W,Cheatham County,TN,False,attack,no flee,False,True,50-60,2019
@@ -4190,7 +4190,7 @@
 4189,2019-04-03,shot,gun,53.0,M,W,Brownstown,IN,False,other,no flee,False,True,50-60,2019
 4190,2019-04-03,shot,gun,50.0,M,H,San Diego,CA,True,attack,no flee,True,True,40-50,2019
 4191,2019-04-03,shot,gun,55.0,M,H,Boynton Beach,FL,False,attack,no flee,False,True,50-60,2019
-4192,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4192,2019-04-03,shot,gun,,M,W,Pelion,SC,False,other,flee,False,True,,2019
 4193,2019-04-04,shot,unarmed,37.0,M,W,Kalamazoo,MI,True,other,no flee,False,True,30-40,2019
 4194,2019-04-04,shot,gun,30.0,M,H,Anaheim,CA,False,other,no flee,False,True,20-30,2019
 4195,2019-04-05,shot,other,26.0,M,,Bloomingdale,IL,False,other,flee,False,True,20-30,2019
@@ -4220,7 +4220,7 @@
 4219,2019-04-14,shot,gun,47.0,M,W,Los Angeles,CA,False,undetermined,flee,False,True,40-50,2019
 4220,2019-04-14,shot,gun,33.0,M,W,Portland,OR,False,attack,no flee,False,True,30-40,2019
 4221,2019-04-14,shot and Tasered,other,42.0,M,N,Red Bluff,CA,True,other,flee,False,True,40-50,2019
-4222,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4222,2019-04-15,shot,other,,M,W,Pigeon Forge,TN,True,other,no flee,False,True,,2019
 4223,2019-04-16,shot,other,24.0,M,,Lee,NY,True,other,no flee,False,True,20-30,2019
 4224,2019-04-16,shot,other,24.0,M,W,Fountain Inn,SC,False,attack,flee,False,True,20-30,2019
 4225,2019-04-16,shot,other,42.0,M,W,Montesano,WA,True,other,no flee,False,True,40-50,2019
@@ -4250,17 +4250,17 @@
 4249,2019-04-29,shot,gun,29.0,M,W,Hancock County,MS,False,attack,flee,False,True,20-30,2019
 4250,2019-04-29,shot,other,49.0,F,A,Welch,WV,False,other,no flee,False,True,40-50,2019
 4251,2019-04-29,shot and Tasered,unarmed,17.0,M,B,Edmond,OK,False,attack,flee,False,True,10-20,2019
-4252,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4252,2019-04-30,shot,gun,,M,H,Los Angeles,CA,False,attack,flee,False,True,,2019
 4253,2019-04-30,shot,other,45.0,F,W,Welcome,NC,False,other,no flee,False,True,40-50,2019
-4254,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4254,2019-04-30,shot,other,,M,,Perris,CA,False,other,no flee,False,True,,2019
 4255,2019-05-01,shot,other,51.0,M,H,Miami,FL,False,other,no flee,False,True,50-60,2019
 4256,2019-05-01,shot,gun,37.0,M,H,Meadowlake,NM,False,attack,no flee,False,True,30-40,2019
-4257,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4257,2019-05-01,shot,other,,M,,Bruce,FL,False,other,no flee,False,True,,2019
 4258,2019-05-01,shot,gun,28.0,M,W,Hiltons,VA,False,attack,flee,False,True,20-30,2019
 4259,2019-05-02,shot,unarmed,52.0,M,W,Glenwood,GA,False,attack,flee,False,True,50-60,2019
 4260,2019-05-02,shot,gun,76.0,M,,Parkville,MD,True,attack,no flee,True,True,70-80,2019
 4261,2019-05-02,shot,gun,37.0,M,H,Cedar Hill,TX,False,other,flee,False,True,30-40,2019
-4262,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4262,2019-05-04,shot,other,,M,,San Jose,CA,False,attack,flee,True,True,,2019
 4263,2019-05-04,shot,gun,37.0,M,W,Hermantown,MN,False,attack,flee,False,True,30-40,2019
 4264,2019-05-04,shot,unarmed,25.0,M,W,Spokane,WA,True,other,flee,False,True,20-30,2019
 4265,2019-05-04,shot,other,35.0,M,A,Stockton,CA,False,attack,no flee,False,True,30-40,2019
@@ -4276,7 +4276,7 @@
 4275,2019-05-09,shot,gun,29.0,M,H,Phoenix,AZ,False,attack,no flee,False,True,20-30,2019
 4276,2019-05-10,shot,gun,25.0,M,B,Tulsa,OK,True,attack,flee,True,True,20-30,2019
 4277,2019-05-11,shot,gun,26.0,M,B,Chicago,IL,False,attack,flee,False,True,20-30,2019
-4278,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4278,2019-05-11,shot,gun,,M,B,Savannah,GA,False,attack,flee,False,True,,2019
 4279,2019-05-11,shot,gun,39.0,M,W,Tunbridge,VT,False,attack,no flee,False,True,30-40,2019
 4280,2019-05-11,shot,gun,43.0,M,,Parks,AZ,False,other,flee,False,True,40-50,2019
 4281,2019-05-11,shot,gun,26.0,M,H,South Sioux City,NE,False,attack,no flee,False,True,20-30,2019
@@ -4285,9 +4285,9 @@
 4284,2019-05-13,shot,gun,45.0,M,W,Rising Sun,MD,True,attack,no flee,False,True,40-50,2019
 4285,2019-05-14,shot,gun,54.0,M,W,Las Vegas,NV,True,other,no flee,False,True,50-60,2019
 4286,2019-05-15,shot,other,43.0,M,H,Tamarac,FL,False,attack,unknown,False,True,40-50,2019
-4287,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4287,2019-05-15,shot,gun,,M,B,Appleton,WI,True,attack,no flee,True,True,,2019
 4288,2019-05-15,shot,other,30.0,M,B,Louisville,KY,False,attack,flee,False,True,20-30,2019
-4289,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4289,2019-05-16,shot,gun,,M,H,Palm Beach Gardens,FL,False,attack,no flee,False,True,,2019
 4290,2019-05-16,shot,gun,58.0,F,W,New Boston,TX,True,attack,no flee,False,True,50-60,2019
 4291,2019-05-17,shot,other,39.0,M,H,Davie,FL,False,other,no flee,False,True,30-40,2019
 4292,2019-05-17,shot,gun,40.0,M,B,New Orleans,LA,False,attack,unknown,True,True,30-40,2019
@@ -4308,7 +4308,7 @@
 4307,2019-05-22,shot,other,32.0,M,,Montgomery Creek,KY,False,attack,flee,False,True,30-40,2019
 4308,2019-05-22,shot,gun,47.0,M,W,Inman,SC,False,attack,no flee,False,True,40-50,2019
 4309,2019-05-22,shot,gun,22.0,M,B,Chicago,IL,True,attack,no flee,False,True,20-30,2019
-4310,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4310,2019-05-22,shot,gun,,M,,Orange Park,FL,False,attack,no flee,False,True,,2019
 4311,2019-05-23,shot,unarmed,41.0,M,W,Montgomery,NY,False,other,no flee,False,True,40-50,2019
 4312,2019-05-23,shot,gun,28.0,M,W,Pearl River County,MS,True,attack,flee,False,True,20-30,2019
 4313,2019-05-23,shot,gun,56.0,M,W,Wichita,KS,True,attack,no flee,False,True,50-60,2019
@@ -4321,7 +4321,7 @@
 4320,2019-05-27,shot,gun,41.0,M,B,Joliet,IL,False,attack,no flee,False,True,40-50,2019
 4321,2019-05-28,shot,gun,21.0,M,B,Chicago,IL,False,other,no flee,False,True,20-30,2019
 4322,2019-05-29,shot,gun,62.0,M,W,Wilmington,NC,True,attack,no flee,False,False,60-70,2019
-4323,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4323,2019-05-30,shot,gun,,F,,Ontario,CA,True,other,no flee,True,True,,2019
 4324,2019-05-30,shot,gun,32.0,F,B,Huntsville,AL,True,attack,no flee,False,True,30-40,2019
 4325,2019-05-30,shot,gun,22.0,M,H,Amarillo,TX,False,attack,flee,False,True,20-30,2019
 4326,2019-05-30,shot,gun,58.0,M,W,Havre de Grace,MD,True,other,no flee,False,True,50-60,2019
@@ -4339,14 +4339,14 @@
 4338,2019-06-04,shot,other,56.0,M,W,Davidsonville,MD,False,other,no flee,False,True,50-60,2019
 4339,2019-06-04,shot,gun,45.0,M,W,Indialantic,FL,False,attack,no flee,False,True,40-50,2019
 4340,2019-06-05,shot,gun,28.0,M,H,Bernalillo,NM,False,other,no flee,False,True,20-30,2019
-4341,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4341,2019-06-05,shot,gun,,M,W,Jonesboro,AR,True,other,no flee,False,True,,2019
 4342,2019-06-05,shot,other,54.0,M,W,Trinity,NC,True,attack,no flee,False,True,50-60,2019
 4343,2019-06-05,shot,gun,39.0,M,W,Escalon,CA,False,attack,no flee,False,True,30-40,2019
 4344,2019-06-06,shot,unarmed,24.0,M,B,Los Angeles,CA,False,other,flee,False,True,20-30,2019
 4345,2019-06-06,shot,other,41.0,M,H,Los Angeles,CA,False,other,no flee,True,True,40-50,2019
 4346,2019-06-06,shot,gun,27.0,M,B,Los Angeles,CA,False,other,no flee,False,True,20-30,2019
 4347,2019-06-06,shot,gun,70.0,M,W,Braxton,MS,True,attack,unknown,False,True,60-70,2019
-4348,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4348,2019-06-06,shot,gun,,M,H,Modesto,CA,False,attack,no flee,False,True,,2019
 4349,2019-06-06,shot,gun,35.0,M,H,San Gabriel,CA,False,attack,no flee,False,True,30-40,2019
 4350,2019-06-06,shot,gun,26.0,M,B,St. Louis,MO,False,attack,flee,False,True,20-30,2019
 4351,2019-06-06,shot,gun,58.0,M,W,Bonnyman,KY,False,attack,no flee,False,True,50-60,2019
@@ -4357,7 +4357,7 @@
 4356,2019-06-09,shot,other,38.0,M,W,Portland,OR,False,other,no flee,False,True,30-40,2019
 4357,2019-06-09,shot,gun,41.0,M,W,Shirley,AR,False,attack,no flee,False,True,40-50,2019
 4358,2019-06-09,shot,gun,32.0,M,H,Menifee,CA,False,attack,flee,False,True,30-40,2019
-4359,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4359,2019-06-10,shot,other,,M,W,Kingsport,TN,False,attack,no flee,False,True,,2019
 4360,2019-06-10,shot,gun,24.0,M,B,Oklahoma City,OK,False,other,no flee,True,True,20-30,2019
 4361,2019-06-10,shot,gun,19.0,M,B,Lawton,OK,True,other,flee,False,True,10-20,2019
 4362,2019-06-11,shot,other,27.0,M,B,Porteau,OK,False,attack,no flee,False,True,20-30,2019
@@ -4369,13 +4369,13 @@
 4368,2019-06-12,shot,unarmed,35.0,M,H,Farmers Branch,TX,False,other,flee,False,True,30-40,2019
 4369,2019-06-13,shot,other,17.0,M,B,Rockville,MD,False,attack,flee,False,True,10-20,2019
 4370,2019-06-13,shot,other,22.0,M,B,Jacksonville,AR,False,attack,flee,False,True,20-30,2019
-4371,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4371,2019-06-14,shot,other,,M,,Delano,CA,False,undetermined,flee,False,True,,2019
 4372,2019-06-15,shot,gun,45.0,M,W,Belmont,NH,True,other,no flee,False,True,40-50,2019
 4373,2019-06-15,shot,other,20.0,M,B,Renton,WA,True,attack,unknown,False,True,10-20,2019
 4374,2019-06-15,shot,other,18.0,M,B,Racine,WI,False,other,flee,False,True,10-20,2019
 4375,2019-06-15,shot,gun,28.0,M,B,Birmingham,AL,False,attack,flee,False,True,20-30,2019
 4376,2019-06-15,shot,other,38.0,M,H,Toppenish,WA,False,other,no flee,False,True,30-40,2019
-4377,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4377,2019-06-15,shot,gun,,M,,Pearland,TX,False,other,no flee,False,True,,2019
 4378,2019-06-16,shot,other,53.0,M,B,South Bend,IN,False,attack,no flee,False,True,50-60,2019
 4379,2019-06-16,shot,gun,31.0,M,H,Tucson,AZ,False,attack,unknown,False,True,30-40,2019
 4380,2019-06-16,shot,gun,48.0,M,W,Fairbanks,AK,False,attack,no flee,False,True,40-50,2019
@@ -4395,7 +4395,7 @@
 4394,2019-06-24,shot,gun,61.0,M,B,Englewood,FL,False,attack,no flee,False,True,60-70,2019
 4395,2019-06-24,shot,other,34.0,M,W,Seminole,TX,False,attack,no flee,False,True,30-40,2019
 4396,2019-06-25,shot,other,35.0,M,H,San Antonio,TX,True,other,no flee,False,True,30-40,2019
-4397,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4397,2019-06-25,shot,other,,M,,Miami,FL,False,other,no flee,False,True,,2019
 4398,2019-06-25,shot,other,43.0,M,W,Menasha,WI,False,other,no flee,False,True,40-50,2019
 4399,2019-06-26,shot,other,50.0,M,W,Timberville,VA,False,attack,no flee,False,True,40-50,2019
 4400,2019-06-26,shot,other,32.0,M,B,Sugarcreek,OH,False,attack,no flee,True,True,30-40,2019
@@ -4408,7 +4408,7 @@
 4407,2019-06-27,shot,gun,41.0,M,H,Yucca Valley,CA,False,attack,no flee,False,True,40-50,2019
 4408,2019-06-28,shot,gun,37.0,M,B,Pueblo,CO,False,other,flee,False,True,30-40,2019
 4409,2019-06-28,shot,gun,76.0,M,W,Smyrna,TN,False,attack,no flee,False,True,70-80,2019
-4410,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4410,2019-06-28,shot,gun,,M,,Houston,TX,False,attack,flee,False,True,,2019
 4411,2019-06-28,shot,gun,19.0,M,W,Pearl,MS,False,attack,no flee,False,True,10-20,2019
 4412,2019-06-28,shot,gun,40.0,M,W,Bacliff,TX,False,attack,no flee,False,True,30-40,2019
 4413,2019-06-29,shot,gun,61.0,M,W,Denton County,TX,False,attack,unknown,False,True,60-70,2019
@@ -4419,7 +4419,7 @@
 4418,2019-07-01,shot,other,67.0,M,B,Port St. Lucie,FL,False,other,no flee,False,True,60-70,2019
 4419,2019-07-02,shot,other,44.0,M,W,Bagley Township,MI,True,attack,unknown,False,True,40-50,2019
 4420,2019-07-02,shot,gun,23.0,M,O,Eagan,MN,False,other,flee,True,True,20-30,2019
-4421,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4421,2019-07-02,shot,gun,,M,,Albuquerque,NM,False,attack,no flee,False,True,,2019
 4422,2019-07-02,shot,gun,39.0,M,B,Elyria,OH,False,attack,flee,False,True,30-40,2019
 4423,2019-07-03,shot,other,53.0,M,W,Salem,IN,False,other,no flee,False,True,50-60,2019
 4424,2019-07-03,shot,other,39.0,M,N,Poulsbo,WA,True,other,no flee,False,True,30-40,2019
@@ -4473,7 +4473,7 @@
 4472,2019-07-19,shot,gun,39.0,M,W,League City,TX,True,attack,no flee,False,True,30-40,2019
 4473,2019-07-21,shot,other,28.0,F,H,Albuquerque,NM,True,other,no flee,False,True,20-30,2019
 4474,2019-07-21,shot,gun,28.0,M,B,Tacoma,WA,False,attack,no flee,False,True,20-30,2019
-4475,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4475,2019-07-22,shot,gun,,M,B,Wesson,MS,False,attack,unknown,False,True,,2019
 4476,2019-07-22,shot,gun,53.0,M,W,Ranburne,AL,True,attack,no flee,False,True,50-60,2019
 4477,2019-07-23,shot,other,27.0,M,W,Asbury Park,NJ,True,other,no flee,False,True,20-30,2019
 4478,2019-07-23,shot,gun,31.0,M,B,Ross Township,PA,False,attack,no flee,False,True,30-40,2019
@@ -4482,13 +4482,13 @@
 4481,2019-07-26,shot,gun,41.0,M,H,Hartford,CT,False,attack,flee,True,True,40-50,2019
 4482,2019-07-26,shot,gun,49.0,M,W,Three Springs,PA,True,attack,no flee,False,True,40-50,2019
 4483,2019-07-26,shot,gun,56.0,M,W,Sun City,SC,True,other,no flee,False,True,50-60,2019
-4484,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4484,2019-07-27,shot,gun,,M,,Dallas,TX,False,attack,no flee,False,True,,2019
 4485,2019-07-28,shot,gun,62.0,M,H,Boyton Beach,FL,False,attack,no flee,False,True,60-70,2019
 4486,2019-07-28,shot,gun,69.0,M,,Stroudsburg,PA,True,attack,no flee,False,True,60-70,2019
-4487,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4487,2019-07-29,shot,gun,,M,,Houston,TX,False,other,flee,False,True,,2019
 4488,2019-07-30,shot,other,31.0,M,W,Portland,OR,False,attack,unknown,False,True,30-40,2019
 4489,2019-07-31,shot,other,37.0,M,W,Roy,UT,False,other,unknown,False,True,30-40,2019
-4490,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4490,2019-07-31,shot,gun,,M,H,San Antonio,TX,False,attack,no flee,False,True,,2019
 4491,2019-07-31,shot,gun,28.0,M,W,Council Bluffs,IA,False,attack,flee,False,True,20-30,2019
 4492,2019-07-31,shot,gun,46.0,M,,Cincinnati,OH,False,attack,no flee,False,True,40-50,2019
 4493,2019-07-31,shot,gun,42.0,M,,Chattanooga,TN,False,attack,no flee,False,True,40-50,2019
@@ -4520,7 +4520,7 @@
 4519,2019-08-07,shot,gun,18.0,M,B,Longview,TX,False,attack,no flee,False,True,10-20,2019
 4520,2019-08-08,shot,gun,27.0,M,B,Moss Point,MS,False,attack,flee,True,True,20-30,2019
 4521,2019-08-08,shot,gun,52.0,M,,Leitchfield,KY,True,attack,no flee,False,True,50-60,2019
-4522,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4522,2019-08-09,shot,other,,M,,Beaumont,CA,False,attack,no flee,False,True,,2019
 4523,2019-08-09,shot,other,52.0,M,H,Garland,TX,False,attack,no flee,False,True,50-60,2019
 4524,2019-08-09,shot,gun,37.0,M,H,Kansas City,MO,False,attack,flee,False,True,30-40,2019
 4525,2019-08-09,shot,other,62.0,M,,Montpelier,VT,True,attack,no flee,False,True,60-70,2019
@@ -4531,29 +4531,29 @@
 4530,2019-08-12,shot,gun,38.0,M,W,Chetopa,KS,False,attack,no flee,False,True,30-40,2019
 4531,2019-08-13,shot,unarmed,31.0,M,W,Joplin,MO,True,attack,no flee,False,True,30-40,2019
 4532,2019-08-13,shot,gun,51.0,M,B,Clinton,TN,True,attack,no flee,False,True,50-60,2019
-4533,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4533,2019-08-13,shot,gun,,M,W,Louisville,KY,False,attack,no flee,False,True,,2019
 4534,2019-08-13,shot,gun,51.0,M,B,Kansas City,KS,False,attack,no flee,False,True,50-60,2019
 4535,2019-08-13,shot,other,20.0,M,W,Ramseur,NC,False,attack,flee,False,True,10-20,2019
 4536,2019-08-14,shot,gun,37.0,M,,Belton,SC,False,other,no flee,False,True,30-40,2019
 4537,2019-08-14,shot,gun,49.0,M,,Formosa,AR,False,attack,no flee,False,True,40-50,2019
 4538,2019-08-15,shot,gun,31.0,F,H,Denver,CO,False,attack,flee,False,True,30-40,2019
 4539,2019-08-16,shot,other,26.0,M,H,Ogden,UT,False,attack,no flee,True,True,20-30,2019
-4540,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4540,2019-08-16,shot,gun,,M,,Spokane Valley,WA,False,attack,flee,False,True,,2019
 4541,2019-08-17,shot,gun,25.0,M,B,Gary,IN,False,undetermined,no flee,False,True,20-30,2019
-4542,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4542,2019-08-17,shot,gun,,M,B,Newport News,VA,False,attack,flee,False,True,,2019
 4543,2019-08-17,shot,gun,62.0,M,W,Springville,IN,False,attack,no flee,False,True,60-70,2019
 4544,2019-08-17,shot,gun,27.0,M,B,Dallas,TX,False,attack,flee,True,True,20-30,2019
 4545,2019-08-18,shot,gun,33.0,M,H,Los Angeles,CA,False,attack,flee,True,True,30-40,2019
 4546,2019-08-18,shot,other,38.0,M,,Caledonia,WI,False,attack,no flee,False,True,30-40,2019
 4547,2019-08-19,shot,gun,69.0,M,,Las Vegas,NV,False,attack,flee,False,True,60-70,2019
 4548,2019-08-19,shot,gun,39.0,M,H,Los Angeles,CA,False,attack,flee,False,True,30-40,2019
-4549,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4549,2019-08-19,shot,other,,M,,Fullerton,CA,False,attack,flee,True,True,,2019
 4550,2019-08-21,shot,gun,18.0,M,B,Fort Worth,TX,False,attack,flee,True,True,10-20,2019
 4551,2019-08-21,shot,other,27.0,M,W,Nicholasville,KY,False,undetermined,no flee,False,True,20-30,2019
 4552,2019-08-21,shot,other,50.0,M,H,Stanton,CA,False,undetermined,unknown,False,True,40-50,2019
 4553,2019-08-21,shot,gun,54.0,M,,North Aurora,IL,True,attack,no flee,False,True,50-60,2019
 4554,2019-08-22,shot,other,57.0,M,W,Albuquerque,NM,False,attack,no flee,False,True,50-60,2019
-4555,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4555,2019-08-22,shot,other,,M,,Westminster,CA,False,other,flee,False,True,,2019
 4556,2019-08-22,shot,other,29.0,M,B,Dayton,OH,False,attack,flee,False,True,20-30,2019
 4557,2019-08-22,shot,unarmed,39.0,M,W,Glennville,GA,False,attack,no flee,False,True,30-40,2019
 4558,2019-08-22,shot,gun,46.0,M,,Hobbs,NM,False,attack,no flee,False,True,40-50,2019
@@ -4561,7 +4561,7 @@
 4560,2019-08-23,shot,other,34.0,M,W,Cottage Grove,OR,False,other,no flee,False,True,30-40,2019
 4561,2019-08-24,shot,other,52.0,M,H,El Cerrito,CA,True,attack,no flee,True,True,50-60,2019
 4562,2019-08-26,shot,unarmed,33.0,M,B,Knoxville,TN,False,attack,no flee,False,True,30-40,2019
-4563,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4563,2019-08-26,shot,gun,,M,,Anchorage,AK,True,attack,no flee,False,True,,2019
 4564,2019-08-27,shot,gun,37.0,M,B,Helena,AR,False,attack,unknown,False,True,30-40,2019
 4565,2019-08-27,shot,gun,67.0,M,,Stockton,CA,False,attack,no flee,False,True,60-70,2019
 4566,2019-08-27,shot,gun,52.0,M,B,Baton Rouge,LA,True,attack,flee,False,True,50-60,2019
@@ -4569,19 +4569,19 @@
 4568,2019-08-28,shot,gun,30.0,M,B,Baltimore,MD,False,attack,flee,False,True,20-30,2019
 4569,2019-08-28,shot,other,28.0,M,W,Salina,KS,False,other,no flee,False,True,20-30,2019
 4570,2019-08-29,shot,gun,16.0,M,,Carlsbad,NM,False,attack,no flee,False,True,10-20,2019
-4571,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
-4572,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4571,2019-08-30,shot,gun,,M,,Jamaica,NY,False,attack,no flee,False,True,,2019
+4572,2019-08-30,shot,gun,,M,,New York,NY,False,attack,flee,False,True,,2019
 4573,2019-08-30,shot,gun,51.0,M,H,Tolleson,AZ,False,attack,flee,False,True,50-60,2019
 4574,2019-08-30,shot,gun,35.0,M,,Wilmington,DE,False,attack,no flee,False,True,30-40,2019
 4575,2019-08-31,shot,gun,23.0,M,B,St. Louis,MO,False,other,flee,False,True,20-30,2019
-4576,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4576,2019-08-31,shot,gun,,M,,Wake County,NC,False,attack,flee,False,True,,2019
 4577,2019-08-31,shot,other,23.0,M,,Brooklyn Center,MN,False,other,no flee,True,True,20-30,2019
 4578,2019-08-31,shot,other,47.0,M,,Florence,MS,False,other,flee,False,True,40-50,2019
 4579,2019-08-31,shot,gun,36.0,M,W,Odessa,TX,True,attack,flee,False,True,30-40,2019
 4580,2019-08-31,shot,gun,37.0,M,H,Denver,CO,False,attack,no flee,False,True,30-40,2019
 4581,2019-09-01,shot,other,49.0,M,W,Sand Springs,OK,False,attack,flee,True,True,40-50,2019
 4582,2019-09-01,shot,gun,49.0,M,W,Caldwell,ID,False,attack,no flee,False,True,40-50,2019
-4583,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4583,2019-09-02,shot,gun,,M,,New York,NY,False,attack,flee,False,True,,2019
 4584,2019-09-02,shot,other,35.0,M,W,Missoula,MT,True,attack,no flee,False,True,30-40,2019
 4585,2019-09-02,shot,other,17.0,M,W,Kerrville,TX,False,other,no flee,False,True,10-20,2019
 4586,2019-09-02,shot,other,43.0,M,,Silver Springs,NV,False,attack,no flee,False,True,40-50,2019
@@ -4605,7 +4605,7 @@
 4604,2019-09-10,shot,other,26.0,M,B,Wellington,UT,True,other,no flee,True,True,20-30,2019
 4605,2019-09-11,shot,gun,20.0,M,W,Burlington,IA,False,attack,flee,False,True,10-20,2019
 4606,2019-09-11,shot,gun,18.0,M,B,Columbus,OH,False,other,flee,False,True,10-20,2019
-4607,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4607,2019-09-12,shot,gun,,M,B,Houston,TX,False,attack,flee,False,True,,2019
 4608,2019-09-12,shot,other,29.0,M,W,Independence,MO,False,attack,unknown,False,True,20-30,2019
 4609,2019-09-12,shot,other,35.0,M,H,Santa Clarita,CA,False,attack,no flee,False,True,30-40,2019
 4610,2019-09-13,shot,gun,77.0,M,W,Loyal,WI,False,attack,no flee,False,True,70-80,2019
@@ -4616,13 +4616,13 @@
 4615,2019-09-14,shot,gun,76.0,M,W,Ooltewah,TN,True,attack,no flee,False,True,70-80,2019
 4616,2019-09-15,shot,other,28.0,M,W,Oklahoma City,OK,True,attack,no flee,True,True,20-30,2019
 4617,2019-09-15,shot,other,31.0,M,B,St. Paul,MN,False,attack,no flee,True,True,30-40,2019
-4618,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4618,2019-09-15,shot,gun,,M,,Katy,TX,False,attack,flee,False,True,,2019
 4619,2019-09-16,shot,gun,53.0,M,B,Washington,DC,False,attack,no flee,False,True,50-60,2019
 4620,2019-09-16,shot,gun,33.0,M,W,Elizabethon,TN,False,attack,flee,False,True,30-40,2019
 4621,2019-09-16,shot,gun,37.0,M,W,Sanger,TX,False,attack,flee,False,True,30-40,2019
-4622,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4622,2019-09-16,shot,gun,,M,,Houston,TX,False,attack,flee,False,True,,2019
 4623,2019-09-17,shot,other,57.0,F,W,Richmond,VA,True,attack,no flee,True,True,50-60,2019
-4624,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4624,2019-09-17,shot,other,,M,,Milton,FL,False,attack,flee,False,True,,2019
 4625,2019-09-17,shot,other,36.0,M,W,Oceanside,NY,True,attack,no flee,False,True,30-40,2019
 4626,2019-09-17,shot and Tasered,gun,39.0,M,B,New York,NY,False,attack,flee,True,True,30-40,2019
 4627,2019-09-18,shot,gun,43.0,M,W,Salem,OR,False,attack,no flee,False,True,40-50,2019
@@ -4646,10 +4646,10 @@
 4645,2019-09-25,shot and Tasered,gun,32.0,M,W,Lacombe,LA,True,attack,no flee,False,True,30-40,2019
 4646,2019-09-26,shot,other,49.0,M,B,Hyattsville,MD,False,attack,no flee,False,True,40-50,2019
 4647,2019-09-26,shot,gun,28.0,M,W,Lexington County,SC,False,attack,flee,False,True,20-30,2019
-4648,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
-4649,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4648,2019-09-26,shot,other,,M,,La Habra,CA,False,attack,flee,False,True,,2019
+4649,2019-09-26,shot,gun,,M,,Dallas,TX,False,attack,no flee,False,True,,2019
 4650,2019-09-28,shot,other,31.0,M,B,Baltimore,MD,False,attack,flee,False,True,30-40,2019
-4651,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4651,2019-09-28,shot,gun,,M,,Boston,MA,False,attack,flee,False,True,,2019
 4652,2019-09-29,shot,other,20.0,M,W,Monument,CO,True,attack,no flee,False,True,10-20,2019
 4653,2019-09-29,shot,gun,38.0,M,,Miami,FL,False,attack,unknown,False,True,30-40,2019
 4654,2019-09-29,shot,gun,27.0,M,B,New York,NY,False,attack,no flee,True,True,20-30,2019
@@ -4687,7 +4687,7 @@
 4686,2019-10-13,shot,gun,17.0,M,H,Glendale,AZ,False,attack,no flee,False,True,10-20,2019
 4687,2019-10-13,shot,other,22.0,M,H,Corpus Christi,TX,True,other,no flee,True,True,20-30,2019
 4688,2019-10-13,shot,gun,26.0,M,H,Buckeye,AZ,False,attack,unknown,False,True,20-30,2019
-4689,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4689,2019-10-14,shot,gun,,M,,Albuquerque,NM,False,attack,no flee,False,True,,2019
 4690,2019-10-14,shot,unarmed,31.0,M,B,Ethel,LA,True,undetermined,flee,False,True,30-40,2019
 4691,2019-10-14,shot,gun,61.0,M,B,High Point,NC,False,attack,no flee,False,True,60-70,2019
 4692,2019-10-14,shot,other,54.0,F,W,Athens,GA,False,attack,no flee,True,True,50-60,2019
@@ -4727,10 +4727,10 @@
 4726,2019-10-25,shot,other,19.0,M,W,Morristown,TN,False,attack,no flee,False,True,10-20,2019
 4727,2019-10-25,shot,gun,40.0,M,W,Kansas,OK,False,attack,no flee,False,True,30-40,2019
 4728,2019-10-25,shot,other,33.0,M,B,New York,NY,True,attack,no flee,False,True,30-40,2019
-4729,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
-4730,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4729,2019-10-25,shot,gun,,M,,Albuquerque,NM,False,other,flee,False,True,,2019
+4730,2019-10-25,shot,other,,M,,Dalton,GA,False,other,no flee,False,True,,2019
 4731,2019-10-26,shot,gun,45.0,M,A,Athens,GA,False,attack,flee,True,True,40-50,2019
-4732,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4732,2019-10-26,shot,other,,M,,Imperial County,CA,False,other,flee,False,True,,2019
 4733,2019-10-26,shot and Tasered,gun,27.0,M,W,Walloon Lake,MI,True,attack,no flee,False,True,20-30,2019
 4734,2019-10-27,shot,gun,63.0,M,W,Madison,WI,False,attack,no flee,False,True,60-70,2019
 4735,2019-10-27,shot,gun,50.0,M,H,Tulsa,OK,False,attack,no flee,True,True,40-50,2019
@@ -4739,9 +4739,9 @@
 4738,2019-10-27,shot and Tasered,other,42.0,M,H,Porterville,CA,True,attack,no flee,False,True,40-50,2019
 4739,2019-10-28,shot,other,25.0,M,W,Evansville,IN,False,attack,no flee,True,True,20-30,2019
 4740,2019-10-30,shot,gun,24.0,M,B,Baltimore,MD,False,attack,no flee,True,True,20-30,2019
-4741,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4741,2019-10-30,shot,gun,,M,W,Ona,WV,False,attack,no flee,False,True,,2019
 4742,2019-10-30,shot,other,67.0,M,,San Jose,CA,False,other,no flee,False,True,60-70,2019
-4743,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4743,2019-10-30,shot,gun,,M,A,Fresno,CA,False,other,no flee,False,True,,2019
 4744,2019-10-30,shot,other,62.0,M,W,Lancaster,CA,False,other,no flee,False,True,60-70,2019
 4745,2019-10-31,shot,gun,34.0,M,W,Bascom,FL,False,attack,flee,False,True,30-40,2019
 4746,2019-10-31,shot,other,33.0,M,W,San Jose,CA,True,attack,no flee,True,True,30-40,2019
@@ -4754,7 +4754,7 @@
 4753,2019-11-02,shot and Tasered,other,29.0,M,W,Vero Beach,FL,False,attack,no flee,False,True,20-30,2019
 4754,2019-11-03,shot,other,56.0,M,W,Parkland,WA,True,other,no flee,True,True,50-60,2019
 4755,2019-11-03,shot,gun,32.0,M,B,Phoenix,AZ,False,attack,no flee,False,True,30-40,2019
-4756,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4756,2019-11-04,shot,gun,,M,,Sunland Park,NM,False,attack,flee,False,True,,2019
 4757,2019-11-04,shot,other,31.0,M,W,Glendale,AZ,True,attack,no flee,True,True,30-40,2019
 4758,2019-11-04,shot,gun,21.0,M,H,Las Cruces,NM,False,attack,unknown,False,True,20-30,2019
 4759,2019-11-04,shot,gun,31.0,M,W,Two Rivers,WI,False,other,no flee,False,True,30-40,2019
@@ -4781,19 +4781,19 @@
 4780,2019-11-12,shot,gun,39.0,M,W,Oklahoma City,OK,False,attack,unknown,False,True,30-40,2019
 4781,2019-11-12,shot,gun,30.0,M,O,Honolulu,HI,False,other,no flee,False,True,20-30,2019
 4782,2019-11-13,shot,gun,27.0,M,B,Wilson,NC,False,attack,flee,False,True,20-30,2019
-4783,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4783,2019-11-13,shot,other,,M,W,Mandarin,FL,True,undetermined,no flee,True,True,,2019
 4784,2019-11-13,shot,other,37.0,M,H,Los Angeles,CA,False,other,flee,False,True,30-40,2019
 4785,2019-11-14,shot,other,52.0,M,W,Beaumont,TX,False,attack,no flee,False,True,50-60,2019
 4786,2019-11-14,shot,gun,35.0,M,W,Fox Crossing,WI,True,other,no flee,False,True,30-40,2019
 4787,2019-11-15,shot,gun,33.0,M,B,Charlotte,NC,False,attack,no flee,False,True,30-40,2019
-4788,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4788,2019-11-15,shot,gun,,M,,Westborough,MA,False,other,no flee,False,True,,2019
 4789,2019-11-15,shot,gun,27.0,M,B,Cleveland,OH,False,other,flee,False,True,20-30,2019
-4790,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4790,2019-11-16,shot,other,,M,,Lake Elsinore,CA,False,other,no flee,False,True,,2019
 4791,2019-11-16,shot,gun,27.0,M,W,Mesa,AZ,False,attack,no flee,False,True,20-30,2019
 4792,2019-11-16,shot,unarmed,41.0,M,W,Alliance,OH,False,attack,flee,False,True,40-50,2019
 4793,2019-11-18,shot,gun,28.0,M,B,Franklin County,WA,False,attack,flee,False,True,20-30,2019
 4794,2019-11-18,shot,gun,26.0,M,W,Kansas City,MO,False,attack,unknown,False,True,20-30,2019
-4795,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4795,2019-11-19,shot,gun,,M,W,Horn Lake,MS,False,other,no flee,False,True,,2019
 4796,2019-11-19,shot,other,34.0,M,H,Los Angeles,CA,False,other,unknown,False,True,30-40,2019
 4797,2019-11-19,shot,gun,34.0,M,W,San Bernardino,CA,False,attack,no flee,False,True,30-40,2019
 4798,2019-11-19,shot,gun,38.0,M,H,West Kewaunee,WI,False,attack,unknown,False,True,30-40,2019
@@ -4820,7 +4820,7 @@
 4819,2019-11-29,shot,gun,46.0,M,,Lewes,DE,True,attack,no flee,False,True,40-50,2019
 4820,2019-11-29,shot,gun,60.0,M,W,Lakeland,FL,True,attack,no flee,False,True,50-60,2019
 4821,2019-11-29,shot,gun,40.0,M,W,Watkins,CO,False,attack,flee,False,True,30-40,2019
-4822,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4822,2019-11-29,shot,other,,M,W,Eatonville,WA,False,other,flee,False,True,,2019
 4823,2019-11-30,shot,unarmed,40.0,M,H,Eugene,OR,False,attack,no flee,False,True,30-40,2019
 4824,2019-12-01,shot,gun,68.0,M,W,Secaucus,NJ,False,attack,unknown,False,True,60-70,2019
 4825,2019-12-01,shot,gun,68.0,M,B,Morrow,GA,False,attack,no flee,False,True,60-70,2019
@@ -4832,7 +4832,7 @@
 4831,2019-12-02,shot,other,38.0,M,A,Los Angeles,CA,False,other,unknown,False,True,30-40,2019
 4832,2019-12-02,shot,unarmed,28.0,M,B,Temple,TX,False,undetermined,no flee,False,True,20-30,2019
 4833,2019-12-02,shot,gun,18.0,M,N,Mesa,AZ,False,attack,no flee,False,True,10-20,2019
-4834,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4834,2019-12-03,shot,gun,,M,W,Ada,OK,False,attack,no flee,False,True,,2019
 4835,2019-12-03,shot,gun,26.0,M,B,Kansas City,MO,False,other,no flee,False,True,20-30,2019
 4836,2019-12-03,shot,gun,31.0,M,B,Syracuse,NY,False,attack,no flee,True,True,30-40,2019
 4837,2019-12-05,shot,gun,58.0,M,B,Avon,CO,False,attack,flee,False,True,50-60,2019
@@ -4874,7 +4874,7 @@
 4873,2019-12-16,shot,gun,34.0,M,O,Kalihi,HI,False,attack,flee,False,True,30-40,2019
 4874,2019-12-16,shot,gun,25.0,M,H,Los Angeles,CA,False,attack,flee,False,True,20-30,2019
 4875,2019-12-16,shot,other,28.0,M,H,San Bernardino,CA,False,undetermined,flee,False,True,20-30,2019
-4876,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4876,2019-12-17,shot,gun,,M,W,Wilmington,NC,False,attack,no flee,False,True,,2019
 4877,2019-12-17,shot,gun,27.0,M,W,Fort Walton Beach,FL,False,attack,flee,False,True,20-30,2019
 4878,2019-12-17,shot,gun,41.0,M,W,Great Falls,MT,False,attack,flee,False,True,40-50,2019
 4879,2019-12-17,shot,gun,63.0,M,,El Paso,TX,False,attack,unknown,False,True,60-70,2019
@@ -4907,7 +4907,7 @@
 4906,2019-12-26,shot,other,35.0,M,B,Memphis,TN,False,other,unknown,False,True,30-40,2019
 4907,2019-12-26,shot,gun,35.0,M,H,Auburndale,FL,True,attack,no flee,False,True,30-40,2019
 4908,2019-12-27,shot,gun,16.0,M,H,Limerick,ME,False,other,unknown,False,True,10-20,2019
-4909,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4909,2019-12-27,shot,gun,,M,W,Linthicum,MD,True,attack,no flee,False,True,,2019
 4910,2019-12-27,shot,other,42.0,M,W,South Ogden,UT,False,undetermined,flee,False,True,40-50,2019
 4911,2019-12-27,shot and Tasered,other,43.0,M,W,Newport News,VA,False,attack,no flee,False,True,40-50,2019
 4912,2019-12-28,shot,gun,52.0,M,W,Houston,TX,False,other,flee,False,True,50-60,2019
@@ -4918,13 +4918,13 @@
 4917,2019-12-29,shot,gun,76.0,M,,DeSoto County,MS,True,attack,unknown,False,True,70-80,2019
 4918,2019-12-29,shot,gun,29.0,M,W,Rapid City,SD,True,attack,no flee,False,True,20-30,2019
 4919,2019-12-29,shot,other,34.0,M,W,Juneau,AK,False,other,no flee,False,True,30-40,2019
-4920,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4920,2019-12-29,shot,other,,M,H,El Centro,CA,False,other,no flee,False,True,,2019
 4921,2019-12-30,shot,gun,18.0,M,B,Houston,TX,False,attack,flee,False,True,10-20,2019
 4922,2019-12-30,shot,other,51.0,F,W,Wichita,KS,False,attack,flee,False,True,50-60,2019
 4923,2019-12-30,shot,other,25.0,M,W,Fulton,MO,False,attack,flee,False,True,20-30,2019
 4924,2019-12-31,shot,other,28.0,M,W,Globe,AZ,False,other,no flee,False,True,20-30,2019
 4925,2019-12-31,shot,other,37.0,M,B,Chesterfield,MO,False,attack,flee,False,True,30-40,2019
-4926,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2019
+4926,2019-12-31,shot,gun,,M,B,Forrest City,AR,False,attack,unknown,False,True,,2019
 4927,2019-12-31,shot,gun,23.0,M,B,Federal Way,WA,False,attack,no flee,False,True,20-30,2019
 4928,2019-12-31,shot,gun,57.0,M,B,Omaha,NE,False,attack,no flee,True,True,50-60,2019
 4929,2019-12-31,shot,gun,49.0,M,W,Cross Lanes,WV,False,attack,flee,False,True,40-50,2019
@@ -4960,7 +4960,7 @@
 4959,2020-01-09,shot and Tasered,other,34.0,M,W,Semmes,AL,True,attack,no flee,False,True,30-40,2020
 4960,2020-01-10,shot,other,24.0,M,H,Muscoy,CA,False,attack,flee,False,True,20-30,2020
 4961,2020-01-10,shot and Tasered,unarmed,25.0,M,A,Spokane,WA,False,other,flee,False,True,20-30,2020
-4962,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+4962,2020-01-11,shot,other,,M,W,Glenwood Springs,CO,False,other,flee,False,True,,2020
 4963,2020-01-11,shot,gun,47.0,M,B,Bainbridge,GA,False,attack,no flee,False,True,40-50,2020
 4964,2020-01-11,shot and Tasered,other,49.0,M,B,Miami Beach,FL,True,attack,unknown,False,True,40-50,2020
 4965,2020-01-12,shot,other,31.0,M,H,Los Angeles,CA,True,attack,unknown,False,True,30-40,2020
@@ -5052,7 +5052,7 @@
 5051,2020-02-13,shot,other,37.0,M,H,Sparks,NV,False,undetermined,no flee,False,True,30-40,2020
 5052,2020-02-14,shot,gun,21.0,M,H,Silverton,OR,False,other,no flee,True,True,20-30,2020
 5053,2020-02-14,shot,gun,63.0,M,W,Commerce City,CO,True,other,flee,False,True,60-70,2020
-5054,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5054,2020-02-14,shot,other,,M,H,Rialto,CA,False,other,no flee,False,True,,2020
 5055,2020-02-14,shot,gun,58.0,M,W,Polkton,NC,False,attack,flee,False,True,50-60,2020
 5056,2020-02-15,shot,gun,16.0,M,A,Anchorage,AK,False,attack,no flee,False,True,10-20,2020
 5057,2020-02-16,shot,other,31.0,M,W,Newbury,MA,False,attack,flee,False,True,30-40,2020
@@ -5067,8 +5067,8 @@
 5066,2020-02-20,shot,gun,75.0,M,W,DeKalb County,GA,False,other,no flee,False,True,70-80,2020
 5067,2020-02-21,shot,gun,26.0,M,,Lake Lanier,GA,False,attack,flee,False,True,20-30,2020
 5068,2020-02-21,shot,other,40.0,M,H,Arvada,CO,False,other,no flee,False,True,30-40,2020
-5069,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
-5070,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5069,2020-02-21,shot,gun,,M,,Old Mines,MO,True,other,no flee,False,True,,2020
+5070,2020-02-21,shot,unarmed,,F,,Phoenix,AZ,False,attack,no flee,False,True,,2020
 5071,2020-02-22,shot,gun,36.0,M,H,Deming,NM,False,attack,flee,False,True,30-40,2020
 5072,2020-02-23,shot,gun,83.0,M,,Jamestown,NC,False,attack,no flee,False,True,80-90,2020
 5073,2020-02-24,shot,gun,27.0,M,W,Milwaukee,WI,False,other,flee,False,True,20-30,2020
@@ -5079,14 +5079,14 @@
 5078,2020-02-25,shot,other,19.0,M,B,New York,NY,False,attack,flee,False,True,10-20,2020
 5079,2020-02-25,shot,other,23.0,M,W,Pocatello,ID,False,other,flee,True,True,20-30,2020
 5080,2020-02-25,shot,gun,16.0,M,W,Georgetown,TX,False,attack,no flee,False,True,10-20,2020
-5081,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5081,2020-02-25,shot,other,,M,,Brea,CA,False,undetermined,unknown,False,True,,2020
 5082,2020-02-25,shot,gun,56.0,M,W,Dalzell,SC,False,attack,no flee,False,True,50-60,2020
 5083,2020-02-26,shot,other,35.0,M,,Kansas City,MO,False,undetermined,unknown,False,True,30-40,2020
 5084,2020-02-26,shot,other,30.0,M,B,Bradenton,FL,False,attack,flee,False,True,20-30,2020
 5085,2020-02-26,shot,gun,30.0,M,H,Greeley,CO,False,other,no flee,False,True,20-30,2020
 5086,2020-02-26,shot,gun,30.0,M,W,Tahlequah,OK,False,attack,flee,False,True,20-30,2020
 5087,2020-02-26,shot,other,54.0,M,,Sylvania Township,OH,False,other,no flee,False,True,50-60,2020
-5088,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5088,2020-02-26,shot,unarmed,,M,,Garden Grove,CA,False,attack,unknown,True,True,,2020
 5089,2020-02-27,shot,gun,36.0,M,W,Lakeville,MN,True,attack,no flee,False,True,30-40,2020
 5090,2020-02-27,shot,other,33.0,M,W,Clarkdale,AZ,False,other,unknown,False,True,30-40,2020
 5091,2020-02-27,shot,gun,39.0,M,H,Jacksonville,FL,True,attack,unknown,False,True,30-40,2020
@@ -5096,8 +5096,8 @@
 5095,2020-02-29,shot,other,45.0,M,W,Henderson,NV,True,other,no flee,True,True,40-50,2020
 5096,2020-03-01,shot,gun,30.0,M,W,Pueblo,CO,False,attack,flee,False,True,20-30,2020
 5097,2020-03-01,shot,gun,30.0,M,H,Santa Clarita,CA,False,other,no flee,False,True,20-30,2020
-5098,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
-5099,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5098,2020-03-01,shot,gun,,M,,Santa Ana,CA,False,other,unknown,False,True,,2020
+5099,2020-03-01,shot,gun,,M,,Cloverleaf,TX,True,attack,no flee,False,True,,2020
 5100,2020-03-01,shot,gun,31.0,M,W,Mocksville,NC,False,attack,unknown,False,True,30-40,2020
 5101,2020-03-02,shot,other,34.0,M,W,Keithville,LA,True,attack,no flee,False,True,30-40,2020
 5102,2020-03-02,shot,gun,73.0,M,W,Sherman,TX,False,attack,flee,False,True,70-80,2020
@@ -5105,13 +5105,13 @@
 5104,2020-03-03,shot,gun,39.0,M,W,Riverside,WA,False,attack,unknown,False,True,30-40,2020
 5105,2020-03-04,shot,unarmed,37.0,M,W,Manila,AR,True,attack,no flee,False,True,30-40,2020
 5106,2020-03-04,shot,gun,73.0,M,,Fayetteville,NC,False,attack,no flee,False,True,70-80,2020
-5107,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5107,2020-03-05,shot,gun,,M,W,Ariton,AL,False,other,flee,False,True,,2020
 5108,2020-03-05,shot,other,31.0,M,O,Henrico,VA,False,attack,no flee,False,True,30-40,2020
 5109,2020-03-05,shot,gun,25.0,M,B,Pittsburgh,PA,False,attack,no flee,False,True,20-30,2020
 5110,2020-03-06,shot,gun,41.0,M,,Tucson,AZ,True,attack,no flee,False,True,40-50,2020
 5111,2020-03-06,shot,gun,24.0,M,B,Fairfield,OH,False,other,no flee,False,True,20-30,2020
 5112,2020-03-06,shot,unarmed,27.0,M,B,Fort Lauderdale,FL,False,attack,flee,False,True,20-30,2020
-5113,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5113,2020-03-06,shot,other,,M,W,Tulsa,OK,False,attack,no flee,False,True,,2020
 5114,2020-03-06,shot,unarmed,32.0,M,W,Edison,CA,False,attack,no flee,False,True,30-40,2020
 5115,2020-03-07,shot,other,33.0,M,,Stroudsburg,PA,False,other,no flee,False,True,30-40,2020
 5116,2020-03-07,shot,other,43.0,M,W,Harrison Township,OH,False,attack,flee,False,True,40-50,2020
@@ -5133,7 +5133,7 @@
 5132,2020-03-13,shot,gun,62.0,M,W,New Kensington,PA,True,attack,unknown,False,True,60-70,2020
 5133,2020-03-13,shot,other,41.0,M,H,Chandler,AZ,False,attack,no flee,False,True,40-50,2020
 5134,2020-03-13,shot,gun,50.0,M,A,Garland,TX,False,attack,no flee,False,True,40-50,2020
-5135,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5135,2020-03-13,shot,other,,M,W,Mufreesboro,TN,True,other,no flee,False,True,,2020
 5136,2020-03-14,shot,other,48.0,M,,Cocoa,FL,False,attack,flee,False,True,40-50,2020
 5137,2020-03-14,shot,gun,31.0,M,H,Taos,NM,False,attack,flee,False,True,30-40,2020
 5138,2020-03-14,shot,gun,30.0,M,W,Louisville,KY,False,attack,flee,True,True,20-30,2020
@@ -5146,7 +5146,7 @@
 5145,2020-03-15,shot,gun,19.0,M,W,Chase City,VA,False,other,flee,False,True,10-20,2020
 5146,2020-03-16,shot,gun,35.0,M,B,Webster City,IA,False,attack,no flee,False,True,30-40,2020
 5147,2020-03-16,shot,other,58.0,M,H,San Antonio,TX,False,other,no flee,False,True,50-60,2020
-5148,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5148,2020-03-16,shot,gun,,M,,Miami,FL,True,attack,flee,False,True,,2020
 5149,2020-03-16,shot,gun,18.0,M,W,Mecklenburg,VA,False,attack,unknown,False,True,10-20,2020
 5150,2020-03-16,shot,other,55.0,M,,Tucson,AZ,False,undetermined,flee,False,True,50-60,2020
 5151,2020-03-16,shot,other,42.0,F,W,Myerstown,PA,False,attack,flee,False,True,40-50,2020
@@ -5175,7 +5175,7 @@
 5174,2020-03-26,shot,unarmed,32.0,M,W,Linwood,NC,False,other,flee,False,True,30-40,2020
 5175,2020-03-27,shot,gun,46.0,M,W,Buchanan,VA,True,attack,no flee,False,True,40-50,2020
 5176,2020-03-27,shot,gun,26.0,M,B,Newburgh,NY,False,attack,unknown,True,True,20-30,2020
-5177,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5177,2020-03-27,shot,gun,,M,,Lehigh Acres,FL,False,attack,flee,False,True,,2020
 5178,2020-03-27,shot,gun,51.0,M,,Salem,OR,False,other,unknown,False,True,50-60,2020
 5179,2020-03-28,shot,gun,49.0,M,,Gray,KY,False,attack,no flee,False,True,40-50,2020
 5180,2020-03-28,shot,gun,46.0,M,W,Caldwell,ID,False,attack,no flee,False,True,40-50,2020
@@ -5186,7 +5186,7 @@
 5185,2020-03-31,shot,other,52.0,M,H,Albuquerque,NM,True,other,no flee,False,True,50-60,2020
 5186,2020-03-31,shot,gun,29.0,M,W,Asheville,NC,False,attack,no flee,False,True,20-30,2020
 5187,2020-03-31,shot,gun,29.0,M,,Hinton,VA,False,attack,flee,False,True,20-30,2020
-5188,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5188,2020-03-31,shot,other,,M,,Burkesville,KY,False,attack,flee,False,True,,2020
 5189,2020-04-01,shot,gun,19.0,M,W,Columbus,MS,False,attack,flee,False,True,10-20,2020
 5190,2020-04-02,shot,gun,66.0,M,B,Ouachita Parish,LA,False,attack,no flee,False,True,60-70,2020
 5191,2020-04-02,shot,other,40.0,M,W,Lincoln CIty,OR,False,other,no flee,False,True,30-40,2020
@@ -5196,7 +5196,7 @@
 5195,2020-04-04,shot,other,26.0,M,W,Nutter Fort,WV,False,other,no flee,False,True,20-30,2020
 5196,2020-04-05,shot,gun,59.0,M,,Hialeah,FL,False,attack,no flee,False,True,50-60,2020
 5197,2020-04-05,shot,other,62.0,M,W,Manchester,NH,False,other,no flee,False,True,60-70,2020
-5198,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5198,2020-04-05,shot,other,,M,W,Ada,OK,True,attack,no flee,False,True,,2020
 5199,2020-04-05,shot,other,39.0,M,W,Milford,MA,False,attack,no flee,False,True,30-40,2020
 5200,2020-04-05,shot,gun,67.0,M,W,Melbourne,FL,False,other,unknown,False,True,60-70,2020
 5201,2020-04-06,shot,gun,54.0,M,W,Florence,AL,False,attack,flee,False,True,50-60,2020
@@ -5212,7 +5212,7 @@
 5211,2020-04-09,shot,gun,19.0,M,B,Colonial Heights,VA,False,attack,flee,False,True,10-20,2020
 5212,2020-04-09,shot,other,36.0,M,W,Winchester,TN,False,attack,flee,False,True,30-40,2020
 5213,2020-04-09,shot,unarmed,39.0,M,W,Brandon,CO,False,attack,flee,False,True,30-40,2020
-5214,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5214,2020-04-10,shot,gun,,M,W,Klamath Falls,OR,False,attack,flee,False,True,,2020
 5215,2020-04-10,shot,unarmed,33.0,M,W,Philadelphia,PA,False,other,no flee,False,True,30-40,2020
 5216,2020-04-11,shot,other,48.0,M,,Ritzville,WA,True,other,no flee,False,True,40-50,2020
 5217,2020-04-11,shot,gun,31.0,M,B,Pottstown,PA,False,attack,no flee,False,True,30-40,2020
@@ -5221,7 +5221,7 @@
 5220,2020-04-11,shot,gun,54.0,M,W,Clackamas County,OR,False,attack,unknown,False,True,50-60,2020
 5221,2020-04-12,shot,other,35.0,M,W,Daly City,CA,True,other,flee,False,True,30-40,2020
 5222,2020-04-12,shot,gun,56.0,M,H,Pompano Beach,FL,False,attack,no flee,False,True,50-60,2020
-5223,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5223,2020-04-13,shot,other,,M,,Jackson,MS,False,attack,flee,False,True,,2020
 5224,2020-04-13,shot,gun,36.0,M,H,Lamont,CA,False,attack,flee,False,True,30-40,2020
 5225,2020-04-14,shot,gun,31.0,M,W,Old Town,ME,False,attack,no flee,False,True,30-40,2020
 5226,2020-04-15,shot,gun,33.0,M,,Hubert,NC,False,attack,no flee,False,True,30-40,2020
@@ -5232,7 +5232,7 @@
 5231,2020-04-16,shot,other,48.0,M,W,Philipsburg,MT,False,attack,no flee,False,True,40-50,2020
 5232,2020-04-16,shot,gun,28.0,M,,Jefferson City,MO,False,attack,flee,False,True,20-30,2020
 5233,2020-04-16,shot,other,31.0,M,B,Lubbock,TX,False,attack,flee,False,True,30-40,2020
-5234,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5234,2020-04-17,shot,gun,,M,B,Daphne,AL,True,attack,no flee,False,True,,2020
 5235,2020-04-17,shot,other,43.0,M,W,Anderson,SC,False,attack,unknown,False,True,40-50,2020
 5236,2020-04-18,shot,other,33.0,M,B,San Leandro,CA,True,other,no flee,False,True,30-40,2020
 5237,2020-04-18,shot,gun,37.0,M,B,Raytown,MO,False,other,no flee,False,True,30-40,2020
@@ -5269,7 +5269,7 @@
 5268,2020-05-01,shot,gun,21.0,M,B,Denver,CO,False,other,flee,True,True,20-30,2020
 5269,2020-05-01,shot,unarmed,36.0,M,W,San Diego,CA,True,other,flee,False,True,30-40,2020
 5270,2020-05-01,shot,unarmed,24.0,M,B,Seattle,WA,False,attack,flee,True,True,20-30,2020
-5271,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5271,2020-05-01,shot,other,,M,,Hialeah,FL,False,undetermined,flee,False,True,,2020
 5272,2020-05-01,shot,gun,32.0,M,B,Little Rock,AR,False,other,no flee,False,True,30-40,2020
 5273,2020-05-01,shot,gun,26.0,M,B,Lakewood,WA,False,attack,no flee,False,True,20-30,2020
 5274,2020-05-01,shot and Tasered,other,21.0,M,W,Portland,IN,True,other,no flee,True,True,20-30,2020
@@ -5307,7 +5307,7 @@
 5306,2020-05-09,shot,other,33.0,F,W,Grand Junction,CO,True,other,unknown,False,True,30-40,2020
 5307,2020-05-09,shot,gun,25.0,M,W,Greenville,SC,False,attack,flee,False,True,20-30,2020
 5308,2020-05-10,shot,other,50.0,M,W,Joshua Tree,CA,False,other,flee,False,True,40-50,2020
-5309,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5309,2020-05-11,shot,other,,M,,Laguna Niguel,CA,False,undetermined,unknown,False,True,,2020
 5310,2020-05-12,shot,gun,37.0,M,W,Deltona,FL,False,attack,flee,True,True,30-40,2020
 5311,2020-05-13,shot,gun,24.0,M,B,Raleigh,NC,False,attack,flee,False,True,20-30,2020
 5312,2020-05-14,shot,other,30.0,M,B,Houston,TX,True,attack,no flee,False,True,20-30,2020
@@ -5331,7 +5331,7 @@
 5330,2020-05-19,shot,unarmed,29.0,M,W,Sale Creek,TN,False,attack,no flee,False,True,20-30,2020
 5331,2020-05-19,shot and Tasered,other,57.0,M,B,Seattle,WA,False,undetermined,flee,True,True,50-60,2020
 5332,2020-05-19,shot,other,30.0,M,,Macon,GA,False,attack,flee,False,True,20-30,2020
-5333,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5333,2020-05-20,shot,gun,,M,,Viera,FL,True,attack,no flee,False,True,,2020
 5334,2020-05-20,shot,gun,45.0,M,B,Atmore,AL,False,other,flee,False,True,40-50,2020
 5335,2020-05-20,shot,other,23.0,M,,Hayward,CA,False,attack,flee,True,True,20-30,2020
 5336,2020-05-21,shot,gun,40.0,M,W,Phoenix,AZ,False,other,no flee,True,True,30-40,2020
@@ -5347,7 +5347,7 @@
 5346,2020-05-25,shot,unarmed,28.0,M,B,Phoenix,AZ,False,other,no flee,True,True,20-30,2020
 5347,2020-05-25,shot,other,35.0,M,A,Modesto,CA,True,attack,no flee,True,True,30-40,2020
 5348,2020-05-25,shot,other,33.0,M,W,League City,TX,False,attack,no flee,False,True,30-40,2020
-5349,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5349,2020-05-26,shot,other,,M,,Jamestown,CA,True,other,no flee,False,True,,2020
 5350,2020-05-26,shot,gun,37.0,M,W,Lansing,MI,True,attack,no flee,True,True,30-40,2020
 5351,2020-05-26,shot,other,61.0,M,,Manlius,NY,True,attack,no flee,False,True,60-70,2020
 5352,2020-05-26,shot,gun,22.0,M,H,Corpus Christi,TX,False,attack,no flee,False,True,20-30,2020
@@ -5368,7 +5368,7 @@
 5367,2020-05-28,shot,gun,35.0,M,B,North Little Rock,AR,False,other,no flee,False,True,30-40,2020
 5368,2020-05-28,shot and Tasered,other,26.0,M,W,Washington County,OR,False,other,no flee,True,True,20-30,2020
 5369,2020-05-29,shot,other,22.0,F,O,Temple Terrace,FL,True,attack,no flee,False,True,20-30,2020
-5370,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5370,2020-05-29,shot,other,,M,W,Lancaster,CA,False,attack,unknown,False,True,,2020
 5371,2020-05-29,shot,gun,32.0,M,A,San Diego,CA,False,attack,unknown,False,True,30-40,2020
 5372,2020-05-29,shot,other,35.0,M,B,Philadelphia,PA,False,other,no flee,False,True,30-40,2020
 5373,2020-05-29,shot,gun,39.0,M,B,Snellville,GA,False,attack,flee,False,True,30-40,2020
@@ -5416,7 +5416,7 @@
 5415,2020-06-17,shot,gun,31.0,M,B,Rosamond,CA,False,attack,no flee,False,True,30-40,2020
 5416,2020-06-17,shot,gun,50.0,M,W,Kennard,IN,False,attack,flee,False,True,40-50,2020
 5417,2020-06-17,shot,gun,48.0,M,W,Collinsville,MS,False,attack,no flee,False,True,40-50,2020
-5418,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5418,2020-06-17,shot and Tasered,other,,M,W,Lovelock,NV,False,attack,flee,False,True,,2020
 5419,2020-06-18,shot,gun,38.0,M,W,Westminister,CO,False,other,no flee,False,True,30-40,2020
 5420,2020-06-18,shot,gun,19.0,M,W,Billings,MT,False,attack,no flee,False,True,10-20,2020
 5421,2020-06-18,shot,gun,18.0,M,H,Gardena,CA,False,other,flee,False,True,10-20,2020
@@ -5432,7 +5432,7 @@
 5431,2020-06-23,shot,gun,43.0,M,H,Pueblo,CO,False,attack,unknown,False,True,40-50,2020
 5432,2020-06-23,shot,gun,40.0,M,W,Wasilla,AK,False,other,flee,False,True,30-40,2020
 5433,2020-06-23,shot,other,22.0,M,B,Sherman,TX,False,attack,no flee,False,True,20-30,2020
-5434,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5434,2020-06-24,shot,gun,,F,A,Lake Forest,CA,False,other,no flee,False,True,,2020
 5435,2020-06-24,shot,gun,31.0,M,B,San Bernardino,CA,False,attack,flee,False,True,30-40,2020
 5436,2020-06-25,shot,other,27.0,F,,Plano,TX,False,attack,no flee,False,True,20-30,2020
 5437,2020-06-25,shot,unarmed,34.0,M,B,Vinita,OK,False,undetermined,no flee,False,True,30-40,2020
@@ -5501,10 +5501,10 @@
 5500,2020-07-21,shot,gun,22.0,M,B,Sacramento,CA,False,attack,no flee,True,True,20-30,2020
 5501,2020-07-22,shot,gun,49.0,F,W,Largo,FL,False,attack,flee,False,True,40-50,2020
 5502,2020-07-22,shot,gun,37.0,M,W,Waukesha,WI,True,other,no flee,False,True,30-40,2020
-5503,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5503,2020-07-23,shot,gun,,M,B,Detroit,MI,False,attack,flee,True,True,,2020
 5504,2020-07-23,shot,gun,51.0,M,W,Eureka,CA,True,attack,no flee,True,True,50-60,2020
 5505,2020-07-24,shot,other,61.0,M,B,Stockton,CA,False,attack,no flee,True,True,60-70,2020
-5506,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5506,2020-07-24,shot,other,,M,,West Kendall,FL,False,other,flee,False,True,,2020
 5507,2020-07-24,shot,gun,45.0,M,B,Roxboro,NC,True,attack,no flee,False,True,40-50,2020
 5508,2020-07-24,shot,gun,41.0,M,W,Baytown,TX,True,attack,unknown,False,True,40-50,2020
 5509,2020-07-25,shot,other,49.0,M,W,The Village,OK,False,other,no flee,True,True,40-50,2020
@@ -5521,7 +5521,7 @@
 5520,2020-07-30,shot,gun,39.0,M,H,Mission,TX,False,attack,no flee,False,True,30-40,2020
 5521,2020-07-30,shot and Tasered,other,28.0,M,B,Detroit,MI,True,attack,no flee,False,True,20-30,2020
 5522,2020-07-31,shot,gun,49.0,M,,Morristown,TN,False,attack,no flee,False,True,40-50,2020
-5523,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5523,2020-07-31,shot,other,,M,,Brunswick,OH,True,other,no flee,False,True,,2020
 5524,2020-08-01,shot,gun,56.0,M,W,Miami,FL,False,attack,no flee,False,True,50-60,2020
 5525,2020-08-02,shot,gun,38.0,M,W,Mooresville,NC,True,attack,unknown,False,True,30-40,2020
 5526,2020-08-02,shot,gun,17.0,M,W,West Jordan,UT,False,attack,no flee,False,True,10-20,2020
@@ -5559,8 +5559,8 @@
 5558,2020-08-11,shot,other,48.0,M,W,Rogers County,OK,False,attack,flee,False,True,40-50,2020
 5559,2020-08-12,shot,other,31.0,M,W,Reseda,CA,False,other,no flee,True,True,30-40,2020
 5560,2020-08-13,shot,gun,39.0,M,H,Phoenix,AZ,False,attack,no flee,False,True,30-40,2020
-5561,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
-5562,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5561,2020-08-14,shot,gun,,M,W,Dania Beach,FL,False,attack,unknown,False,True,,2020
+5562,2020-08-14,shot,other,,M,,North Miami,FL,False,attack,no flee,False,True,,2020
 5563,2020-08-15,shot,other,41.0,M,W,Oak Ridge,TN,False,other,no flee,False,True,40-50,2020
 5564,2020-08-15,shot,gun,32.0,M,B,Pasadena,CA,False,other,flee,True,True,30-40,2020
 5565,2020-08-15,shot,gun,51.0,M,W,Marion County,FL,False,attack,unknown,False,True,50-60,2020
@@ -5580,7 +5580,7 @@
 5579,2020-08-19,shot,gun,60.0,M,W,Chickamauga,GA,False,attack,unknown,False,True,50-60,2020
 5580,2020-08-19,shot,gun,39.0,M,H,Lake Havasu City,AZ,False,attack,no flee,False,True,30-40,2020
 5581,2020-08-19,shot,gun,21.0,M,H,San Benito,TX,False,attack,no flee,False,True,20-30,2020
-5582,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5582,2020-08-19,shot,gun,,M,,Bay City,TX,False,attack,flee,False,True,,2020
 5583,2020-08-20,shot,gun,43.0,M,W,Wimberley,TX,True,attack,flee,False,True,40-50,2020
 5584,2020-08-20,shot,gun,37.0,M,W,Cabot,AR,True,other,flee,False,True,30-40,2020
 5585,2020-08-21,shot,other,39.0,M,B,Asbury Park,NJ,False,other,unknown,False,True,30-40,2020
@@ -5589,7 +5589,7 @@
 5588,2020-08-22,shot,gun,29.0,M,B,Rancho Cordova,CA,True,attack,flee,False,True,20-30,2020
 5589,2020-08-22,shot,other,35.0,M,N,Belcourt,ND,False,undetermined,unknown,False,True,30-40,2020
 5590,2020-08-23,shot,other,47.0,M,B,Kingsland,GA,False,attack,no flee,False,True,40-50,2020
-5591,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5591,2020-08-24,shot,gun,,M,H,Albuquerque,NM,False,attack,unknown,False,True,,2020
 5592,2020-08-24,shot,gun,31.0,M,W,Lincoln County,NC,False,attack,no flee,False,True,30-40,2020
 5593,2020-08-25,shot,gun,30.0,M,W,Barbourville,KY,False,attack,no flee,False,True,20-30,2020
 5594,2020-08-25,shot,gun,47.0,M,W,Eckford Township,MI,False,attack,no flee,False,True,40-50,2020
@@ -5628,21 +5628,21 @@
 5627,2020-09-09,shot,gun,47.0,M,W,McCracken County,KY,False,attack,flee,False,True,40-50,2020
 5628,2020-09-09,shot,other,41.0,M,N,Denver,CO,False,attack,no flee,False,True,40-50,2020
 5629,2020-09-10,shot,gun,18.0,M,B,Norcross,GA,False,attack,flee,False,True,10-20,2020
-5630,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5630,2020-09-10,shot,gun,,M,W,Henderson County,NC,False,attack,no flee,False,True,,2020
 5631,2020-09-10,shot,gun,49.0,M,B,Moscow,TN,False,attack,no flee,False,True,40-50,2020
 5632,2020-09-10,shot,gun,41.0,M,H,Los Angeles,CA,False,attack,no flee,False,True,40-50,2020
 5633,2020-09-10,shot,gun,48.0,M,W,Fayetteville,NC,False,other,unknown,False,True,40-50,2020
 5634,2020-09-11,shot,gun,31.0,M,,Spokane,WA,False,attack,flee,False,True,30-40,2020
 5635,2020-09-12,shot,gun,88.0,M,B,West Sacramento,CA,True,other,no flee,True,True,80-90,2020
-5636,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5636,2020-09-12,shot,gun,,M,H,Denver,CO,True,attack,flee,False,True,,2020
 5637,2020-09-13,shot,other,27.0,M,H,Lancaster,PA,True,other,no flee,True,True,20-30,2020
 5638,2020-09-15,shot,gun,27.0,M,W,Bountiful,UT,True,attack,no flee,False,True,20-30,2020
-5639,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5639,2020-09-15,shot,gun,,M,W,Denver,CO,False,attack,no flee,False,True,,2020
 5640,2020-09-15,shot,gun,55.0,M,B,San Antonio,TX,False,attack,no flee,True,True,50-60,2020
 5641,2020-09-17,shot,other,37.0,M,H,Immokalee,FL,False,other,no flee,False,True,30-40,2020
 5642,2020-09-18,shot,gun,45.0,M,W,West Des Moines,IA,True,other,no flee,False,True,40-50,2020
 5643,2020-09-18,shot,other,39.0,M,,Redlands,CA,False,attack,unknown,False,True,30-40,2020
-5644,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5644,2020-09-18,shot,other,,M,A,Stanton,CA,False,undetermined,flee,False,True,,2020
 5645,2020-09-18,shot,other,41.0,M,W,West Odessa,TX,False,undetermined,unknown,False,True,40-50,2020
 5646,2020-09-18,shot,gun,46.0,M,W,Lakewood,CO,False,attack,flee,False,True,40-50,2020
 5647,2020-09-18,shot,gun,22.0,M,W,Midvale,UT,False,attack,flee,False,True,20-30,2020
@@ -5651,7 +5651,7 @@
 5650,2020-09-19,shot,gun,52.0,M,B,Talking Rock,GA,False,attack,unknown,False,True,50-60,2020
 5651,2020-09-20,shot,gun,39.0,F,W,Redmond,WA,False,other,no flee,False,True,30-40,2020
 5652,2020-09-21,shot,gun,26.0,M,B,St. Louis,MO,False,attack,flee,False,True,20-30,2020
-5653,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5653,2020-09-21,shot,other,,M,H,Nogales,AZ,False,attack,unknown,False,True,,2020
 5654,2020-09-21,shot,gun,28.0,M,B,Atlanta,GA,False,other,no flee,False,True,20-30,2020
 5655,2020-09-21,shot and Tasered,other,40.0,F,W,Athens,GA,True,other,no flee,True,True,30-40,2020
 5656,2020-09-22,shot,gun,30.0,M,W,Geneseo,IL,False,attack,flee,False,True,20-30,2020
@@ -5668,7 +5668,7 @@
 5667,2020-09-29,shot,gun,27.0,M,W,St. Cloud,MN,False,other,flee,False,True,20-30,2020
 5668,2020-09-30,shot,other,27.0,M,B,Decatur,GA,False,undetermined,no flee,False,True,20-30,2020
 5669,2020-09-30,shot,gun,41.0,M,W,Manhattan,KS,True,attack,no flee,True,True,40-50,2020
-5670,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5670,2020-10-01,shot,gun,,M,,Whitby,WV,False,attack,flee,False,True,,2020
 5671,2020-10-02,shot,gun,38.0,M,W,Tallahassee,FL,False,attack,no flee,False,True,30-40,2020
 5672,2020-10-02,shot,unarmed,39.0,M,B,Mojave,CA,False,other,flee,False,True,30-40,2020
 5673,2020-10-02,shot,gun,33.0,M,H,Longview,WA,False,other,flee,False,True,30-40,2020
@@ -5707,22 +5707,22 @@
 5706,2020-10-14,shot and Tasered,other,45.0,M,N,Cookson,OK,False,attack,no flee,False,True,40-50,2020
 5707,2020-10-15,shot,gun,48.0,M,W,Clearfield,PA,False,other,flee,False,True,40-50,2020
 5708,2020-10-15,shot,gun,47.0,M,B,Los Angeles,CA,False,other,flee,False,True,40-50,2020
-5709,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5709,2020-10-16,shot,gun,,M,,Sioux Falls,SD,False,attack,no flee,False,True,,2020
 5710,2020-10-16,shot,gun,57.0,M,H,Huntsville,AL,False,attack,no flee,False,True,50-60,2020
 5711,2020-10-16,shot,gun,25.0,M,B,Los Angeles,CA,False,attack,flee,True,True,20-30,2020
 5712,2020-10-16,shot,gun,27.0,M,B,Rock Island,IL,False,attack,flee,True,True,20-30,2020
 5713,2020-10-16,shot,gun,46.0,M,W,Riesel,TX,False,attack,flee,False,True,40-50,2020
-5714,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5714,2020-10-16,shot,other,,M,W,Callahan,FL,True,attack,no flee,False,True,,2020
 5715,2020-10-17,shot,gun,49.0,M,,Laguna,NM,False,attack,flee,False,True,40-50,2020
 5716,2020-10-17,shot,gun,53.0,M,W,Muhlenberg County,KY,True,attack,no flee,False,True,50-60,2020
 5717,2020-10-17,shot,unarmed,21.0,M,W,Wood County,WV,False,attack,no flee,False,True,20-30,2020
 5718,2020-10-17,shot,gun,41.0,M,W,Huntsville,AL,True,attack,no flee,False,True,40-50,2020
-5719,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5719,2020-10-18,shot,gun,,M,,Sunrise,FL,True,attack,no flee,False,True,,2020
 5720,2020-10-18,shot,gun,32.0,M,W,Fresno,CA,False,attack,flee,False,True,30-40,2020
 5721,2020-10-18,shot,gun,37.0,M,A,Tooele,UT,False,other,no flee,False,True,30-40,2020
 5722,2020-10-18,shot,gun,43.0,M,W,Catoosa County,GA,False,attack,flee,False,True,40-50,2020
 5723,2020-10-19,shot,gun,43.0,M,,South Milwaukee,WI,True,attack,no flee,False,True,40-50,2020
-5724,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5724,2020-10-19,shot,gun,,M,W,Emmitsburg,MD,False,attack,flee,False,True,,2020
 5725,2020-10-19,shot,other,37.0,M,,Thornton,NH,False,undetermined,no flee,False,True,30-40,2020
 5726,2020-10-19,shot and Tasered,other,46.0,M,W,Coram,NY,False,other,unknown,False,True,40-50,2020
 5727,2020-10-19,shot and Tasered,other,39.0,M,H,San Diego,CA,True,attack,no flee,True,True,30-40,2020
@@ -5730,7 +5730,7 @@
 5729,2020-10-20,shot,gun,43.0,M,H,Phoenix,AZ,True,attack,no flee,True,True,40-50,2020
 5730,2020-10-20,shot,gun,48.0,M,B,Elmwood Place,OH,False,attack,no flee,False,True,40-50,2020
 5731,2020-10-20,shot,gun,61.0,M,W,Spring Hill,FL,False,attack,no flee,False,True,60-70,2020
-5732,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5732,2020-10-20,shot,gun,,M,,Perdido Key,FL,True,attack,no flee,False,True,,2020
 5733,2020-10-20,shot,unarmed,44.0,M,H,Phoenix,AZ,False,other,no flee,True,True,40-50,2020
 5734,2020-10-20,shot,gun,26.0,M,B,Tampa,FL,True,other,no flee,True,True,20-30,2020
 5735,2020-10-21,shot,other,45.0,M,B,Moss Point,MS,False,attack,no flee,False,True,40-50,2020
@@ -5742,14 +5742,14 @@
 5741,2020-10-22,shot,gun,35.0,M,W,Barstow,CA,False,attack,flee,False,True,30-40,2020
 5742,2020-10-23,shot,gun,62.0,M,,Goodman,WI,False,attack,flee,False,True,60-70,2020
 5743,2020-10-23,shot,gun,25.0,M,H,Chicago,IL,False,attack,flee,False,True,20-30,2020
-5744,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5744,2020-10-23,shot,gun,,M,W,Huntsville,UT,False,attack,no flee,False,True,,2020
 5745,2020-10-23,shot,gun,26.0,M,B,Kansas City,MO,False,attack,flee,False,True,20-30,2020
-5746,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5746,2020-10-23,shot,gun,,M,,Loma Linda,CA,False,attack,flee,False,True,,2020
 5747,2020-10-23,shot,unarmed,30.0,M,H,San Ysidro,CA,False,attack,no flee,False,True,20-30,2020
-5748,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5748,2020-10-23,shot,other,,M,,Laredo,TX,False,attack,no flee,False,True,,2020
 5749,2020-10-24,shot,other,33.0,M,W,Lawrenceburg,IN,False,attack,no flee,False,True,30-40,2020
 5750,2020-10-24,shot,gun,19.0,M,B,Sylvester,GA,False,attack,flee,False,True,10-20,2020
-5751,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5751,2020-10-24,shot,gun,,M,,Warren,MI,False,attack,no flee,False,True,,2020
 5752,2020-10-24,shot,other,35.0,M,,Garden City,MO,False,attack,no flee,False,True,30-40,2020
 5753,2020-10-25,shot,other,53.0,M,W,Phoenix,AZ,False,attack,no flee,False,True,50-60,2020
 5754,2020-10-26,shot,other,27.0,M,B,Philadelphia,PA,True,other,no flee,True,True,20-30,2020
@@ -5809,7 +5809,7 @@
 5808,2020-11-11,shot,gun,37.0,M,B,Oklahoma City,OK,False,attack,flee,False,True,30-40,2020
 5809,2020-11-11,shot,gun,52.0,M,W,Winchester,VA,True,attack,no flee,True,True,50-60,2020
 5810,2020-11-12,shot,gun,39.0,M,,Philadelphia,PA,False,attack,flee,True,True,30-40,2020
-5811,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5811,2020-11-12,shot,gun,,M,W,Gulfport,MS,True,attack,no flee,False,True,,2020
 5812,2020-11-13,shot,other,18.0,M,B,Cocoa,FL,False,other,no flee,False,True,10-20,2020
 5813,2020-11-13,shot,other,16.0,M,B,Cocoa,FL,False,other,flee,False,True,10-20,2020
 5814,2020-11-13,shot,gun,19.0,M,B,Cleveland,OH,False,attack,unknown,False,True,10-20,2020
@@ -5834,7 +5834,7 @@
 5833,2020-11-19,shot,gun,30.0,M,W,Lawton,OK,False,other,unknown,False,True,20-30,2020
 5834,2020-11-20,shot,other,27.0,M,W,Tangipahoa Parish,LA,False,undetermined,unknown,False,True,20-30,2020
 5835,2020-11-20,shot,gun,43.0,M,W,Evansville,IN,False,attack,flee,False,True,40-50,2020
-5836,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5836,2020-11-20,shot,other,,M,,Upper Darby,PA,False,attack,flee,False,True,,2020
 5837,2020-11-21,shot,gun,25.0,M,W,New Smyrna Beach,FL,False,attack,flee,True,True,20-30,2020
 5838,2020-11-21,shot,gun,75.0,M,,Oro Valley,AZ,True,other,no flee,False,True,70-80,2020
 5839,2020-11-21,shot,gun,34.0,F,W,Ohatchee,AL,False,attack,no flee,True,True,30-40,2020
@@ -5847,7 +5847,7 @@
 5846,2020-11-26,shot,gun,62.0,M,B,Culpeper,VA,False,other,no flee,False,True,60-70,2020
 5847,2020-11-26,shot,other,31.0,M,H,Lubbock,TX,False,undetermined,unknown,False,True,30-40,2020
 5848,2020-11-27,shot,gun,74.0,M,W,Marinette County,WI,False,other,flee,False,True,70-80,2020
-5849,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5849,2020-11-27,shot,gun,,M,,Wilsonville,OR,True,other,unknown,False,True,,2020
 5850,2020-11-29,shot,gun,43.0,M,B,Houma,LA,True,attack,no flee,False,True,40-50,2020
 5851,2020-11-29,shot,gun,32.0,M,B,Fayette County,GA,True,attack,no flee,False,True,30-40,2020
 5852,2020-11-30,shot,gun,33.0,M,B,Phoenix,AZ,True,attack,no flee,True,True,30-40,2020
@@ -5865,7 +5865,7 @@
 5864,2020-12-04,shot,gun,35.0,M,B,New York,NY,False,attack,no flee,False,True,30-40,2020
 5865,2020-12-04,shot,gun,60.0,M,W,Tonopah,AZ,False,attack,unknown,False,True,50-60,2020
 5866,2020-12-05,shot,other,67.0,M,W,Savannah,GA,False,other,no flee,False,True,60-70,2020
-5867,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5867,2020-12-05,shot,gun,,M,B,Toledo,OH,True,attack,no flee,True,True,,2020
 5868,2020-12-05,shot and Tasered,other,19.0,M,W,Mountain Iron,MN,True,attack,flee,False,True,10-20,2020
 5869,2020-12-06,shot,other,28.0,M,H,Rowland Heights,CA,False,attack,flee,False,True,20-30,2020
 5870,2020-12-06,shot,other,28.0,M,B,St. Louis,MO,False,other,no flee,False,True,20-30,2020
@@ -5890,7 +5890,7 @@
 5889,2020-12-13,shot,other,26.0,M,W,Sacramento,CA,True,other,no flee,False,True,20-30,2020
 5890,2020-12-14,shot,gun,34.0,M,W,Houston,TX,True,other,flee,False,True,30-40,2020
 5891,2020-12-14,shot,gun,46.0,M,,Farmington,NM,False,attack,flee,False,True,40-50,2020
-5892,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5892,2020-12-15,shot,gun,,M,W,Pearland,TX,False,attack,unknown,False,True,,2020
 5893,2020-12-16,shot,gun,29.0,M,B,Concord,NC,False,attack,flee,False,True,20-30,2020
 5894,2020-12-16,shot,gun,34.0,M,W,Orlando,FL,False,attack,no flee,False,True,30-40,2020
 5895,2020-12-17,shot,gun,33.0,M,W,Sevierville,TN,False,other,flee,False,True,30-40,2020
@@ -5902,7 +5902,7 @@
 5901,2020-12-18,shot,other,65.0,M,,Lucerne Valley,CA,False,attack,flee,False,True,60-70,2020
 5902,2020-12-18,shot and Tasered,other,38.0,M,W,Oshtemo Township,MI,True,other,no flee,False,True,30-40,2020
 5903,2020-12-19,shot,gun,32.0,M,H,Los Angeles,CA,False,attack,no flee,False,True,30-40,2020
-5904,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5904,2020-12-20,shot,gun,,M,,Bakersfield,CA,True,attack,flee,True,True,,2020
 5905,2020-12-20,shot,unarmed,34.0,M,W,Anchorage,AK,False,undetermined,flee,False,True,30-40,2020
 5906,2020-12-21,shot,other,50.0,M,H,Wichita,KS,False,other,flee,False,True,40-50,2020
 5907,2020-12-22,shot,unarmed,47.0,M,B,Columbus,OH,False,undetermined,no flee,True,True,40-50,2020
@@ -5912,7 +5912,7 @@
 5911,2020-12-24,shot,other,39.0,M,W,Oakland,TN,False,attack,no flee,False,True,30-40,2020
 5912,2020-12-24,shot,other,39.0,F,W,Redding,CA,True,other,flee,False,True,30-40,2020
 5913,2020-12-25,shot,gun,43.0,M,H,Philadelphia,PA,False,attack,no flee,True,True,40-50,2020
-5914,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5914,2020-12-25,shot,other,,M,H,Rio Rico,AZ,False,attack,flee,False,True,,2020
 5915,2020-12-25,shot,gun,31.0,M,,Houston,TX,False,attack,no flee,False,True,30-40,2020
 5916,2020-12-26,shot,gun,30.0,M,B,Hartford,CT,True,attack,no flee,True,True,20-30,2020
 5917,2020-12-27,shot,gun,40.0,M,W,Lewiston,WA,False,other,no flee,False,True,30-40,2020
@@ -5922,7 +5922,7 @@
 5921,2020-12-28,shot,other,28.0,M,H,Brockton,MA,False,other,no flee,False,True,20-30,2020
 5922,2020-12-28,shot,gun,31.0,F,,Warrenton,OR,False,attack,no flee,False,True,30-40,2020
 5923,2020-12-28,shot,gun,47.0,M,B,Denver,CO,False,attack,flee,False,True,40-50,2020
-5924,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2020
+5924,2020-12-28,shot,gun,,M,,Holyoke,CO,False,attack,flee,False,True,,2020
 5925,2020-12-28,shot,unarmed,30.0,M,W,Phoenix,AZ,False,other,flee,True,True,20-30,2020
 5926,2020-12-29,shot,other,18.0,M,H,New York,NY,False,attack,no flee,False,True,10-20,2020
 5927,2020-12-29,shot,gun,18.0,M,B,Atlanta,GA,False,attack,no flee,False,True,10-20,2020
@@ -5942,7 +5942,7 @@
 5941,2021-01-03,shot,gun,27.0,M,B,Homestead,FL,False,attack,flee,False,True,20-30,2021
 5942,2021-01-03,shot,other,49.0,M,H,Ontario,OR,False,other,no flee,False,True,40-50,2021
 5943,2021-01-04,shot,other,28.0,M,,Payson,AZ,False,other,no flee,False,True,20-30,2021
-5944,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+5944,2021-01-04,shot,other,,F,,Columbiana,AL,False,attack,no flee,False,True,,2021
 5945,2021-01-05,shot,other,28.0,M,W,Newton,MA,True,other,no flee,False,True,20-30,2021
 5946,2021-01-05,shot,gun,18.0,M,B,Cleveland,OH,False,other,flee,True,True,10-20,2021
 5947,2021-01-05,shot,gun,36.0,M,,Spokane,WA,False,attack,unknown,False,True,30-40,2021
@@ -5961,7 +5961,7 @@
 5960,2021-01-10,shot,gun,18.0,M,,Goochland County,VA,False,attack,flee,False,True,10-20,2021
 5961,2021-01-10,shot,other,48.0,M,W,Altadena,CA,False,attack,no flee,False,True,40-50,2021
 5962,2021-01-11,shot,gun,49.0,M,,North Topeka,KS,True,attack,flee,False,True,40-50,2021
-5963,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+5963,2021-01-11,shot,other,,M,,Edinburg,TX,False,attack,no flee,False,True,,2021
 5964,2021-01-11,shot,other,45.0,M,W,Warrenville,SC,False,other,no flee,False,True,40-50,2021
 5965,2021-01-11,shot,gun,31.0,M,,Liberty Township,OH,False,attack,no flee,False,True,30-40,2021
 5966,2021-01-12,shot,gun,32.0,M,,Lakewood,CO,False,attack,flee,False,True,30-40,2021
@@ -5971,7 +5971,7 @@
 5970,2021-01-13,shot,gun,43.0,M,W,Visalia,CA,False,attack,no flee,False,True,40-50,2021
 5971,2021-01-14,shot,gun,36.0,M,,Chesterfield,VA,False,attack,no flee,False,True,30-40,2021
 5972,2021-01-14,shot,other,26.0,M,W,Cherokee County,TX,False,undetermined,unknown,False,True,20-30,2021
-5973,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+5973,2021-01-15,shot,gun,,M,,El Paso,TX,False,other,unknown,False,True,,2021
 5974,2021-01-15,shot,other,48.0,M,,Biloxi,MS,False,other,no flee,False,True,40-50,2021
 5975,2021-01-15,shot,gun,24.0,M,B,Carmichael,CA,False,attack,no flee,False,True,20-30,2021
 5976,2021-01-16,shot,gun,65.0,M,,Prescott Valley,AZ,True,attack,unknown,False,True,60-70,2021
@@ -5985,32 +5985,32 @@
 5984,2021-01-20,shot,other,38.0,M,H,Fresno,CA,False,attack,no flee,True,True,30-40,2021
 5985,2021-01-20,shot,gun,21.0,M,,Birmingham,AL,False,attack,flee,False,True,20-30,2021
 5986,2021-01-20,shot,unarmed,19.0,M,,Tucson,AZ,False,attack,flee,False,True,10-20,2021
-5987,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+5987,2021-01-21,shot,other,,M,,New York,NY,False,other,no flee,False,True,,2021
 5988,2021-01-21,shot,gun,33.0,M,W,College Station,TX,False,other,no flee,False,True,30-40,2021
 5989,2021-01-21,shot,other,27.0,M,H,San Jose,CA,False,other,unknown,False,True,20-30,2021
 5990,2021-01-21,shot,other,34.0,M,,Caneyville,KY,False,other,no flee,False,True,30-40,2021
-5991,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+5991,2021-01-22,shot,other,,M,,Homosassa,FL,False,other,no flee,False,True,,2021
 5992,2021-01-24,shot,other,38.0,M,,Wichita Falls,TX,False,attack,flee,False,True,30-40,2021
 5993,2021-01-24,shot and Tasered,other,43.0,M,W,Slidell,LA,True,attack,unknown,False,True,40-50,2021
-5994,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+5994,2021-01-25,shot,other,,M,,Graham,WA,False,other,unknown,False,True,,2021
 5995,2021-01-26,shot,other,61.0,M,,Vacaville,CA,False,attack,flee,False,True,60-70,2021
-5996,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
-5997,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+5996,2021-01-26,shot,gun,,M,,Homeland,CA,False,attack,unknown,False,True,,2021
+5997,2021-01-26,shot,other,,F,W,Adams County,CO,False,undetermined,flee,False,True,,2021
 5998,2021-01-26,shot,gun,48.0,M,H,San Antonio,TX,False,attack,flee,False,True,40-50,2021
 5999,2021-01-26,shot and Tasered,other,37.0,M,W,Mobile,AL,False,other,flee,True,True,30-40,2021
 6000,2021-01-27,shot,gun,26.0,M,H,San Antonio,TX,False,other,flee,True,True,20-30,2021
 6001,2021-01-29,shot,gun,60.0,M,H,La Quinta,CA,False,attack,no flee,False,True,50-60,2021
-6002,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+6002,2021-01-30,shot,other,,M,,Shepherdsville,KY,False,attack,flee,False,True,,2021
 6003,2021-01-30,shot,gun,61.0,M,,Paradise Valley,AZ,False,other,no flee,False,True,60-70,2021
 6004,2021-01-31,shot,gun,29.0,M,B,Dixon,CA,False,attack,no flee,False,True,20-30,2021
-6005,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+6005,2021-01-31,shot,gun,,M,,Albuquerque,NM,False,attack,flee,True,True,,2021
 6006,2021-01-31,shot,gun,39.0,M,,Broken Bow,OK,False,attack,no flee,False,True,30-40,2021
 6007,2021-01-31,shot,gun,60.0,M,W,Carmel,IN,True,attack,no flee,True,True,50-60,2021
 6008,2021-02-01,shot,other,34.0,M,,Tucson,AZ,False,attack,flee,False,True,30-40,2021
 6009,2021-02-01,shot,unarmed,58.0,M,W,Caroline County,VA,False,undetermined,no flee,False,True,50-60,2021
 6010,2021-02-01,shot,gun,57.0,M,W,Snyder,TX,False,attack,unknown,False,True,50-60,2021
 6011,2021-02-02,shot,other,19.0,M,W,East Peoria,IL,False,attack,flee,False,True,10-20,2021
-6012,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+6012,2021-02-02,shot,other,,M,,Meridian,MS,False,other,flee,False,True,,2021
 6013,2021-02-02,shot,gun,52.0,M,,Franklinton,NC,False,other,no flee,False,True,50-60,2021
 6014,2021-02-03,shot,gun,39.0,M,H,Deming,NM,False,attack,flee,False,True,30-40,2021
 6015,2021-02-03,shot,gun,30.0,M,W,Kewaskum,WI,False,attack,flee,False,True,20-30,2021
@@ -6022,8 +6022,8 @@
 6021,2021-02-04,shot,gun,34.0,M,B,High Point,NC,False,attack,no flee,False,True,30-40,2021
 6022,2021-02-04,shot,unarmed,30.0,M,B,Hazel Dell,WA,False,attack,no flee,False,True,20-30,2021
 6023,2021-02-04,shot and Tasered,other,33.0,F,W,Alta Sierra,CA,True,attack,unknown,False,True,30-40,2021
-6024,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
-6025,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+6024,2021-02-05,shot,gun,,M,,Ogden,UT,False,other,flee,False,True,,2021
+6025,2021-02-05,shot,gun,,M,B,Martinsville,VA,False,attack,no flee,True,True,,2021
 6026,2021-02-05,shot,gun,36.0,M,,Stratford,CT,False,attack,no flee,True,True,30-40,2021
 6027,2021-02-05,shot and Tasered,other,25.0,M,B,Trotwood,OH,False,other,flee,False,True,20-30,2021
 6028,2021-02-06,shot,gun,26.0,M,,Long Beach,CA,False,attack,unknown,True,True,20-30,2021
@@ -6048,21 +6048,21 @@
 6047,2021-02-11,shot,gun,29.0,M,,Hot Spring,AR,False,attack,flee,False,True,20-30,2021
 6048,2021-02-11,shot,other,32.0,M,,Waterville,ME,False,other,flee,False,True,30-40,2021
 6049,2021-02-11,shot,other,44.0,M,W,Russellville,KY,False,attack,no flee,False,True,40-50,2021
-6050,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
-6051,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+6050,2021-02-12,shot,gun,,M,,Coral Gables,FL,False,attack,unknown,False,True,,2021
+6051,2021-02-13,shot,gun,,M,,Pocatello,ID,False,attack,flee,False,True,,2021
 6052,2021-02-14,shot,gun,32.0,M,,El Paso,TX,True,other,flee,False,True,30-40,2021
 6053,2021-02-15,shot,other,50.0,M,,Rexburg,ID,False,other,unknown,False,True,40-50,2021
-6054,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+6054,2021-02-15,shot,other,,M,,El Monte,CA,False,attack,flee,False,True,,2021
 6055,2021-02-15,shot,gun,33.0,M,W,Indian Wells,CA,False,other,flee,False,True,30-40,2021
-6056,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+6056,2021-02-16,shot,other,,M,,Seattle,WA,True,other,flee,True,True,,2021
 6057,2021-02-16,shot,gun,51.0,M,H,Miami,FL,False,other,no flee,False,True,50-60,2021
-6058,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+6058,2021-02-18,shot,gun,,M,,Greer,SC,False,attack,no flee,False,True,,2021
 6059,2021-02-18,shot,unarmed,37.0,M,,Athens,GA,False,undetermined,flee,False,True,30-40,2021
 6060,2021-02-19,shot,other,34.0,M,,Chillicothe,MO,True,attack,no flee,False,True,30-40,2021
 6061,2021-02-20,shot,gun,57.0,M,,Villa Hills,KY,False,attack,flee,False,True,50-60,2021
 6062,2021-02-20,shot,other,40.0,M,,Albuquerque,NM,True,attack,flee,False,True,30-40,2021
 6063,2021-02-20,shot,gun,38.0,M,W,Lonoke,AR,False,attack,flee,False,True,30-40,2021
 6064,2021-02-20,shot,gun,30.0,F,W,Lincoln,NE,False,attack,flee,False,True,20-30,2021
-6065,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
-6066,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,2021
+6065,2021-02-21,shot,gun,,M,,Braham,MN,False,attack,flee,False,True,,2021
+6066,2021-02-21,shot,other,,M,,Anoka,MN,False,other,flee,False,True,,2021
 6067,2021-02-22,shot,gun,30.0,M,W,McDowell County,NC,False,attack,unknown,False,True,20-30,2021
