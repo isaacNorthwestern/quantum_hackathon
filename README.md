@@ -21,6 +21,8 @@ Our initial data exploration and analysis uncovered mental-health, socio-economi
 
 ## Sources
 
- - Kaggle data: Fatal Police Shootings in the US and the original source, (WaPo data on police shootings)[https://github.com/washingtonpost/data-police-shootings]
- - Police agency-level data from (Campaign Zero Nationwide Police Scorecard Data)[https://drive.google.com/drive/folders/1iivJXgHgyXF9RR-wKYLnpXwXRCGVXlpE]
- - Educational attainment for the U.S., States, and counties, 1970-2019, Economic Research Service of the U.S. Department of Agriculture [https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/]
+ - Kaggle data: Fatal Police Shootings in the US and the original source, [WaPo data on police shootings](https://github.com/washingtonpost/data-police-shootings)
+
+ - Police agency-level data from [Campaign Zero Nationwide Police Scorecard Data](https://drive.google.com/drive/folders/1iivJXgHgyXF9RR-wKYLnpXwXRCGVXlpE)
+
+ - Educational attainment for the U.S., States, and counties, 1970-2019, [Economic Research Service of the U.S. Department of Agriculture](https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/)
