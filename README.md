@@ -18,6 +18,7 @@ Our initial data exploration and analysis uncovered mental-health, socio-economi
  - @TiffanyKe888
  - @isaacNorthwestern
  - @lcgenereux13
+ - @matthewko1698
 
 ## Sources
 
